@@ -1,0 +1,29 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <NoTarget>${name} (${main_job}${main_job_level}/${sub_job}${sub_job_level}) (${x},${y},${z})</NoTarget>
+        <TargetMOB>${name}</TargetMOB>
+        <TargetNPC>${name}</TargetNPC>
+        <TargetPC>${name}</TargetPC>
+        <display>
+            <bg>
+                <alpha>102</alpha>
+                <blue>0</blue>
+                <green>0</green>
+                <red>0</red>
+            </bg>
+            <pos>
+                <x>0</x>
+                <y>0</y>
+            </pos>
+            <text>
+                <alpha>255</alpha>
+                <blue>255</blue>
+                <font>Consolas</font>
+                <green>255</green>
+                <red>255</red>
+                <size>12</size>
+            </text>
+        </display>
+    </global>
+</settings>
