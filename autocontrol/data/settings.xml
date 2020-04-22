@@ -1,0 +1,131 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <AutoActivate>true</AutoActivate>
+        <AutoDeusExAutomata>false</AutoDeusExAutomata>
+        <autosets>
+            <-pdt>
+                <frame>valoredge frame</frame>
+                <head>soulsoother head</head>
+                <slot01>strobe ii</slot01>
+                <slot02>strobe</slot02>
+                <slot03>turbo charger ii</slot03>
+                <slot04>coiler ii</slot04>
+                <slot05>barrier module</slot05>
+                <slot06>tension spring v</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>shock absorber iii</slot08>
+                <slot09>flashbulb</slot09>
+                <slot10>armor plate iv</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </-pdt>
+            <default>
+
+            </default>
+            <hast>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>speedloader</slot03>
+                <slot04>speedloader ii</slot04>
+                <slot05>tension spring ii</slot05>
+                <slot06>turbo charger</slot06>
+                <slot07>auto-repair kit iii</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>coiler ii</slot09>
+                <slot10>coiler</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </hast>
+            <od>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>coiler</slot03>
+                <slot04>speedloader</slot04>
+                <slot05>attuner</slot05>
+                <slot06>turbo charger</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>coiler ii</slot09>
+                <slot10>speedloader ii</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </od>
+            <petws>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>speedloader</slot03>
+                <slot04>speedloader ii</slot04>
+                <slot05>tension spring ii</slot05>
+                <slot06>turbo charger</slot06>
+                <slot07>auto-repair kit iii</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>coiler ii</slot09>
+                <slot10>coiler</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </petws>
+            <sc>
+                <frame>harlequin frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>armor plate iv</slot03>
+                <slot04>mana jammer iv</slot04>
+                <slot05>target marker</slot05>
+                <slot06>turbo charger</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>coiler ii</slot09>
+                <slot10>stabilizer iv</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </sc>
+        </autosets>
+        <bg>
+            <alpha>255</alpha>
+            <blue>0</blue>
+            <green>0</green>
+            <red>0</red>
+            <visible>true</visible>
+        </bg>
+        <burdentracker>true</burdentracker>
+        <flags>
+            <bold>false</bold>
+            <bottom>false</bottom>
+            <draggable>true</draggable>
+            <italic>false</italic>
+            <right>false</right>
+        </flags>
+        <maneuvertimers>true</maneuvertimers>
+        <padding>0</padding>
+        <pos>
+            <x>1188</x>
+            <y>653</y>
+        </pos>
+        <text>
+            <alpha>255</alpha>
+            <blue>255</blue>
+            <font>Consolas</font>
+            <fonts>
+
+            </fonts>
+            <green>255</green>
+            <red>255</red>
+            <size>10</size>
+            <stroke>
+                <alpha>255</alpha>
+                <blue>0</blue>
+                <green>0</green>
+                <red>0</red>
+                <width>0</width>
+            </stroke>
+        </text>
+    </global>
+</settings>
