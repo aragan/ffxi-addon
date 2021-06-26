@@ -59,8 +59,7 @@ defaults.autosets.default = T{ }
 defaults.AutoActivate = true
 defaults.AutoDeusExAutomata = false
 defaults.maneuvertimers = true
-defaults.burdentracker = true
-
+    
 settings = config.load(defaults)
 
 require('maneuver') -- has to be loaded after settings are parsed.
@@ -93,9 +92,7 @@ function initialize()
         if player.pet_index then 
             running = 1
             text_update_loop('start')
-            if settings.burdentracker then
-              Burden_tb:show()
-            end
+            Burden_tb:show()
         end
     end
 end

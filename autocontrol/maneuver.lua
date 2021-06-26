@@ -132,9 +132,7 @@ windower.register_event("action", function(act)
                 windower.send_command('@timers d Overloaded!')
                 heatupdate()
             elseif abil_ID == 136 or abil_ID == 310 then -- Activate or Deus Ex Automata
-                if settings.burdentracker then
-                  Burden_tb:show()
-                end
+                Burden_tb:show()
                 decay = get_decay()
                 activate_burden()
             elseif abil_ID == 139 then
@@ -399,9 +397,7 @@ function zone_check(to)
             if player_mob then
                 if player_mob.pet_index
                    and player_mob.pet_index ~= 0 then 
-                     if settings.burdentracker then
-                       Burden_tb:show()
-                     end
+                    Burden_tb:show()
                     activate_burden()
                 end
             else
