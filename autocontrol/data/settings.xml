@@ -391,6 +391,22 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </shadow>
+            <t1gog>
+                <frame>valoredge frame</frame>
+                <head>valoredge head</head>
+                <slot01>magniplug</slot01>
+                <slot02>magniplug ii</slot02>
+                <slot03>coiler ii</slot03>
+                <slot04>attuner</slot04>
+                <slot05>auto-repair kit iv</slot05>
+                <slot06>armor plate iv</slot06>
+                <slot07>coiler</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>flame holder</slot09>
+                <slot10>turbo charger</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </t1gog>
             <t1henwen>
                 <frame>valoredge frame</frame>
                 <head>valoredge head</head>
