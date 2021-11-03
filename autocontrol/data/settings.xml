@@ -455,6 +455,54 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </t1rasko>
+            <t1sgili>
+                <frame>valoredge frame</frame>
+                <head>valoredge head</head>
+                <slot01>magniplug</slot01>
+                <slot02>magniplug ii</slot02>
+                <slot03>armor plate iv</slot03>
+                <slot04>attuner</slot04>
+                <slot05>auto-repair kit iv</slot05>
+                <slot06>inhibitor ii</slot06>
+                <slot07>inhibitor</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>flame holder</slot09>
+                <slot10>speedloader ii</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </t1sgili>
+            <t2arista>
+                <frame>valoredge frame</frame>
+                <head>valoredge head</head>
+                <slot01>magniplug</slot01>
+                <slot02>magniplug ii</slot02>
+                <slot03>armor plate iv</slot03>
+                <slot04>attuner</slot04>
+                <slot05>auto-repair kit iv</slot05>
+                <slot06>inhibitor ii</slot06>
+                <slot07>inhibitor</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>flame holder</slot09>
+                <slot10>speedloader ii</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </t2arista>
+            <t2arista2>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>magniplug</slot01>
+                <slot02>magniplug ii</slot02>
+                <slot03>armor plate iv</slot03>
+                <slot04>attuner</slot04>
+                <slot05>auto-repair kit iv</slot05>
+                <slot06>inhibitor ii</slot06>
+                <slot07>inhibitor</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>turbo charger</slot09>
+                <slot10>speedloader ii</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </t2arista2>
             <t3arebati>
                 <frame>sharpshot frame</frame>
                 <head>sharpshot head</head>
@@ -487,6 +535,22 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </t3kalunga>
+            <t3mboze>
+                <frame>valoredge frame</frame>
+                <head>valoredge head</head>
+                <slot01>magniplug</slot01>
+                <slot02>magniplug ii</slot02>
+                <slot03>coiler ii</slot03>
+                <slot04>attuner</slot04>
+                <slot05>auto-repair kit iv</slot05>
+                <slot06>dynamo iii</slot06>
+                <slot07>coiler</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>flame holder</slot09>
+                <slot10>steam jacket</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </t3mboze>
             <t3xev>
                 <frame>sharpshot frame</frame>
                 <head>valoredge head</head>
