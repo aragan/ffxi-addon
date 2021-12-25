@@ -7,6 +7,28 @@
             <default>
 
             </default>
+            <ody>
+                <slot01>cocoon</slot01>
+                <slot02>metallic body</slot02>
+                <slot03>jettatura</slot03>
+                <slot04>blood saber</slot04>
+                <slot05>sheep song</slot05>
+                <slot06>healing breeze</slot06>
+                <slot07>diamondhide</slot07>
+                <slot08>soporific</slot08>
+                <slot09>occultation</slot09>
+                <slot10>barrier tusk</slot10>
+                <slot11>feather barrier</slot11>
+                <slot12>memento mori</slot12>
+                <slot13>molting plumage</slot13>
+                <slot14>erratic flutter</slot14>
+                <slot15>battery charge</slot15>
+                <slot16>enervation</slot16>
+                <slot17>mortal ray</slot17>
+                <slot18>dream flower</slot18>
+                <slot19>magic fruit</slot19>
+                <slot20>zephyr mantle</slot20>
+            </ody>
             <vw1>
                 <slot01>Firespit</slot01>
                 <slot02>Heat Breath</slot02>
