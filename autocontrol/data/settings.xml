@@ -324,6 +324,22 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </caro1>
+            <caro11>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>magniplug ii</slot03>
+                <slot04>armor plate iv</slot04>
+                <slot05>attuner</slot05>
+                <slot06>flame holder</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>armor plate iii</slot09>
+                <slot10>turbo charger</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </caro11>
             <caro2>
                 <frame>sharpshot frame</frame>
                 <head>valoredge head</head>
@@ -391,16 +407,16 @@
             <caro6>
                 <frame>sharpshot frame</frame>
                 <head>valoredge head</head>
-                <slot01>attuner</slot01>
-                <slot02>armor plate iv</slot02>
-                <slot03>inhibitor ii</slot03>
-                <slot04>speedloader ii</slot04>
-                <slot05>inhibitor</slot05>
+                <slot01>speedloader ii</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>magniplug ii</slot03>
+                <slot04>armor plate iv</slot04>
+                <slot05>attuner</slot05>
                 <slot06>magniplug</slot06>
                 <slot07>auto-repair kit iv</slot07>
                 <slot08>turbo charger ii</slot08>
                 <slot09>armor plate iii</slot09>
-                <slot10>magniplug ii</slot10>
+                <slot10>inhibitor</slot10>
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </caro6>
@@ -439,6 +455,22 @@
             <default>
 
             </default>
+            <duke>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>target marker</slot03>
+                <slot04>armor plate iv</slot04>
+                <slot05>attuner</slot05>
+                <slot06>speedloader ii</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>coiler ii</slot09>
+                <slot10>turbo charger</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </duke>
             <gestalt>
                 <frame>sharpshot frame</frame>
                 <head>valoredge head</head>
@@ -1367,6 +1399,22 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </vidmapire>
+            <virava>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>target marker</slot03>
+                <slot04>armor plate iv</slot04>
+                <slot05>attuner</slot05>
+                <slot06>speedloader ii</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>coiler ii</slot09>
+                <slot10>turbo charger</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </virava>
             <zduhac>
                 <frame>sharpshot frame</frame>
                 <head>valoredge head</head>
@@ -1402,8 +1450,8 @@
         <maneuvertimers>true</maneuvertimers>
         <padding>0</padding>
         <pos>
-            <x>616</x>
-            <y>562</y>
+            <x>513</x>
+            <y>619</y>
         </pos>
         <text>
             <alpha>255</alpha>
