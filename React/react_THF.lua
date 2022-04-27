@@ -2,9 +2,18 @@ return {
     ["Actor"]={
         ["Action"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="Dancing Fullers"
+            ["ready_reaction"]=""
         }
     }, 
+    ["Ou"]={
+        ["Dancing Fullers"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
+        },
+         ["Interference"]={
+                ["complete_reaction"]="", 
+                ["ready_reaction"]="turnaround"
+        }
     ["Warder of Courage"]={
         ["Benediction"]={
             ["complete_reaction"]="timers create Next", 

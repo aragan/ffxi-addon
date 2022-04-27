@@ -65,6 +65,16 @@ return {
             ["ready_reaction"]="runaway 12"
         }
     }, 
+    ["Ou"]={
+        ["Dancing Fullers"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
+        },
+         ["Interference"]={
+                ["complete_reaction"]="", 
+                ["ready_reaction"]="turnaround"
+        }
+    },
     ["Glassy Thinker"]={
         ["Pain Sync"]={
             ["complete_reaction"]="", 

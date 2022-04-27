@@ -23,6 +23,16 @@ return {
             ["ready_reaction"]="turnaround"
 		}
 	},
+    ["Ou"]={
+        ["Dancing Fullers"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
+        },
+         ["Interference"]={
+                ["complete_reaction"]="", 
+                ["ready_reaction"]="turnaround"
+        }
+    },
 	["Kei"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
