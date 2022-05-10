@@ -8,23 +8,29 @@ return {
     ["Crom Dubh"]={
         ["Noiahionto"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /Sudden Lunge"
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
         }, 
         ["Infernal Bulwark"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /Blank Gaze"
+            ["ready_reaction"]="input /Blank Gaze <bt>"
         }
     }, 
     ["Chest O'Plenty"]={
         ["Ka-thwack"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /Sudden Lunge"
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
         }, 
         ["Death"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /Sudden Lunge"
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
         }
     }, 
+    ["Golden Kist"]={
+        ["Death Trap"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
+        }
+    },
     ["Kin"]={
         ["Deathly Diminuendo"]={
             ["complete_reaction"]="", 
@@ -90,11 +96,11 @@ return {
     ["Dazzling Dolores"]={
         ["Tainting Breath"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /Sudden Lunge"
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
         }, 
         ["Bad Breath"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /Sudden Lunge"
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
         }
     },
 	["Lady Lilith"]={
