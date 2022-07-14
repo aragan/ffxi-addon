@@ -7,6 +7,28 @@
             <default>
 
             </default>
+            <learn>
+                <slot01>cocoon</slot01>
+                <slot02>metallic body</slot02>
+                <slot03>healing breeze</slot03>
+                <slot04>occultation</slot04>
+                <slot05>diamondhide</slot05>
+                <slot06>dream flower</slot06>
+                <slot07>soporific</slot07>
+                <slot08>white wind</slot08>
+                <slot09>magic fruit</slot09>
+                <slot10>spectral floe</slot10>
+                <slot11>tenebral crush</slot11>
+                <slot12>tem. upheaval</slot12>
+                <slot13>bludgeon</slot13>
+                <slot14>screwdriver</slot14>
+                <slot15>sickle slash</slot15>
+                <slot16>queasyshroom</slot16>
+                <slot17>heavy strike</slot17>
+                <slot18>dimensional death</slot18>
+                <slot19>subduction</slot19>
+                <slot20>molting plumage</slot20>
+            </learn>
             <ody>
                 <slot01>cocoon</slot01>
                 <slot02>metallic body</slot02>
@@ -29,6 +51,72 @@
                 <slot19>magic fruit</slot19>
                 <slot20>zephyr mantle</slot20>
             </ody>
+            <ody2>
+                <slot01>cocoon</slot01>
+                <slot02>metallic body</slot02>
+                <slot03>healing breeze</slot03>
+                <slot04>blank gaze</slot04>
+                <slot05>sandspin</slot05>
+                <slot06>sheep song</slot06>
+                <slot07>soporific</slot07>
+                <slot08>geist wall</slot08>
+                <slot09>jettatura</slot09>
+                <slot10>magnetite cloud</slot10>
+                <slot11>wild oats</slot11>
+                <slot12>pollen</slot12>
+            </ody2>
+            <odysolo>
+                <slot01>cocoon</slot01>
+                <slot02>anvil lightning</slot02>
+                <slot03>grand slam</slot03>
+                <slot04>occultation</slot04>
+                <slot05>diamondhide</slot05>
+                <slot06>dream flower</slot06>
+                <slot07>enervation</slot07>
+                <slot08>reactor cool</slot08>
+                <slot09>magic fruit</slot09>
+                <slot10>spectral floe</slot10>
+                <slot11>tenebral crush</slot11>
+                <slot12>tem. upheaval</slot12>
+                <slot13>chaotic eye</slot13>
+                <slot17>screwdriver</slot17>
+                <slot18>entomb</slot18>
+                <slot19>subduction</slot19>
+                <slot20>molting plumage</slot20>
+            </odysolo>
+            <procyellow>
+                <slot01>heat breath</slot01>
+                <slot02>magnetite cloud</slot02>
+                <slot03>ice break</slot03>
+                <slot04>occultation</slot04>
+                <slot05>radiant breath</slot05>
+                <slot07>eyes on me</slot07>
+                <slot08>reactor cool</slot08>
+                <slot09>magic fruit</slot09>
+                <slot11>tenebral crush</slot11>
+                <slot15>entomb</slot15>
+                <slot16>subduction</slot16>
+                <slot17>molting plumage</slot17>
+            </procyellow>
+            <unm>
+                <slot01>cocoon</slot01>
+                <slot02>anvil lightning</slot02>
+                <slot03>grand slam</slot03>
+                <slot04>occultation</slot04>
+                <slot05>diamondhide</slot05>
+                <slot06>dream flower</slot06>
+                <slot07>eyes on me</slot07>
+                <slot08>reactor cool</slot08>
+                <slot09>magic fruit</slot09>
+                <slot10>spectral floe</slot10>
+                <slot11>tenebral crush</slot11>
+                <slot12>tem. upheaval</slot12>
+                <slot13>memento mori</slot13>
+                <slot14>sound blast</slot14>
+                <slot15>entomb</slot15>
+                <slot16>subduction</slot16>
+                <slot17>molting plumage</slot17>
+            </unm>
             <vw1>
                 <slot01>Firespit</slot01>
                 <slot02>Heat Breath</slot02>
