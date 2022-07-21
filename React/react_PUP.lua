@@ -5,6 +5,18 @@ return {
             ["ready_reaction"]="turnaround"
 		}
 	},
+    ["Kabandha"]={
+        ["Deathly Glare"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Ou"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
