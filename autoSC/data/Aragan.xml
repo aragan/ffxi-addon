@@ -1,0 +1,73 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <attempt_delay>0.5</attempt_delay>
+        <close_levels>
+            <1>true</1>
+            <2>true</2>
+            <3>true</3>
+            <4>true</4>
+        </close_levels>
+        <display>
+            <bg>
+                <alpha>64</alpha>
+                <blue>0</blue>
+                <green>0</green>
+                <red>0</red>
+                <visible>true</visible>
+            </bg>
+            <flags>
+                <bold>false</bold>
+                <bottom>false</bottom>
+                <draggable>true</draggable>
+                <italic>false</italic>
+                <right>false</right>
+            </flags>
+            <font>Consolas</font>
+            <font_size>10</font_size>
+            <padding>2</padding>
+            <pos>
+                <x>375</x>
+                <y>342</y>
+            </pos>
+            <stroke>
+                <width>1</width>
+            </stroke>
+            <text>
+                <alpha>255</alpha>
+                <blue>255</blue>
+                <font>Consolas</font>
+                <fonts>
+
+                </fonts>
+                <green>255</green>
+                <red>255</red>
+                <size>10</size>
+                <stroke>
+                    <alpha>255</alpha>
+                    <blue>0</blue>
+                    <green>0</green>
+                    <red>0</red>
+                    <width>0</width>
+                </stroke>
+            </text>
+        </display>
+        <max_ws_window>8</max_ws_window>
+        <min_tp>1000</min_tp>
+        <min_ws_window>2.75</min_ws_window>
+        <open_sc>false</open_sc>
+        <prefer_ranged>false</prefer_ranged>
+        <sc_openers>
+            <sam>
+
+            </sam>
+        </sc_openers>
+        <target_sc_level>2</target_sc_level>
+        <update_frequency>0.5</update_frequency>
+        <use_ranged>false</use_ranged>
+        <wait_to_open>false</wait_to_open>
+        <ws_filters>
+
+        </ws_filters>
+    </global>
+</settings>
