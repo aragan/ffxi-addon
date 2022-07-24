@@ -3,7 +3,13 @@ return {
     ["Quetzalcoatl"]={
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.meva"
+            ["ready_reaction"]="gs equip sets.defense.MD"
+        }
+    }, 
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
     ["Glassy Craver"]={
@@ -98,6 +104,12 @@ return {
         ["Stygian Sphere"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Golden Kist"]={
+        ["Death Trap"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
     ["Glassy Thinker"]={

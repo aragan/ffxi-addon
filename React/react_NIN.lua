@@ -5,6 +5,18 @@ return {
             ["ready_reaction"]="turnaround"
 		}
 	},
+    ["Onychophora"]={
+        ["Psyche Suction"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Golden Kist"]={
+        ["Death Trap"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
     ["Ou"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
@@ -61,6 +73,40 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Gestalt"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Kabandha"]={
+        ["Deathly Glare"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Warder of Courage"]={
+        ["Benediction"]={
+            ["complete_reaction"]="timers create Next", 
+            ["ready_reaction"]=""
+        }, 
+        ["Soul Voice"]={
+            ["complete_reaction"]="input /item Charm", 
+            ["ready_reaction"]=""
+        }
+    }, 
 	["Lady Lilith"]={
         ["Fatal Allure"]={
             ["complete_reaction"]="", 

@@ -15,6 +15,12 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Golden Kist"]={
+        ["Death Trap"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
     ["Dazzling Dolores"]={
         ["Tainting Breath"]={
             ["complete_reaction"]="", 
@@ -73,6 +79,12 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
+    ["Gestalt"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Glassy Thinker"]={
         ["Pain Sync"]={
             ["complete_reaction"]="", 

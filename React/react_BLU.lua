@@ -145,6 +145,24 @@ return {
 		   ["ready_reaction"]="turnaround"
 	   }
 	},
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
+        }
+    }, 
+    ["Onychophora"]={
+        ["Psyche Suction"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
 	["Bozzetto Frigg"]={
 	   ["Raqs Baladi Dance"]={
 		   ["complete_reaction"]="facemob",

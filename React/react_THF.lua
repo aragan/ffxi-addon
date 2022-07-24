@@ -81,18 +81,30 @@ return {
             ["ready_reaction"]="turnaround"
         }
     }, 
-    ["MobName"]={
-        ["Action"]={
+    ["Kabandha"]={
+        ["Deathly Glare"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="exec foo.txt"
+            ["ready_reaction"]="turnaround"
         }
-    }, 
+    },
     ["Quetzalcoatl"]={
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.meva"
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Gestalt"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Glassy Craver"]={
         ["View Sync"]={
             ["complete_reaction"]="runto 21", 

@@ -3,10 +3,12 @@ return {
         ["Death Trap"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
     ["Onychophora"]={
         ["Psyche Suction"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /pet Heel "
+            ["ready_reaction"]="input /pet Heel"
         }
     }, 
 	["Bozzetto Breadwinner"]={

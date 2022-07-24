@@ -23,6 +23,16 @@ return {
             ["ready_reaction"]="turnaround"
 		}
 	},
+    ["Crom Dubh"]={
+        ["Noiahionto"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }, 
+        ["Infernal Bulwark"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
     ["Ou"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 

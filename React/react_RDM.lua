@@ -17,6 +17,18 @@ return {
             ["ready_reaction"]="turnaround"
 		}
 	},
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
     ["Ou"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
@@ -169,10 +181,26 @@ return {
             ["ready_reaction"]="turnaround"
         }
     }, 
+    ["Crom Dubh"]={
+        ["Noiahionto"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }, 
+        ["Infernal Bulwark"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
     ["Zerde"]={
         ["Just Desserts"]={
             ["complete_reaction"]="wait 2;input /ma 'Frazzle II' <bt>", 
             ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+    ["Onychophora"]={
+        ["Psyche Suction"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
         }
     }, 
     ["Bozzetto Frigg"]={
