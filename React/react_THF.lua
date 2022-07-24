@@ -1,10 +1,4 @@
 return {
-    ["Actor"]={
-        ["Action"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]=""
-        }
-    }, 
     ["Ou"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
@@ -14,6 +8,7 @@ return {
                 ["complete_reaction"]="", 
                 ["ready_reaction"]="turnaround"
         }
+    },
     ["Warder of Courage"]={
         ["Benediction"]={
             ["complete_reaction"]="timers create Next", 
@@ -115,5 +110,5 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="runaway 12"
         }
-    }
+    },
 }
