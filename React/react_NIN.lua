@@ -1,10 +1,30 @@
 return {
-	["Pakecet"]={
-		["Aetheric Pull"]={
-			["complete_reaction"]="", 
+    ["Ou"]={
+        ["Dancing Fullers"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
+        },
+         ["Interference"]={
+                ["complete_reaction"]="", 
+                ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
+            ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
-		}
-	},
+        }
+    },
+    ["Warder of Courage"]={
+        ["Benediction"]={
+            ["complete_reaction"]="timers create Next", 
+            ["ready_reaction"]=""
+        }, 
+        ["Soul Voice"]={
+            ["complete_reaction"]="input /item Charm", 
+            ["ready_reaction"]=""
+        }
+    }, 
     ["Onychophora"]={
         ["Psyche Suction"]={
             ["complete_reaction"]="", 
@@ -17,20 +37,26 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
-    ["Ou"]={
-        ["Dancing Fullers"]={
+    ["Hanbi"]={
+        ["Dread Spikes"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="runaway 12"
-        },
-         ["Interference"]={
-                ["complete_reaction"]="", 
-                ["ready_reaction"]="turnaround"
+            ["ready_reaction"]="turnaround"
         }
-    },
-	["Kei"]={
-        ["Dancing Fullers"]={
+    }, 
+    ["Lady Lilith"]={
+        ["Dark Thorn"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="runaway 12"
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Fatal Allure"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Glassy Thinker"]={
+        ["Pain Sync"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
         }
     }, 
     ["Kin"]={
@@ -42,7 +68,7 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Malign Invocation"]={
+        ["Interference"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
@@ -50,7 +76,7 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Interference"]={
+        ["Death Sentence"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
@@ -58,17 +84,23 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Death Sentence"]={
+        ["Stygian Sphere"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Stygian Sphere"]={
+        ["Malign Invocation"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
     }, 
-    ["Glassy Thinker"]={
-        ["Pain Sync"]={
+    ["Tyrannotaur"]={
+        ["Mortal Ray"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Kabandha"]={
+        ["Deathly Glare"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
@@ -91,36 +123,22 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
-    ["Kabandha"]={
-        ["Deathly Glare"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item Charm", 
-            ["ready_reaction"]=""
+    ["Glassy Craver"]={
+        ["View Sync"]={
+            ["complete_reaction"]="runto 21", 
+            ["ready_reaction"]="runaway 25"
         }
     }, 
-	["Lady Lilith"]={
-        ["Fatal Allure"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        },
-		["Dark Thorn"]={
+    ["Pakecet"]={
+        ["Aetheric Pull"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
-    },
-	["Bozzetto Monarch"]={
-        ["Throat Stab"]={
-            ["complete_reaction"]="",
-            ["ready_reaction"]="runaway 6"
+    }, 
+    ["Kei"]={
+        ["Dancing Fullers"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
         }
     },
 }

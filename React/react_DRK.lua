@@ -89,6 +89,42 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Gestalt"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Glassy Craver"]={
+        ["View Sync"]={
+            ["complete_reaction"]="runto 21", 
+            ["ready_reaction"]="runaway 25"
+        }
+    }, 
+    ["Onychophora"]={
+        ["Psyche Suction"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Hanbi"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
 	["Lady Lilith"]={
         ["Fatal Allure"]={
             ["complete_reaction"]="", 

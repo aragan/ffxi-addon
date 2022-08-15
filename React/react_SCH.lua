@@ -1,58 +1,61 @@
 return {
-    ["Zerde"]={
+    ["Golden Kist"]={
+        ["Death Trap"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    },
+    ["Botulus Rex"]={
         ["Just Desserts"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma Stun <bt>"
         }
     },
-	["Bozzetto Breadwinner"]={
-        ["Aero Meeble Warble"]={
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Baraera\" <me>"
-        }, 
-        ["Water Meeble Warble"]={
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barwatera\" <me>"
-        }, 
-        ["Stone Meeble Warble"]={
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barstonra\" <me>"
-        }, 
-        ["Thunder Meeble Warble"]={
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+    ["Kabandha"]={
+        ["Deathly Glare"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barthundra\" <me>"
-        }, 
-        ["Blizzard Meeble Warble"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barblizzara\" <me>"
-        }, 
-        ["Fire Meeble Warble"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barfira\" <me>"
-        },
-		["Pierce Vitals"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Baraera\" <me>"
-        }, 
-        ["Vertical Slash"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barwatera\" <me>"
-        }, 
-        ["Latteral Slash"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barstonra\" <me>"
-        }, 
-        ["Light of Penance"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barthundra\" <me>"
-        }, 
-        ["Sigh"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barblizzara\" <me>"
-        }, 
-        ["Words of Bane"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma \"Barfira\" <me>"
+            ["ready_reaction"]="turnaround"
         }
     },
+    ["Botulus Rex"]={
+        ["Just Desserts"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+    ["Crom Dubh"]={
+        ["Noiahionto"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }, 
+        ["Infernal Bulwark"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+    ["Zerde"]={
+        ["Just Desserts"]={
+            ["complete_reaction"]="wait 2;input /ma 'Frazzle II' <bt>", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+
 }

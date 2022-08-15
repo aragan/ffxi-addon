@@ -17,6 +17,24 @@ return {
             ["ready_reaction"]="turnaround"
 		}
 	},
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Gestalt"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Glassy Craver"]={
+        ["View Sync"]={
+            ["complete_reaction"]="runto 21", 
+            ["ready_reaction"]="runaway 25"
+        }
+    }, 
     ["Quetzalcoatl"]={
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
@@ -29,14 +47,16 @@ return {
             ["ready_reaction"]="input /ma Stun <bt>"
         }
     }, 
-    ["Ou"]={
-        ["Dancing Fullers"]={
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="runaway 12"
-        },
-         ["Interference"]={
-                ["complete_reaction"]="", 
-                ["ready_reaction"]="turnaround"
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Kabandha"]={
+        ["Deathly Glare"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
         }
     },
     ["Ou"]={
@@ -95,13 +115,19 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Hanbi"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="input /ma Dispel <bt>", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
 	["Lady Lilith"]={
         ["Fatal Allure"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         },
 		["Dark Thorn"]={
-            ["complete_reaction"]="", 
+            ["complete_reaction"]="input /ma Dispel <bt>", 
             ["ready_reaction"]="turnaround"
         }
     },

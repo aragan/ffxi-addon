@@ -15,6 +15,12 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Onychophora"]={
+        ["Psyche Suction"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
     ["Golden Kist"]={
         ["Death Trap"]={
             ["complete_reaction"]="", 
@@ -87,6 +93,12 @@ return {
     },
     ["Glassy Thinker"]={
         ["Pain Sync"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Hanbi"]={
+        ["Dread Spikes"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }

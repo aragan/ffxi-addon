@@ -9,6 +9,12 @@ return {
                 ["ready_reaction"]="turnaround"
         }
     },
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Warder of Courage"]={
         ["Benediction"]={
             ["complete_reaction"]="timers create Next", 
@@ -22,7 +28,19 @@ return {
     ["Onychophora"]={
         ["Psyche Suction"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /pet Heel "
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Golden Kist"]={
+        ["Death Trap"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Hanbi"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
         }
     }, 
     ["Lady Lilith"]={

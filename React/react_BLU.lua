@@ -5,6 +5,30 @@ return {
             ["ready_reaction"]="turnaround"
 		}
 	},
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Kabandha"]={
+        ["Deathly Glare"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Glassy Craver"]={
+        ["View Sync"]={
+            ["complete_reaction"]="runto 21", 
+            ["ready_reaction"]="runaway 25"
+        }
+    }, 
+    ["Hanbi"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
     ["Crom Dubh"]={
         ["Noiahionto"]={
             ["complete_reaction"]="", 

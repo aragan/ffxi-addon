@@ -9,6 +9,12 @@ return {
                 ["ready_reaction"]="turnaround"
         }
     },
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Warder of Courage"]={
         ["Benediction"]={
             ["complete_reaction"]="timers create Next", 
