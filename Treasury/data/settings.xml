@@ -1,16 +1,12 @@
 <?xml version="1.1" ?>
 <settings>
     <global>
-        <AutoDrop>false</AutoDrop>
+        <AutoDrop>true</AutoDrop>
         <AutoStack>true</AutoStack>
         <Delay>0</Delay>
-        <Drop />
-        <Lot />
-        <Pass />
+        <Drop>Danceshroom,Sleepshroom,Garudite,Thunder Geode,Pamamas,Soil Geode,Ulbuconut,Fenrite,Shivite,Aqua Geode,Rabbit Hide,Russet Yggrete,Bloodthread,Woozyshroom,Acuex Poison,Snow Geode,Kindred&apos;s Seal,Ifritite,Bat Wing,R. Ygg. Shard I,Forgotten Touch,S. Kindred Crest,Water Crystal,H. Kindred Crest,Breeze Geode,Beastmen&apos;s Seal,Flame Geode,Eschalixir,Ramuite,Light Geode,Pebble,Hare Meat,Insect Wing,Carbite,Avatar Blood,Shadow Geode,Eschalixir +1,R. Ygg. Shard III,Kindred&apos;s Crest,Leviatite,Bat Fang</Drop>
+        <Lot>Fire Crystal,Lightng. Crystal,Earth Crystal,Russet Yggrete,Ice Crystal,Water Crystal,Dark Crystal,Titanite,Wind Crystal,Light Crystal</Lot>
+        <Pass>S. Kindred Crest,Thunder Geode,Soil Geode,H. Kindred Crest,Shadow Geode,Light Geode,Beastmen&apos;s Seal,Flame Geode,Aqua Geode,Fiend Blood,Acuex Poison,Snow Geode,Eschalixir +1,Breeze Geode,Kindred&apos;s Crest,Eschalixir,Kindred&apos;s Seal</Pass>
         <Verbose>false</Verbose>
     </global>
-    <aragan>
-        <Drop>Titanite,Danceshroom,R. Ygg. Shard I,Forgotten Touch,S. Kindred Crest,Thunder Geode,Pamamas,Soil Geode,Ulbuconut,H. Kindred Crest,Breeze Geode,Light Geode,Flame Geode,Aqua Geode,Rabbit Hide,Russet Yggrete,Hare Meat,Woozyshroom,Snow Geode,Sleepshroom,Pebble,Shadow Geode,R. Ygg. Shard III</Drop>
-        <Lot>Fire Crystal,Lightng. Crystal,Earth Crystal,Russet Yggrete,Ice Crystal,Water Crystal,Dark Crystal,Wind Crystal,Light Crystal</Lot>
-    </aragan>
 </settings>
