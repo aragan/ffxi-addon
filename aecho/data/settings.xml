@@ -1,8 +1,8 @@
 <?xml version="1.1" ?>
 <settings>
 	<global>
-		<alttrack>false</alttrack>
-		<buffs>accession, addendum: black, addendum: white, alacrity, celerity, dark arts, ebullience, immanence, light arts, manifestation, paralyze, parsimony, penury, perpetuance, petrified, rapture, silence, sleep, slow, stun</buffs>
-		<sitrack>true</sitrack>
+        <alttrack>false</alttrack>
+        <buffs>parsimony,dark arts,rapture,perpetuance,petrified,paralyze,light arts,slow,accession,manifestation,addendum: white,addendum: black,celerity,ebullience,stun,sleep,alacrity,  immanence,penury,poison,blind,silence,disease,doom,charm,amnesia,curse,bind,gravity,addle,kustra,mute,plague,bane,burn,frost,rasp,shock,terror,drown,dia,bio,flash,str down,dex down,vit down,agi down,int down,mnd down,chr down,hp max down,mp max down,tp max down,helix,inhibit tp,accuracy down,attack down,evasion down,zombie,defense down,magic accuracy down,magic attack down,magic evasion down,magic defense down,weakness</buffs>
+        <sitrack>true</sitrack>
 	</global>
 </settings>
