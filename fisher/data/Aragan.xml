@@ -8,8 +8,8 @@
         <catch_delay_tweak>15</catch_delay_tweak>
         <debug_messages>false</debug_messages>
         <equip_delay>2</equip_delay>
-        <fatigue_count>123</fatigue_count>
-        <fatigue_start>2022-07-24</fatigue_start>
+        <fatigue_count>3</fatigue_count>
+        <fatigue_start>2022-07-25</fatigue_start>
         <move_delay>0</move_delay>
         <no_hook_max>20</no_hook_max>
         <recast_delay>3</recast_delay>
