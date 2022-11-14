@@ -141,4 +141,10 @@ return {
             ["ready_reaction"]="runaway 6"
         }
     },
+	["Duke Vepar"]={
+        ["Viscous Deluge"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
 }

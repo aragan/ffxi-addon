@@ -4,6 +4,68 @@
         <auto>true</auto>
         <language>English</language>
         <sets>
+            <1>
+                <1>Iroha II</1>
+                <2>Shantotto II</2>
+                <3>Cherukiki</3>
+                <4>Amchuchu</4>
+                <5>Yoran-Oran (UC)</5>
+            </1>
+            <2>
+                <1>AATT</1>
+                <2>Shantotto II</2>
+                <3>Yoran-Oran (UC)</3>
+                <4>Iroha II</4>
+                <5>Koru-Moru</5>
+            </2>
+            <4>
+                <1>Yoran-Oran (UC)</1>
+                <2>Qultada</2>
+                <3>Ulmia</3>
+                <4>Koru-Moru</4>
+                <5>AAEV</5>
+            </4>
+            <apex>
+                <1>AAEV</1>
+                <2>Sylvie (UC)</2>
+                <3>Ulmia</3>
+                <4>Sakura</4>
+                <5>AAGK</5>
+            </apex>
+            <apex1>
+                <1>Arciela II</1>
+                <2>Selh&apos;teus</2>
+                <3>Ulmia</3>
+                <4>Koru-Moru</4>
+                <5>AAEV</5>
+            </apex1>
+            <apex2>
+                <1>Sylvie (UC)</1>
+                <2>Amchuchu</2>
+                <3>Koru-Moru</3>
+                <4>Arciela II</4>
+                <5>Selh&apos;teus</5>
+            </apex2>
+            <apexnew>
+                <1>Sylvie (UC)</1>
+                <2>Amchuchu</2>
+                <3>Koru-Moru</3>
+                <4>Arciela II</4>
+                <5>Selh&apos;teus</5>
+            </apexnew>
+            <cat>
+                <1>Koru-Moru</1>
+                <2>Yoran-Oran (UC)</2>
+                <3>Selh&apos;teus</3>
+                <4>Qultada</4>
+            </cat>
+            <cat2>
+                <1>Monberaux</1>
+                <2>Koru-Moru</2>
+                <3>AAMR</3>
+                <4>Ajido-Marujido</4>
+                <5>Uka Totlihn</5>
+            </cat2>
             <default>
                 <1>Valaineral</1>
                 <2>Mihli Aliapoh</2>
@@ -11,6 +73,139 @@
                 <4>Adelheid</4>
                 <5>Joachim</5>
             </default>
+            <farm>
+                <1>Yoran-Oran (UC)</1>
+                <2>Joachim</2>
+                <3>Qultada</3>
+                <4>Ulmia</4>
+                <5>Koru-Moru</5>
+            </farm>
+            <hnm>
+                <1>Gessho</1>
+                <2>AAHM</2>
+                <3>Cherukiki</3>
+                <4>Shantotto II</4>
+                <5>Kukki-Chebukki</5>
+            </hnm>
+            <hnm1>
+                <1>Gessho</1>
+                <2>AAHM</2>
+                <3>Cherukiki</3>
+                <4>Kukki-Chebukki</4>
+                <5>Semih Lafihna</5>
+            </hnm1>
+            <ht>
+                <1>Koru-Moru</1>
+                <2>Cherukiki</2>
+                <3>Joachim</3>
+                <4>AATT</4>
+                <5>Qultada</5>
+            </ht>
+            <htbm>
+                <1>Koru-Moru</1>
+                <2>Cherukiki</2>
+                <3>Joachim</3>
+                <4>AATT</4>
+                <5>Qultada</5>
+            </htbm>
+            <out>
+                <1>AAHM</1>
+                <2>Gessho</2>
+                <3>Cherukiki</3>
+                <4>Margret</4>
+                <5>Semih Lafihna</5>
+            </out>
+            <procabys>
+                <1>Cherukiki</1>
+                <2>Kukki-Chebukki</2>
+                <3>Adelheid</3>
+                <4>Kayeel-Payeel</4>
+                <5>Curilla</5>
+            </procabys>
+            <procabyyel>
+                <1>Cherukiki</1>
+                <2>Kukki-Chebukki</2>
+                <3>Adelheid</3>
+                <4>Kayeel-Payeel</4>
+                <5>Curilla</5>
+            </procabyyel>
+            <procred>
+                <1>Karaha-Baruha</1>
+                <2>Ingrid</2>
+                <3>Curilla</3>
+                <4>Leonoyne</4>
+                <5>Halver</5>
+            </procred>
+            <procyelow>
+                <1>Cherukiki</1>
+                <2>Kukki-Chebukki</2>
+                <3>Adelheid</3>
+                <4>Kayeel-Payeel</4>
+                <5>Curilla</5>
+            </procyelow>
+            <red>
+                <1>Ayame</1>
+                <2>Zeid</2>
+                <3>Shikaree Z</3>
+                <4>Karaha-Baruha</4>
+                <5>Curilla</5>
+            </red>
+            <rem>
+                <1>Koru-Moru</1>
+                <2>Joachim</2>
+                <3>AATT</3>
+                <4>Cherukiki</4>
+                <5>Ulmia</5>
+            </rem>
+            <sam>
+                <1>Joachim</1>
+                <2>Koru-Moru</2>
+                <3>Ulmia</3>
+                <4>Qultada</4>
+                <5>Yoran-Oran (UC)</5>
+            </sam>
+            <thf>
+                <1>Koru-Moru</1>
+                <2>Joachim</2>
+                <3>Ulmia</3>
+                <4>Yoran-Oran (UC)</4>
+                <5>Qultada</5>
+            </thf>
+            <unity>
+                <1>Iroha II</1>
+                <2>Amchuchu</2>
+                <3>Cherukiki</3>
+                <4>Ovjang</4>
+                <5>Adelheid</5>
+            </unity>
+            <volattunm>
+                <1>Yoran-Oran (UC)</1>
+                <2>Sakura</2>
+                <3>Amchuchu</3>
+                <4>AAEV</4>
+                <5>AAHM</5>
+            </volattunm>
+            <vw>
+                <1>AATT</1>
+                <2>Cherukiki</2>
+                <3>Shantotto II</3>
+                <4>Ovjang</4>
+                <5>Mnejing</5>
+            </vw>
+            <vw1>
+                <1>Karaha-Baruha</1>
+                <2>Curilla</2>
+                <3>Shantotto II</3>
+                <4>Robel-Akbel</4>
+                <5>Qultada</5>
+            </vw1>
+            <yel>
+                <1>Cherukiki</1>
+                <2>Kukki-Chebukki</2>
+                <3>Adelheid</3>
+                <4>Kayeel-Payeel</4>
+                <5>Curilla</5>
+            </yel>
         </sets>
         <wait>
             <aftercast>3</aftercast>

@@ -140,5 +140,11 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="runaway 12"
         }
+    }, 
+    ["Cachaemic Corse"]={
+        ["Danse Macabre"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
     },
 }

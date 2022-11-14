@@ -139,7 +139,7 @@ function check_exist()
     local get_party = windower.ffxi.get_party()
     for i=1,5 do
         local member = get_party['p'..i]
-        if member then
+        if member and member.mob then
             if member.mob.spawn_type == 14 then
                 party[member.name] = member.mob.models[1]
                 table.insert(party_ind,member.name)
@@ -367,6 +367,7 @@ trusts = T{
     [117]={id=1017,japanese="アシェラII",english="Arciela II",name="Arciela",models=3085},
     [118]={id=1018,japanese="イロハII",english="Iroha II",name="Iroha",models=3112},
     [119]={id=1019,japanese="シャントットII",english="Shantotto II",name="Shantotto",models=3110},
---  [120]={id=1003,japanese="コーネリア",english="Cornelia",name="Cornelia",models=3119}, --goodbye, my love
+    [120]={id=1003,japanese="コーネリア",english="Cornelia",name="Cornelia",models=3119}, --goodbye, my love
     [121]={id=999,japanese="モンブロー",english="Monberaux",name="Monberaux",models=3120},
+    [122]={id=1003,japanese="マツイP",english="Matsui-P",name="Matsui-P",models=3121},
 }
