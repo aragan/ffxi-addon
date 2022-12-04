@@ -47,12 +47,6 @@ return {
             ["ready_reaction"]="input /ma Stun <bt>"
         }
     }, 
-    ["Quetzalcoatl"]={
-        ["Cyclone Wing"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    }, 
     ["Kabandha"]={
         ["Deathly Glare"]={
             ["complete_reaction"]="", 

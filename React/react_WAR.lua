@@ -118,5 +118,11 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="runaway 12"
         }
+    },
+    ["Dazzling Dolores"]={
+        ["Tainting Breath "]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }
     }
 }

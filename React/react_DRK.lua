@@ -89,6 +89,18 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Kabandha"]={
+        ["Deathly Glare"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 

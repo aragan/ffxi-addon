@@ -42,6 +42,12 @@ return {
             ["complete_reaction"]="input /ma Magic Finale <bt>", 
             ["ready_reaction"]=""
         }
+    },
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
     }, 
     ["Bozzetto Breadwinner"]={
         ["Aero Meeble Warble"]={
