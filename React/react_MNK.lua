@@ -141,4 +141,10 @@ return {
             ["ready_reaction"]="runaway 12"
         }
     },
+    ["Urmahlullu"]={
+        ["Thunderbolt"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
 }

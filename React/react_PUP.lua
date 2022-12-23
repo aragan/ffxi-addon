@@ -70,13 +70,13 @@ return {
     ["Quetzalcoatl"]={
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
+            ["ready_reaction"]="gs equip sets.idle.MasterDT"
         }
     }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
+            ["ready_reaction"]="gs equip sets.idle.MasterDT"
         }
     }, 
     ["Onychophora"]={
@@ -88,7 +88,7 @@ return {
     ["Golden Kist"]={
         ["Death Trap"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
+            ["ready_reaction"]="gs equip sets.idle.MasterDT"
         }
     }, 
     ["Glassy Thinker"]={
@@ -111,6 +111,18 @@ return {
         ["Throat Stab"]={
             ["complete_reaction"]="",
             ["ready_reaction"]="runaway 6"
+        }
+    },
+    ["Urmahlullu"]={
+        ["Thunderbolt"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.idle.MasterDT"
+        }
+    },   
+    ["Urmahlullu"]={
+        ["Wild Horn"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.idle.MasterDT"
         }
     },
 }

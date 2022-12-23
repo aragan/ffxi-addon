@@ -159,4 +159,10 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
+    ["Urmahlullu"]={
+        ["Thunderbolt"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
 }
