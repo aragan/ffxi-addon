@@ -4,9 +4,96 @@
         <setmode>PreserveTraits</setmode>
         <setspeed>0.65</setspeed>
         <spellsets>
+            <dd>
+                <slot01>cocoon</slot01>
+                <slot02>metallic body</slot02>
+                <slot03>blazing bound</slot03>
+                <slot04>fantod</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>mortal ray</slot06>
+                <slot07>molting plumage</slot07>
+                <slot08>animating wail</slot08>
+                <slot09>battery charge</slot09>
+                <slot10>sudden lunge</slot10>
+                <slot11>delta thrust</slot11>
+                <slot12>searing tempest</slot12>
+                <slot13>nat. meditation</slot13>
+                <slot14>heavy strike</slot14>
+                <slot15>sickle slash</slot15>
+                <slot16>dimensional death</slot16>
+                <slot17>anvil lightning</slot17>
+                <slot18>paralyzing triad</slot18>
+                <slot19>cold wave</slot19>
+            </dd>
+            <ddapex>
+                <slot01>cocoon</slot01>
+                <slot02>metallic body</slot02>
+                <slot03>blazing bound</slot03>
+                <slot04>fantod</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>mortal ray</slot06>
+                <slot07>molting plumage</slot07>
+                <slot08>animating wail</slot08>
+                <slot09>battery charge</slot09>
+                <slot10>sudden lunge</slot10>
+                <slot11>delta thrust</slot11>
+                <slot12>searing tempest</slot12>
+                <slot13>nat. meditation</slot13>
+                <slot14>heavy strike</slot14>
+                <slot15>sickle slash</slot15>
+                <slot16>dimensional death</slot16>
+                <slot17>anvil lightning</slot17>
+                <slot18>paralyzing triad</slot18>
+                <slot19>cold wave</slot19>
+                <slot20>grand slam</slot20>
+            </ddapex>
             <default>
 
             </default>
+            <gold>
+                <slot01>mortal ray</slot01>
+                <slot02>battery charge</slot02>
+                <slot03>diamondhide</slot03>
+                <slot04>tenebral crush</slot04>
+                <slot05>cocoon</slot05>
+                <slot06>sheep song</slot06>
+                <slot07>subduction</slot07>
+                <slot08>metallic body</slot08>
+                <slot09>stinking gas</slot09>
+                <slot10>fantod</slot10>
+                <slot11>enervation</slot11>
+                <slot12>terror touch</slot12>
+                <slot13>chaotic eye</slot13>
+                <slot14>molting plumage</slot14>
+                <slot15>occultation</slot15>
+                <slot16>sudden lunge</slot16>
+                <slot17>reactor cool</slot17>
+                <slot18>delta thrust</slot18>
+                <slot19>blinding fulgor</slot19>
+                <slot20>erratic flutter</slot20>
+            </gold>
+            <goldbox>
+                <slot01>mortal ray</slot01>
+                <slot02>battery charge</slot02>
+                <slot03>diamondhide</slot03>
+                <slot04>tenebral crush</slot04>
+                <slot05>cocoon</slot05>
+                <slot06>sheep song</slot06>
+                <slot07>subduction</slot07>
+                <slot08>metallic body</slot08>
+                <slot09>stinking gas</slot09>
+                <slot10>fantod</slot10>
+                <slot11>enervation</slot11>
+                <slot12>terror touch</slot12>
+                <slot13>chaotic eye</slot13>
+                <slot14>molting plumage</slot14>
+                <slot15>occultation</slot15>
+                <slot16>sudden lunge</slot16>
+                <slot17>reactor cool</slot17>
+                <slot18>delta thrust</slot18>
+                <slot19>blinding fulgor</slot19>
+                <slot20>erratic flutter</slot20>
+            </goldbox>
             <learn>
                 <slot01>cocoon</slot01>
                 <slot02>metallic body</slot02>
@@ -66,24 +153,42 @@
                 <slot12>pollen</slot12>
             </ody2>
             <odysolo>
-                <slot01>cocoon</slot01>
-                <slot02>anvil lightning</slot02>
-                <slot03>grand slam</slot03>
-                <slot04>occultation</slot04>
-                <slot05>diamondhide</slot05>
-                <slot06>dream flower</slot06>
-                <slot07>enervation</slot07>
-                <slot08>reactor cool</slot08>
-                <slot09>magic fruit</slot09>
-                <slot10>spectral floe</slot10>
-                <slot11>tenebral crush</slot11>
-                <slot12>tem. upheaval</slot12>
-                <slot13>chaotic eye</slot13>
+                <slot01>metallic body</slot01>
+                <slot02>grand slam</slot02>
+                <slot03>soporific</slot03>
+                <slot04>sheep song</slot04>
+                <slot05>cocoon</slot05>
+                <slot06>healing breeze</slot06>
+                <slot07>reactor cool</slot07>
+                <slot08>terror touch</slot08>
+                <slot09>occultation</slot09>
+                <slot10>magic fruit</slot10>
+                <slot11>winds of promy.</slot11>
+                <slot12>mortal ray</slot12>
+                <slot13>battery charge</slot13>
+                <slot14>diamondhide</slot14>
+                <slot15>erratic flutter</slot15>
+                <slot16>molting plumage</slot16>
                 <slot17>screwdriver</slot17>
-                <slot18>entomb</slot18>
-                <slot19>subduction</slot19>
-                <slot20>molting plumage</slot20>
+                <slot18>zephyr mantle</slot18>
+                <slot19>tem. upheaval</slot19>
+                <slot20>dream flower</slot20>
             </odysolo>
+            <pld>
+                <slot01>grand slam</slot01>
+                <slot02>cocoon</slot02>
+                <slot03>bomb toss</slot03>
+                <slot04>healing breeze</slot04>
+                <slot05>jettatura</slot05>
+                <slot06>stinking gas</slot06>
+                <slot07>geist wall</slot07>
+                <slot08>frightful roar</slot08>
+                <slot09>blank gaze</slot09>
+                <slot10>metallic body</slot10>
+                <slot11>terror touch</slot11>
+                <slot12>sheep song</slot12>
+                <slot13>soporific</slot13>
+            </pld>
             <procyellow>
                 <slot01>heat breath</slot01>
                 <slot02>magnetite cloud</slot02>
