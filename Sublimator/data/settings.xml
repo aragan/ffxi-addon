@@ -1,0 +1,13 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <debug>false</debug>
+        <delay>1</delay>
+        <disable_on_zone>false</disable_on_zone>
+        <full_only>true</full_only>
+        <min_charge_seconds>300</min_charge_seconds>
+        <mp_missing>600</mp_missing>
+        <mpp_low>30</mpp_low>
+        <verbose>true</verbose>
+    </global>
+</settings>
