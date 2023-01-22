@@ -24,7 +24,12 @@
         </ignore>
         <item_delay>0</item_delay>
         <retain>
-            <items>true</items>
+            <items>false</items>
+item="Gyudon",
+item="Reraiser",
+item="Hi-Reraiser",
+item="Vile Elixir",
+item="Vile Elixir +1",
 item="Miso Ramen",
 item="Carbonara",
 item="Silent Oil",
