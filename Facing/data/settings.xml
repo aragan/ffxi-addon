@@ -74,4 +74,25 @@
             </text_without_tp>
         </text_settings>
     </global>
+    <aragan>
+        <text_settings>
+            <pos>
+                <x>760</x>
+                <y>658</y>
+            </pos>
+            <text>
+                <blue>0</blue>
+            </text>
+        </text_settings>
+    </aragan>
+    <cpttn>
+        <text_settings>
+            <pos>
+                <y>668</y>
+            </pos>
+            <text>
+                <blue>0</blue>
+            </text>
+        </text_settings>
+    </cpttn>
 </settings>
