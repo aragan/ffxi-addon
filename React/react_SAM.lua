@@ -147,4 +147,18 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Shedu"]={
+        ["Thunderstrike"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Tourbillion"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
+        ["Fulmination"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        }
+    },
 }

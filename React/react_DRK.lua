@@ -165,4 +165,22 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
+    ["Shedu"]={
+        ["Thunderstrike"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Tourbillion"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
+        ["Fulmination"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
+        ["Dreadstorm"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        }
+    },
 }
