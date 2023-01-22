@@ -37,7 +37,7 @@ local bags = {
 local pulse_items = {
     [18457] = 'Murasamemaru',
     [18542] = 'Aytanri',
-  --  [18904] = 'Ephemeron',
+    [18904] = 'Ephemeron',
     [19144] = 'Coruscanti',
     [19145] = 'Asteria',
     [19174] = 'Borealis',
@@ -284,10 +284,10 @@ local function examine_box(id, data)
         end
         if not choice.option then
             if count > 2 then
-                choice.option = 9
+                choice.option = 10
                 choice.last = (rare == false)
             else
-                choice.option = 10
+                choice.option = 9
                 choice.last = true
             end
         end
