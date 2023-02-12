@@ -192,7 +192,7 @@ return {
 		   ["complete_reaction"]="facemob",
 		   ["ready_reaction"]="turnaround"
 		}
-	}
+	},
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
