@@ -99,13 +99,49 @@ return {
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    },
+    ["Naga Raja"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+    }, 
+    ["Azi Dahaka"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Spike Flail "]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
     }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Spike Flail "]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
     }, 
     ["Gestalt"]={
         ["Dread Spikes"]={
@@ -165,6 +201,12 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
+    ["Cachaemic Corse"]={
+        ["Danse Macabre"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Shedu"]={
         ["Thunderstrike"]={
             ["complete_reaction"]="",
@@ -182,5 +224,54 @@ return {
             ["complete_reaction"]="",
             ["ready_reaction"]="gs equip sets.defense.PDT"
         }
+    },
+    ["Harpimaria"]={
+        ["Thunderstrike"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
+    ["Ig-Alima"]={
+        ["Oblivion's Mantle"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Bolt of Perdition"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Crippling Rime"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Diluvial Wake"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Divesting Gale"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Kurnugi Collapse"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
+    
+    ["Leshonn"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
+        },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
+        },
+    }, 
+    ["Gartell"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
+        },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
+        }       
     },
 }

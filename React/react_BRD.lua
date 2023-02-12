@@ -168,5 +168,17 @@ return {
            ["complete_reaction"]="facemob",
            ["ready_reaction"]="turnaround"
       }
-   }
+    },
+    ["Vinipata"]={
+       ["Yama's Judgement"]={
+           ["complete_reaction"]="", 
+           ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    },
+    ["Tonberry Bedeviler"]={
+        ["Everyone's Grudge"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }
 }

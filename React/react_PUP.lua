@@ -70,14 +70,74 @@ return {
     ["Quetzalcoatl"]={
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.idle.MasterDT"
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    },
+    ["Naga Raja"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+    }, 
+    ["Azi Dahaka"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Spike Flail "]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
     }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.idle.MasterDT"
-        }
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
+        ["Hurricane Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
+        ["Spike Flail"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
+        ["Dragon Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
+        ["Fiery Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
+        ["Geotic Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
+        ["Glacial Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
+        ["Sable Breath "]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
+        },
     }, 
     ["Onychophora"]={
         ["Psyche Suction"]={
