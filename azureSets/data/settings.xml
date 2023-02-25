@@ -4,6 +4,45 @@
         <setmode>PreserveTraits</setmode>
         <setspeed>0.65</setspeed>
         <spellsets>
+            <1>
+                <slot01>cocoon</slot01>
+                <slot02>searing tempest</slot02>
+                <slot04>blazing bound</slot04>
+                <slot06>metallic body</slot06>
+                <slot07>magic fruit</slot07>
+                <slot08>subduction</slot08>
+                <slot09>anvil lightning</slot09>
+                <slot10>dream flower</slot10>
+                <slot11>mortal ray</slot11>
+                <slot12>animating wail</slot12>
+                <slot13>nat. meditation</slot13>
+                <slot14>battery charge</slot14>
+                <slot15>heavy strike</slot15>
+                <slot16>molting plumage</slot16>
+                <slot17>tenebral crush</slot17>
+                <slot18>erratic flutter</slot18>
+                <slot19>sudden lunge</slot19>
+                <slot20>frightful roar</slot20>
+            </1>
+            <2>
+                <slot01>dream flower</slot01>
+                <slot02>occultation</slot02>
+                <slot03>searing tempest</slot03>
+                <slot04>erratic flutter</slot04>
+                <slot05>anvil lightning</slot05>
+                <slot06>tem. upheaval</slot06>
+                <slot07>tenebral crush</slot07>
+                <slot08>memento mori</slot08>
+                <slot09>enervation</slot09>
+                <slot10>diamondhide</slot10>
+                <slot11>reactor cool</slot11>
+                <slot12>subduction</slot12>
+                <slot13>cocoon</slot13>
+                <slot14>blood saber</slot14>
+                <slot15>battery charge</slot15>
+                <slot16>magic fruit</slot16>
+                <slot18>molting plumage</slot18>
+            </2>
             <dd>
                 <slot01>cocoon</slot01>
                 <slot02>metallic body</slot02>
