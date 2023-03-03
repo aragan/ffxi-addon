@@ -6,7 +6,10 @@
 
             </players>
             <strings>
-
+                <12h6>12h/6</12h6>
+                <2100p12m>2100p/12m</2100p12m>
+                <autoinv>autoinv</autoinv>
+                <buy>buy</buy>
             </strings>
         </filters>
         <show>false</show>
