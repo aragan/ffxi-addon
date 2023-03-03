@@ -11,6 +11,9 @@ The addon can be used in conjunction with Gearswap to facilitate gear swapping.
 
 Please check out the [the wiki](https://github.com/sebyg666/GearInfo/wiki) for all the information you'll need to get you started.
 
+
+Author---Aragan (Asura)
+
 command 
 //gi show logo (will toggle logo on and off)
 //gi theme custom1
