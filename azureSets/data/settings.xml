@@ -43,6 +43,26 @@
                 <slot16>magic fruit</slot16>
                 <slot18>molting plumage</slot18>
             </2>
+            <apex>
+                <slot01>sweeping gouge</slot01>
+                <slot02>sudden lunge</slot02>
+                <slot03>searing tempest</slot03>
+                <slot04>whirl of rage</slot04>
+                <slot05>blazing bound</slot05>
+                <slot06>sinker drill</slot06>
+                <slot07>delta thrust</slot07>
+                <slot08>glutinous dart</slot08>
+                <slot09>paralyzing triad</slot09>
+                <slot10>anvil lightning</slot10>
+                <slot11>mortal ray</slot11>
+                <slot13>sickle slash</slot13>
+                <slot14>animating wail</slot14>
+                <slot15>molting plumage</slot15>
+                <slot16>fantod</slot16>
+                <slot17>nat. meditation</slot17>
+                <slot18>heavy strike</slot18>
+                <slot19>dimensional death</slot19>
+            </apex>
             <dd>
                 <slot01>cocoon</slot01>
                 <slot02>metallic body</slot02>
@@ -89,6 +109,27 @@
             <default>
 
             </default>
+            <farm>
+                <slot01>cocoon</slot01>
+                <slot02>metallic body</slot02>
+                <slot03>erratic flutter</slot03>
+                <slot04>tenebral crush</slot04>
+                <slot05>enervation</slot05>
+                <slot06>blood saber</slot06>
+                <slot07>magic fruit</slot07>
+                <slot08>mp drainkiss</slot08>
+                <slot09>delta thrust</slot09>
+                <slot10>frightful roar</slot10>
+                <slot11>paralyzing triad</slot11>
+                <slot12>eyes on me</slot12>
+                <slot14>dream flower</slot14>
+                <slot15>tem. upheaval</slot15>
+                <slot16>occultation</slot16>
+                <slot17>spectral floe</slot17>
+                <slot18>molting plumage</slot18>
+                <slot19>subduction</slot19>
+                <slot20>battery charge</slot20>
+            </farm>
             <gold>
                 <slot01>mortal ray</slot01>
                 <slot02>battery charge</slot02>
