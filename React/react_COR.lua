@@ -166,7 +166,7 @@ return {
            ["complete_reaction"]="facemob",
            ["ready_reaction"]="turnaround"
       }
-   }
+   },
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
@@ -239,4 +239,20 @@ return {
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
         }       
     },
+    ["Sava Savanovic"]={
+        ["Nocturnal Servitude"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Eternal Damnation"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Yilan"]={
+        ["Chilling Roar"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
 }

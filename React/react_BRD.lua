@@ -179,6 +179,22 @@ return {
         ["Everyone's Grudge"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma Stun <bt>"
+        }       
+    },
+    ["Sava Savanovic"]={
+        ["Nocturnal Servitude"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Eternal Damnation"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
         }
-    }
+    }, 
+    ["Yilan"]={
+        ["Chilling Roar"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
 }
