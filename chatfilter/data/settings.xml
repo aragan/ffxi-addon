@@ -7,9 +7,16 @@
             </players>
             <strings>
                 <12h6>12h/6</12h6>
+                <1hm>1h/m</1hm>
+                <2010m>20/10m</2010m>
+                <210010m>2100/10m</210010m>
                 <2100p12m>2100p/12m</2100p12m>
+                <4080m>40/80m</4080m>
                 <autoinv>autoinv</autoinv>
-                <buy>buy</buy>
+                <buy>buy?</buy>
+                <buyh>buyÅh</buyh>
+                <hrm>hr/m</hrm>
+                <mercenary>mercenary</mercenary>
             </strings>
         </filters>
         <show>false</show>
