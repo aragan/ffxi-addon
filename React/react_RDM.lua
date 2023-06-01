@@ -240,7 +240,7 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma Stun <bt>"
         }
-    }
+    },
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
@@ -303,7 +303,7 @@ return {
         },
         ["Shrieking Gale"]={
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
-        },
+        }
     }, 
     ["Gartell"]={
         ["Undulating Shockwave"]={

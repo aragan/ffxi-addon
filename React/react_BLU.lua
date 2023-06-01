@@ -255,7 +255,7 @@ return {
         },
         ["Shrieking Gale"]={
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
-        },
+        }
     }, 
     ["Gartell"]={
         ["Undulating Shockwave"]={
@@ -279,6 +279,18 @@ return {
         ["Chilling Roar"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Bozzetto Crusader"]={
+        ["Manic Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Bozzetto Warlock"]={
+        ["Death"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
         }
     }, 
 }

@@ -113,7 +113,7 @@ return {
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
-        },
+        }
     }, 
     ["Azi Dahaka"]={
         ["Absolute Terror"]={
@@ -127,7 +127,7 @@ return {
         ["Spike Flail "]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.PDT"
-        },
+        }
     }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
@@ -141,7 +141,7 @@ return {
         ["Spike Flail "]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.PDT"
-        },
+        }
     }, 
     ["Gestalt"]={
         ["Dread Spikes"]={
@@ -264,7 +264,7 @@ return {
         },
         ["Shrieking Gale"]={
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
-        },
+        }
     }, 
     ["Gartell"]={
         ["Undulating Shockwave"]={
