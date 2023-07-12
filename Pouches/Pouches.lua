@@ -31,7 +31,7 @@ _addon.name = 'Pouches'
 _addon.version = '1'
 _addon.author = 'Omnys@Valefor'
 _addon.command = 'pouches'
-
+--//pouches [name of unity coffer] //pouches Vidmapire's coffer
 --Requiring libraries used in this addon
 --These should be saved in addons/libs
 require('logger')
@@ -58,9 +58,8 @@ end
 
 windower.register_event('addon command', function(...)
     local inv = windower.ffxi.get_items(0) -- get main inventory
-    local args    = T{...}:map(string.lower)
     
-    item.name = table.concat(args," ")
+    item.name = windower.convert_auto_trans(table.concat({...}," ")):lower()
     item.count = 0
     if inverted[item.name] == nil then
         log('Item, "'..item.name..'", does not exist.')
