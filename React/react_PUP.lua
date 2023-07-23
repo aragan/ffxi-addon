@@ -85,7 +85,7 @@ return {
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
+        },
     }, 
     ["Azi Dahaka"]={
         ["Absolute Terror"]={
@@ -99,7 +99,7 @@ return {
         ["Spike Flail "]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.PDT"
-        }
+        },
     }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
@@ -137,7 +137,7 @@ return {
         ["Sable Breath "]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.idle.Pet.Engaged.DT"
-        }
+        },
     }, 
     ["Onychophora"]={
         ["Psyche Suction"]={
