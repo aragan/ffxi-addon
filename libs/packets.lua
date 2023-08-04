@@ -1,5 +1,5 @@
 --[[
-A library to facilitate packet usage 
+A library to facilitate packet usage
 ]]
 
 _libs = _libs or {}
@@ -146,7 +146,7 @@ parse = function(fields, data, index, max, lookup, depth)
                         if lookup then
                             -- Look up index name in provided table
                             local resource = lookup[1][count + lookup[2] - 1]
-                            field.label = '%s %s':format(resource and resource.name or 'Unknown %d':format(count + lookup[2] - 1), field.label)
+                            field.label = '%s %s':format(resource and resource.english or 'Unknown %d':format(count + lookup[2] - 1), field.label)
                         else
                             -- Just increment numerically
                             field.label = '%s %d':format(field.label, count)
@@ -296,7 +296,7 @@ end
 -- If data is a string it parses an existing packet, otherwise it will create
 -- a new packet table for injection. In that case, data can ba an optional
 -- table containing values to initialize the packet to.
--- 
+--
 -- Example usage
 --  Injection:
 --      local packet = packets.new('outgoing', 0x050, {
@@ -310,7 +310,7 @@ end
 --      packet['Inventory Index'] = 27  -- 27th item in the inventory
 --      packet['Equipment Slot'] = 15   -- 15th slot, left ring
 --      packets.inject(packet)
--- 
+--
 --  Parsing:
 --      windower.register_event('outgoing chunk', function(id, data)
 --          if id == 0x0B6 then -- outgoing /tell

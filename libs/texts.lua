@@ -573,6 +573,14 @@ function texts.stroke_alpha(t, alpha)
     meta[t].settings.text.stroke.alpha = alpha
 end
 
+function texts.draggable(t, draggable)
+    if draggable == nil then
+        return meta[t].settings.flags.draggable
+    end
+
+    meta[t].settings.flags.draggable = draggable
+end
+
 -- Returns true if the coordinates are currently over the text object
 function texts.hover(t, x, y)
     if not t:visible() then
@@ -597,6 +605,10 @@ function texts.destroy(t)
     end
     windower.text.delete(meta[t].name)
     meta[t] = nil
+end
+
+function texts.settings(t)
+    return meta[t].settings
 end
 
 -- Handle drag and drop
