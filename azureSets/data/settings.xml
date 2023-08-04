@@ -255,19 +255,20 @@
                 <slot20>dream flower</slot20>
             </odysolo>
             <pld>
-                <slot01>grand slam</slot01>
-                <slot02>cocoon</slot02>
-                <slot03>bomb toss</slot03>
-                <slot04>healing breeze</slot04>
-                <slot05>jettatura</slot05>
+                <slot01>magnetite cloud</slot01>
+                <slot02>geist wall</slot02>
+                <slot03>cocoon</slot03>
+                <slot04>pollen</slot04>
+                <slot05>sheep song</slot05>
                 <slot06>stinking gas</slot06>
-                <slot07>geist wall</slot07>
-                <slot08>frightful roar</slot08>
-                <slot09>blank gaze</slot09>
-                <slot10>metallic body</slot10>
-                <slot11>terror touch</slot11>
-                <slot12>sheep song</slot12>
-                <slot13>soporific</slot13>
+                <slot07>healing breeze</slot07>
+                <slot08>soporific</slot08>
+                <slot09>ice break</slot09>
+                <slot10>jettatura</slot10>
+                <slot11>grand slam</slot11>
+                <slot12>blank gaze</slot12>
+                <slot13>terror touch</slot13>
+                <slot14>cold wave</slot14>
             </pld>
             <procyellow>
                 <slot01>heat breath</slot01>
