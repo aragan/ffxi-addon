@@ -3,20 +3,64 @@
     <global>
         <filters>
             <players>
-
+                <anky>anky</anky>
+                <bumbaae>bumbaae</bumbaae>
+                <bumbab>bumbab</bumbab>
+                <bumbac>bumbac</bumbac>
+                <efdal>efdal</efdal>
+                <fczjsrr>fczjsrr</fczjsrr>
+                <kimouaeonicc>kimouaeonicc</kimouaeonicc>
+                <mergis>mergis</mergis>
+                <odysseaallnms>odysseaallnms</odysseaallnms>
+                <odysseallnms>odysseallnms</odysseallnms>
+                <oqata>oqata</oqata>
+                <snkoneg>snkoneg</snkoneg>
+                <wowssssswss>wowssssswss</wowssssswss>
+                <wyfdcaa>wyfdcaa</wyfdcaa>
+                <xgppp>xgppp</xgppp>
             </players>
             <strings>
+                <030>0-30</030>
+                <099>0-99</099>
+                <119145>119-145</119145>
+                <120k140k>120k-140k</120k140k>
                 <12h6>12h/6</12h6>
+                <160>1-60</160>
+                <199>1-99</199>
                 <1hm>1h/m</1hm>
                 <2010m>20/10m</2010m>
                 <210010m>2100/10m</210010m>
                 <2100p12m>2100p/12m</2100p12m>
+                <35hr>3.5hr</35hr>
+                <3mbuy>3m buy?</3mbuy>
+                <3zone>3zone)</3zone>
                 <4080m>40/80m</4080m>
+                <500p3m>500p/3m</500p3m>
+                <5145>5-145</5145>
+                <5mrun>5m/run</5mrun>
+                <ambuscadev1vd3m>ambuscadev1 vd 3m</ambuscadev1vd3m>
                 <autoinv>autoinv</autoinv>
-                <buy>buy?</buy>
                 <buyh>buyÅh</buyh>
+                <equipitem>equip item</equipitem>
+                <fl35hr>fl~~3.5hr</fl35hr>
+                <fuginkei>fu gin kei</fuginkei>
                 <hrm>hr/m</hrm>
+                <ilabratring>ilabrat ring</ilabratring>
+                <keikyoukinginfu>kei kyou kin gin fu</keikyoukinginfu>
+                <kinginkei>kin gin kei</kinginkei>
+                <kinkyoukei>kin kyou kei</kinkyoukei>
+                <lilith>lilith</lilith>
                 <mercenary>mercenary</mercenary>
+                <niqmadduring>niqmaddu ring</niqmadduring>
+                <odinvd>odin vd</odinvd>
+                <odysseyt1v25>odysseyt1-v25*</odysseyt1v25>
+                <ongov0v1>ongov0v1</ongov0v1>
+                <t1t2v25t3t4v20>t1t2 v25 /// t3t4 v20</t1t2v25t3t4v20>
+                <telosearring>telos earring</telosearring>
+                <tinnin>tinnin</tinnin>
+                <unm145>unm~145</unm145>
+                <v015>v0-15</v015>
+                <v0v1>v0 v1</v0v1>
             </strings>
         </filters>
         <show>false</show>
