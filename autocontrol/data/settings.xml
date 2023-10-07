@@ -1708,12 +1708,12 @@
                 <head>soulsoother head</head>
                 <slot01>strobe ii</slot01>
                 <slot02>strobe</slot02>
-                <slot03>regulator</slot03>
-                <slot04>heat capacitor ii</slot04>
+                <slot03>steam jacket</slot03>
+                <slot04>armor plate iii</slot04>
                 <slot05>mana jammer iii</slot05>
                 <slot06>mana jammer iv</slot06>
                 <slot07>auto-repair kit iv</slot07>
-                <slot08>barrier module ii</slot08>
+                <slot08>barrier module</slot08>
                 <slot09>flashbulb</slot09>
                 <slot10>armor plate iv</slot10>
                 <slot11>optic fiber</slot11>
@@ -1751,6 +1751,22 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </vidmapire>
+            <vinipata>
+                <frame>valoredge frame</frame>
+                <head>valoredge head</head>
+                <slot01>tension spring v</slot01>
+                <slot02>magniplug</slot02>
+                <slot03>magniplug ii</slot03>
+                <slot04>attuner</slot04>
+                <slot05>flame holder</slot05>
+                <slot06>coiler ii</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>turbo charger</slot09>
+                <slot10>armor plate iv</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </vinipata>
             <virava>
                 <frame>sharpshot frame</frame>
                 <head>valoredge head</head>
@@ -1835,7 +1851,7 @@
         <padding>0</padding>
         <pos>
             <x>511</x>
-            <y>573</y>
+            <y>502</y>
         </pos>
         <text>
             <alpha>255</alpha>
