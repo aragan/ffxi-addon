@@ -86,4 +86,12 @@
         </word_sets>
         <words>Regal Gauntlets,Regal Belt</words>
     </global>
+    <aragan>
+        <text>
+            <pos>
+                <x>1121</x>
+                <y>54</y>
+            </pos>
+        </text>
+    </aragan>
 </settings>
