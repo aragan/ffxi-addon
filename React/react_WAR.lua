@@ -79,6 +79,12 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
+    ["Mireu"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 
@@ -188,7 +194,7 @@ return {
         },
         ["Shrieking Gale"]={
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
-        },
+        }
     }, 
     ["Gartell"]={
         ["Undulating Shockwave"]={

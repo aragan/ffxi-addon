@@ -5,8 +5,8 @@ return {
             ["ready_reaction"]="runaway 12"
         },
          ["Interference"]={
-                ["complete_reaction"]="", 
-                ["ready_reaction"]="turnaround"
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
         }
     },
     ["Dazzling Dolores"]={

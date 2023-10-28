@@ -213,7 +213,7 @@ return {
     }, 
     ["Zerde"]={
         ["Just Desserts"]={
-            ["complete_reaction"]="wait 2;input /ma 'Frazzle II' <bt>", 
+            ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma Stun <bt>"
         }
     }, 
@@ -314,3 +314,9 @@ return {
         }       
     },
 }
+
+--[[["Zerde"]={
+    ["Just Desserts"]={
+        ["complete_reaction"]="wait 3;input /ma 'Frazzle III' <bt>", 
+        ["ready_reaction"]="input /ma Stun <bt>"
+    },]]

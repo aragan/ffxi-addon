@@ -253,4 +253,14 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
+    ["Alexander"]={
+        ["Divine Judgment"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Radiant Sacrament"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="facemob"
+        },
+    }, 
 }
