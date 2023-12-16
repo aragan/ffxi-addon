@@ -59,8 +59,8 @@
             </flags>
             <padding>0</padding>
             <pos>
-                <x>85</x>
-                <y>85</y>
+                <x>1121</x>
+                <y>54</y>
             </pos>
             <text>
                 <alpha>255</alpha>
@@ -84,14 +84,6 @@
         <word_sets>
             <default>Albumen,Zerde</default>
         </word_sets>
-        <words>Regal Gauntlets,Regal Belt</words>
+        <words>Crepuscular Scythe,Dagon breastplate,Regal Belt,Dagon Breast.,Volte Tights,Crepuscular Knife,Volte Spats,Twilight Cloak,Volte Mittens,Ashera Harness,Crepuscular Cloak</words>
     </global>
-    <aragan>
-        <text>
-            <pos>
-                <x>1121</x>
-                <y>54</y>
-            </pos>
-        </text>
-    </aragan>
 </settings>
