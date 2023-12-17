@@ -38,7 +38,7 @@
             <33>Empy Weapons Abyssea</33>
             <34>50 50 75</34>
             <35>80 85 90</35>
-            <36>Buy?</36>
+            <36>3zone</36>
             <37>%d+%/%d+M</37>
             <38>%d+H%/%d?M</38>
             <39>kill credit x%d.*%d+m.*/tell</39>
@@ -90,11 +90,53 @@
     <aragan>
         <lfgwindow>
             <pos>
-                <x>57</x>
+                <x>384</x>
+                <y>40</y>
             </pos>
         </lfgwindow>
     </aragan>
     <kamehamehaa>
+        <blacklist>
+            <1>Åi</1>
+            <2>Åô</2>
+            <3>Åö</3>
+            <4>S H O P</4>
+            <5>CODE:</5>
+            <6>discount</6>
+            <7>Discount</7>
+            <8>Price</8>
+            <9>prices</9>
+            <10>gil</10>
+            <11>empy weapon</11>
+            <12>Shop</12>
+            <13>Weapon Shop</13>
+            <14>1%-99</14>
+            <15>Job Points.*2100</15>
+            <16>Job Points.*500</16>
+            <17>JP.*2100</17>
+            <18>JP.*500</18>
+            <19>Capacity Points.*2100</19>
+            <20>Capacity Points.*500</20>
+            <21>CPS*.*2100</21>
+            <22>CPS*.*500</22>
+            <23>ÔΩÜÔΩÜÔΩòÔΩâÔΩìÔΩàÔΩèÔΩê</23>
+            <24>Jinpu 99999</24>
+            <25>Jinpu99999</25>
+            <26>This is IGXE</26>
+            <27>Clear Mind*.*15mins rdy start</27>
+            <28>Reisenjima*.*Helms*.*T4*.*Buy?</28>
+            <29>Aeonic Weapon*.*3zone*.*Buy</29>
+            <30>Aeonic Weapon*.*Mind</30>
+            <31>Aeonic Weapon*.*Buy</31>
+            <32>Selling Aeonic</32>
+            <33>Empy Weapons Abyssea</33>
+            <34>50 50 75</34>
+            <35>80 85 90</35>
+            <36>Buy?</36>
+            <37>%d+%/%d+M</37>
+            <38>%d+H%/%d?M</38>
+            <39>kill credit x%d.*%d+m.*/tell</39>
+        </blacklist>
         <lfgwindow>
             <pos>
                 <x>799</x>

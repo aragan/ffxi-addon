@@ -41,7 +41,7 @@ local function Insert(t1, t2)
     end
 end
 
-local islfgpositive = {'Looking for members', 'Can i have it', 'Team up', '%d/%d?', '%@%d/%d?', 'looking for', 'lfm', 'lfg', 'looking for group'}
+local islfgpositive = {'Looking for members', 'Can i have it', 'Team up', '%d/%d?', '%@%d/%d?', 'looking for', 'lfm', 'lfg', 'looking for group', 'pool'}
 local islfgfull = {"Our party's full"}
 local islfggeneral = {'TANK', 'HEALER', 'healing', 'SUPPORT','DD','token farm'}
 local islfgjobs = {'whm', 'brd', 'sch', 'remaBRD', 'ywhm', 'nsmn', 'smn', 'war', 'drg', 'rdm', 'cor', 'roll+%d', 'sam', 'dnc', 'pld', 'run', 'drk', 'bst', 'rng', 'nin', 'blu', 'pup', 'geo', 'mnk', 'blm', 'thf'}
