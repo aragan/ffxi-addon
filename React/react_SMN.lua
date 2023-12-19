@@ -11,6 +11,16 @@ return {
             ["ready_reaction"]="input /pet Heel"
         }
     }, 
+    ["Warder of Courage"]={
+        ["Benediction"]={
+            ["complete_reaction"]="timers create Next", 
+            ["ready_reaction"]=""
+        }, 
+        ["Soul Voice"]={
+            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
+            ["ready_reaction"]=""
+        }
+    }, 
 	["Bozzetto Breadwinner"]={
         ["Aero Meeble Warble"]={
             ["complete_reaction"]="", 

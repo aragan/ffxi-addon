@@ -21,7 +21,7 @@ return {
             ["ready_reaction"]=""
         }, 
         ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
+            ["complete_reaction"]="input /item Charm", 
             ["ready_reaction"]=""
         }
     }, 
@@ -109,7 +109,31 @@ return {
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    },
+    ["Naga Raja"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+    }, 
+    ["Azi Dahaka"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
     }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
@@ -140,7 +164,7 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="runaway 12"
         }
-    },
+    }, 
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
@@ -228,5 +252,15 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    }, 
+    ["Alexander"]={
+        ["Divine Judgment"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Radiant Sacrament"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="facemob"
+        },
     }, 
 }

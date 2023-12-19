@@ -21,7 +21,7 @@ return {
             ["ready_reaction"]=""
         }, 
         ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
+            ["complete_reaction"]="input /item Charm", 
             ["ready_reaction"]=""
         }
     }, 
@@ -109,8 +109,32 @@ return {
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Sudden Lunge <bt>"
         }
-    }, 
+    },
+    ["Naga Raja"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
+    ["Azi Dahaka"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 
@@ -139,6 +163,12 @@ return {
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="runaway 12"
+        }
+    },
+    ["Urmahlullu"]={
+        ["Thunderbolt"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
     ["Cachaemic Corse"]={

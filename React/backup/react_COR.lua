@@ -1,36 +1,50 @@
 return {
-    ["Ou"]={
-        ["Dancing Fullers"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="runaway 12"
+	["Pakecet"]={
+		["Aetheric Pull"]={
+			["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+		}
+	},
+	["Bozzetto High Vicar"]={
+		["Torment of Gu'Dha"]={
+            ["complete_reaction"]="runto 3", 
+            ["ready_reaction"]="Savage Blade;react runaway 19"
+        }
+	},
+	["Bozzetto Consul"]={
+        ["Sand Trap"]={
+            ["complete_reaction"]="runto 3", 
+            ["ready_reaction"]="runaway 19"
         },
-         ["Interference"]={
-                ["complete_reaction"]="", 
-                ["ready_reaction"]="turnaround"
+		["Fettering Tackle"]={
+            ["complete_reaction"]="runto 3", 
+            ["ready_reaction"]="runaway 19"
         }
     },
-    ["Dazzling Dolores"]={
-        ["Tainting Breath"]={
+    ["Quetzalcoatl"]={
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Hidhaegg"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
+    ["Gestalt"]={
+        ["Dread Spikes"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
     },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
-        }
-    }, 
-    ["Onychophora"]={
-        ["Psyche Suction"]={
+    ["Kabandha"]={
+        ["Deathly Glare"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
-    }, 
+    },
     ["Golden Kist"]={
         ["Death Trap"]={
             ["complete_reaction"]="", 
@@ -59,6 +73,12 @@ return {
             ["ready_reaction"]="turnaround"
         }
     }, 
+    ["Glassy Gorger"]={
+        ["Promyvion Barrier"]={
+            ["complete_reaction"]="input /ja Dark Shot <bt>", 
+            ["ready_reaction"]=""
+        }
+    },
     ["Kin"]={
         ["Deathly Diminuendo"]={
             ["complete_reaction"]="", 
@@ -76,7 +96,7 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Death Sentence"]={
+        ["Malign Invocation"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
@@ -84,63 +104,69 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Stygian Sphere"]={
+        ["Death Sentence"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Malign Invocation"]={
+        ["Stygian Sphere"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
     }, 
-    ["Tyrannotaur"]={
-        ["Mortal Ray"]={
-            ["complete_reaction"]="facemob", 
-            ["ready_reaction"]="turnaround"
+    ["Apex Crab"]={
+        ["Scissor Guard"]={
+            ["complete_reaction"]="input /Dark Shot", 
+            ["ready_reaction"]=""
         }
     }, 
-    ["Kabandha"]={
-        ["Deathly Glare"]={
+    ["Ou"]={
+        ["Dancing Fullers"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
+            ["ready_reaction"]="runaway 12"
+        },
+         ["Interference"]={
+                ["complete_reaction"]="", 
+                ["ready_reaction"]="turnaround"
         }
     },
-    ["Quetzalcoatl"]={
-        ["Cyclone Wing"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    }, 
-    ["Hidhaegg"]={
-        ["Absolute Terror"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    }, 
-    ["Gestalt"]={
-        ["Dread Spikes"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    },
-    ["Glassy Craver"]={
-        ["View Sync"]={
-            ["complete_reaction"]="runto 21", 
-            ["ready_reaction"]="runaway 25"
-        }
-    }, 
-    ["Pakecet"]={
-        ["Aetheric Pull"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    }, 
     ["Kei"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="runaway 12"
         }
     },
+	["Bozzetto Bigwig"]={
+        ["Phantasm Strike"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
+        }
+    },
+	["Bozzetto Skathi"]={
+       ["Blight Dance"]={
+           ["complete_reaction"]="facemob",
+           ["ready_reaction"]="turnaround"
+       },
+	   ["Noxious Dance"]={
+           ["complete_reaction"]="facemob",
+           ["ready_reaction"]="turnaround"
+       }
+   },
+   ["Bozzetto Freyja"]={
+       ["Petrifying Dance"]={
+           ["complete_reaction"]="facemob",
+           ["ready_reaction"]="turnaround"
+       },
+	   ["Edifying Dance"]={
+           ["complete_reaction"]="facemob",
+           ["ready_reaction"]="turnaround"
+       }
+   },
+   ["Bozzetto Frigg"]={
+       ["Raqs Baladi Dance"]={
+           ["complete_reaction"]="facemob",
+           ["ready_reaction"]="turnaround"
+      }
+   },
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
@@ -228,5 +254,15 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    },
+    ["Alexander"]={
+        ["Divine Judgment"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Radiant Sacrament"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="facemob"
+        },
     }, 
 }

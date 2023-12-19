@@ -252,12 +252,8 @@ return {
         }
     }, 
     ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
         ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
+            ["complete_reaction"]="input /item Charm", 
             ["ready_reaction"]=""
         }
     }, 

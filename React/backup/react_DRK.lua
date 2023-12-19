@@ -1,4 +1,38 @@
 return {
+    ["Golden Kist"]={
+        ["Death Trap"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+    ["Zerde"]={
+        ["Just Desserts"]={
+             ["complete_reaction"]="", 
+             ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+    ["Botulus Rex"]={
+        ["Just Desserts"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
+	["Pakecet"]={
+		["Aetheric Pull"]={
+			["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+		}
+	},
+    ["Crom Dubh"]={
+        ["Noiahionto"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }, 
+        ["Infernal Bulwark"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma Stun <bt>"
+        }
+    }, 
     ["Ou"]={
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
@@ -9,54 +43,10 @@ return {
                 ["ready_reaction"]="turnaround"
         }
     },
-    ["Dazzling Dolores"]={
-        ["Tainting Breath"]={
+	["Kei"]={
+        ["Dancing Fullers"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
-        }
-    }, 
-    ["Onychophora"]={
-        ["Psyche Suction"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    }, 
-    ["Golden Kist"]={
-        ["Death Trap"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    }, 
-    ["Hanbi"]={
-        ["Dread Spikes"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    }, 
-    ["Lady Lilith"]={
-        ["Dark Thorn"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }, 
-        ["Fatal Allure"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    }, 
-    ["Glassy Thinker"]={
-        ["Pain Sync"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
+            ["ready_reaction"]="runaway 12"
         }
     }, 
     ["Kin"]={
@@ -68,7 +58,7 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Interference"]={
+        ["Malign Invocation"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
@@ -76,7 +66,7 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Death Sentence"]={
+        ["Interference"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
@@ -84,21 +74,21 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Stygian Sphere"]={
+        ["Death Sentence"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }, 
-        ["Malign Invocation"]={
+        ["Stygian Sphere"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
     }, 
-    ["Tyrannotaur"]={
-        ["Mortal Ray"]={
-            ["complete_reaction"]="facemob", 
+    ["Glassy Thinker"]={
+        ["Pain Sync"]={
+            ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
-    }, 
+    },
     ["Kabandha"]={
         ["Deathly Glare"]={
             ["complete_reaction"]="", 
@@ -109,13 +99,49 @@ return {
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    },
+    ["Naga Raja"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+    }, 
+    ["Azi Dahaka"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Spike Flail "]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
     }, 
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
+        },
+        ["Cyclone Wing"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Spike Flail "]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
     }, 
     ["Gestalt"]={
         ["Dread Spikes"]={
@@ -129,16 +155,50 @@ return {
             ["ready_reaction"]="runaway 25"
         }
     }, 
-    ["Pakecet"]={
-        ["Aetheric Pull"]={
+    ["Onychophora"]={
+        ["Psyche Suction"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
     }, 
-    ["Kei"]={
-        ["Dancing Fullers"]={
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="runaway 12"
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Hanbi"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+	["Lady Lilith"]={
+        ["Fatal Allure"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        },
+		["Dark Thorn"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+	["Bozzetto Monarch"]={
+        ["Throat Stab"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="runaway 6"
+        }
+    },
+	["Duke Vepar"]={
+        ["Viscous Deluge"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
+    ["Urmahlullu"]={
+        ["Thunderbolt"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
     ["Cachaemic Corse"]={
@@ -197,6 +257,7 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
+    
     ["Leshonn"]={
         ["Undulating Shockwave"]={
             ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"

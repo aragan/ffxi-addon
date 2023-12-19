@@ -11,6 +11,16 @@ return {
             ["ready_reaction"]="turnaround"
         }
     },
+    ["Warder of Courage"]={
+        ["Benediction"]={
+            ["complete_reaction"]="timers create Next", 
+            ["ready_reaction"]=""
+        }, 
+        ["Soul Voice"]={
+            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
+            ["ready_reaction"]=""
+        }
+    }, 
     ["Dazzling Dolores"]={
         ["Tainting Breath"]={
             ["complete_reaction"]="", 

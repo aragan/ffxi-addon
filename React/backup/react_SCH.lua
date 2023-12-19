@@ -57,6 +57,7 @@ return {
             ["ready_reaction"]="input /ma Stun <bt>"
         }
     }, 
+
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
@@ -113,16 +114,6 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
-        }
-    }, 
     ["Leshonn"]={
         ["Undulating Shockwave"]={
             ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"

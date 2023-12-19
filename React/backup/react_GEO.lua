@@ -119,16 +119,6 @@ return {
             ["ready_reaction"]=""
         }       
     },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
-        }
-    }, 
     ["Sava Savanovic"]={
         ["Nocturnal Servitude"]={
             ["complete_reaction"]="facemob", 

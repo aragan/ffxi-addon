@@ -17,13 +17,13 @@ return {
     },
     ["Apex Crab"]={
         ["Shell Guard"]={
-            ["complete_reaction"]="input /ma 'Magic Finale' <bt>", 
+            ["complete_reaction"]="input /ma Magic Finale <bt>", 
             ["ready_reaction"]=""
         }
     }, 
     ["Hanbi"]={
         ["Dread Spikes"]={
-            ["complete_reaction"]="input /ma 'Magic Finale' <bt>", 
+            ["complete_reaction"]="input /ma Magic Finale <bt>", 
             ["ready_reaction"]=""
         }
     }, 
@@ -39,7 +39,7 @@ return {
     },
     ["Glassy Craver"]={
         ["Material Fend"]={
-            ["complete_reaction"]="input /ma 'Magic Finale' <bt>", 
+            ["complete_reaction"]="input /ma Magic Finale <bt>", 
             ["ready_reaction"]=""
         }
     },
@@ -127,13 +127,13 @@ return {
     },
 	["Tiyanak"]={
         ["Dread Spikes"]={
-            ["complete_reaction"]="input /ma 'Magic Finale' <bt>", 
+            ["complete_reaction"]="input /ma Magic Finale <bt>", 
             ["ready_reaction"]=""
         }
     }, 
     ["Gestalt"]={
         ["Dread Spikes"]={
-            ["complete_reaction"]="input /ma 'Magic Finale' <bt>", 
+            ["complete_reaction"]="input /ma Magic Finale <bt>", 
             ["ready_reaction"]=""
         }
     },
@@ -195,16 +195,6 @@ return {
         ["Chilling Roar"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
         }
     }, 
 }

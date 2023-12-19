@@ -1,72 +1,60 @@
 return {
-    ["Golden Kist"]={
-        ["Death Trap"]={
+    ["Actor"]={
+        ["Action"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    },
-    ["Botulus Rex"]={
-        ["Just Desserts"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    },
-    ["Hidhaegg"]={
-        ["Absolute Terror"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    }, 
-    ["Quetzalcoatl"]={
-        ["Cyclone Wing"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    }, 
-    ["Hidhaegg"]={
-        ["Absolute Terror"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    }, 
-    ["Kabandha"]={
-        ["Deathly Glare"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="turnaround"
-        }
-    },
-    ["Botulus Rex"]={
-        ["Just Desserts"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    }, 
-    ["Crom Dubh"]={
-        ["Noiahionto"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }, 
-        ["Infernal Bulwark"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    }, 
-    ["Zerde"]={
-        ["Just Desserts"]={
-            ["complete_reaction"]="wait 2;input /ma 'Frazzle II' <bt>", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    }, 
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
             ["ready_reaction"]=""
         }
     }, 
+    ["Bozzetto Breadwinner"]={
+        ["Aero Meeble Warble"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Baraera\" <me>"
+        }, 
+        ["Light of Penance"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barthundra\" <me>"
+        }, 
+        ["Words of Bane"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barfira\" <me>"
+        }, 
+        ["Thunder Meeble Warble"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barthundra\" <me>"
+        }, 
+        ["Latteral Slash"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barstonra\" <me>"
+        }, 
+        ["Stone Meeble Warble"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barstonra\" <me>"
+        }, 
+        ["Water Meeble Warble"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barwatera\" <me>"
+        }, 
+        ["Vertical Slash"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barwatera\" <me>"
+        }, 
+        ["Pierce Vitals"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Baraera\" <me>"
+        }, 
+        ["Blizzard Meeble Warble"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barblizzara\" <me>"
+        }, 
+        ["Sigh"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barblizzara\" <me>"
+        }, 
+        ["Fire Meeble Warble"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma \"Barfira\" <me>"
+        }
+    },
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
@@ -138,21 +126,5 @@ return {
         ["Shrieking Gale"]={
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
         }       
-    },
-    ["Sava Savanovic"]={
-        ["Nocturnal Servitude"]={
-            ["complete_reaction"]="facemob", 
-            ["ready_reaction"]="turnaround"
-        },
-        ["Eternal Damnation"]={
-            ["complete_reaction"]="facemob", 
-            ["ready_reaction"]="turnaround"
-        }
-    }, 
-    ["Yilan"]={
-        ["Chilling Roar"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    }, 
+    }
 }

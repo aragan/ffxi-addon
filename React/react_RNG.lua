@@ -15,7 +15,7 @@ return {
             ["ready_reaction"]=""
         }, 
         ["Soul Voice"]={
-            ["complete_reaction"]="input /item Charm", 
+            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
             ["ready_reaction"]=""
         }
     }, 

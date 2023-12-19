@@ -9,13 +9,19 @@ return {
                 ["ready_reaction"]="turnaround"
         }
     },
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Warder of Courage"]={
         ["Benediction"]={
             ["complete_reaction"]="timers create Next", 
             ["ready_reaction"]=""
         }, 
         ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
+            ["complete_reaction"]="input /item Charm", 
             ["ready_reaction"]=""
         }
     }, 
@@ -133,22 +139,78 @@ return {
         ["Dancing Fullers"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="runaway 12"
-        }       
+        }
     },
-    ["Sava Savanovic"]={
-        ["Nocturnal Servitude"]={
-            ["complete_reaction"]="facemob", 
-            ["ready_reaction"]="turnaround"
-        },
-        ["Eternal Damnation"]={
-            ["complete_reaction"]="facemob", 
+    ["Cachaemic Corse"]={
+        ["Danse Macabre"]={
+            ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
-    }, 
-    ["Yilan"]={
-        ["Chilling Roar"]={
-            ["complete_reaction"]="", 
+    },
+    ["Shedu"]={
+        ["Thunderstrike"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Tourbillion"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
+        ["Fulmination"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        },
+        ["Dreadstorm"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.PDT"
+        }
+    },
+    ["Harpimaria"]={
+        ["Thunderstrike"]={
+            ["complete_reaction"]="",
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    },
+    ["Ig-Alima"]={
+        ["Oblivion's Mantle"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Bolt of Perdition"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Crippling Rime"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Diluvial Wake"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Divesting Gale"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Kurnugi Collapse"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    },
+    ["Leshonn"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
+        },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
+        },
     }, 
+    ["Gartell"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
+        },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
+        }       
+    },
 }

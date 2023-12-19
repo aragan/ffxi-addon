@@ -1,35 +1,17 @@
 return {
-	["Pakecet"]={
-		["Aetheric Pull"]={
-			["complete_reaction"]="input /ma dispel <bt>", 
-            ["ready_reaction"]=""
-		}
-	},
-    ["Zerde"]={
-        ["Just Desserts"]={
+    ["Golden Kist"]={
+        ["Death Trap"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma Stun <bt>"
         }
-    },
-    ["Kei"]={
-        ["Dancing Fullers"]={
+    }, 
+    ["Onychophora"]={
+        ["Psyche Suction"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="runaway 12"
+            ["ready_reaction"]="input /pet Heel"
         }
     }, 
-    ["Apex Eruca"]={
-        ["Cocoon"]={
-            ["complete_reaction"]="input /ma dispel <bt>", 
-            ["ready_reaction"]=""
-        }
-    },
-	["Apex Crab"]={
-        ["Scissor Guard"]={
-            ["complete_reaction"]="input /ma Dispel <bt>", 
-            ["ready_reaction"]=""
-        }
-    }, 
-    ["Bozzetto Breadwinner"]={
+	["Bozzetto Breadwinner"]={
         ["Aero Meeble Warble"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma \"Baraera\" <me>"
@@ -77,58 +59,8 @@ return {
         ["Words of Bane"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma \"Barfira\" <me>"
-        }
-    },
-	["Apex Jagil"]={
-        ["Water Shield"]={
-            ["complete_reaction"]="input /ma Dispel <bt>", 
-            ["ready_reaction"]=""
-        },
-		["Water Wall"]={
-            ["complete_reaction"]="input /ma Dispel <bt>", 
-            ["ready_reaction"]=""
-        }
-    }, 
-	["Bozzetto Skathi"]={
-        ["Blight Dance"]={
-            ["complete_reaction"]="facemob", 
-            ["ready_reaction"]="turnaround"
-        }
-    }, 
-    ["Bozzetto Freyja"]={
-        ["Petrifying Dance"]={
-            ["complete_reaction"]="facemob", 
-            ["ready_reaction"]="turnaround"
-        }
-    }, 
-    ["Bozzetto Frigg"]={
-        ["Raqs Baladi Dance"]={
-            ["complete_reaction"]="facemob", 
-            ["ready_reaction"]="turnaround"
-        }
-    },
-	["Lady Lilith"]={
-        ["Dark Thorn"]={
-            ["complete_reaction"]="input /ma dispel <bt>",
-            ["ready_reaction"]=""
-        }
-    },
-	["Bozzetto Monarch"]={
-        ["Sigh"]={
-            ["complete_reaction"]="input /ma dispel <t>",
-            ["ready_reaction"]=""
         }       
     },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
-        }
-    }, 
     ["Sava Savanovic"]={
         ["Nocturnal Servitude"]={
             ["complete_reaction"]="facemob", 

@@ -191,16 +191,6 @@ return {
             ["ready_reaction"]="input /ma Stun <bt>"
         }
     }, 
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
-        }
-    }, 
     ["Bozzetto Skathi"]={
         ["Blight Dance"]={
             ["complete_reaction"]="facemob", 

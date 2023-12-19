@@ -1,22 +1,110 @@
 return {
+    ["Ou"]={
+        ["Dancing Fullers"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
+        },
+         ["Interference"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Dazzling Dolores"]={
+        ["Tainting Breath"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
+    ["Warder of Courage"]={
+        ["Benediction"]={
+            ["complete_reaction"]="timers create Next", 
+            ["ready_reaction"]=""
+        }, 
+        ["Soul Voice"]={
+            ["complete_reaction"]="input /item Charm", 
+            ["ready_reaction"]=""
+        }
+    }, 
+    ["Onychophora"]={
+        ["Psyche Suction"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
     ["Golden Kist"]={
         ["Death Trap"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    },
-    ["Botulus Rex"]={
-        ["Just Desserts"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }
-    },
-    ["Hidhaegg"]={
-        ["Absolute Terror"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
+    ["Hanbi"]={
+        ["Dread Spikes"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Lady Lilith"]={
+        ["Dark Thorn"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Fatal Allure"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Glassy Thinker"]={
+        ["Pain Sync"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Kin"]={
+        ["Deathly Diminuendo"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Hellish Crescendo"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Interference"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Diabolic Claw"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Death Sentence"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Stygian Cyclone"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Stygian Sphere"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Malign Invocation"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Tyrannotaur"]={
+        ["Mortal Ray"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Kabandha"]={
+        ["Deathly Glare"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    },
     ["Quetzalcoatl"]={
         ["Cyclone Wing"]={
             ["complete_reaction"]="", 
@@ -26,37 +114,33 @@ return {
     ["Hidhaegg"]={
         ["Absolute Terror"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
+            ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
-    ["Kabandha"]={
-        ["Deathly Glare"]={
+    ["Gestalt"]={
+        ["Dread Spikes"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
     },
-    ["Botulus Rex"]={
-        ["Just Desserts"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
+    ["Glassy Craver"]={
+        ["View Sync"]={
+            ["complete_reaction"]="runto 21", 
+            ["ready_reaction"]="runaway 25"
         }
     }, 
-    ["Crom Dubh"]={
-        ["Noiahionto"]={
+    ["Pakecet"]={
+        ["Aetheric Pull"]={
             ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
-        }, 
-        ["Infernal Bulwark"]={
-            ["complete_reaction"]="", 
-            ["ready_reaction"]="input /ma Stun <bt>"
+            ["ready_reaction"]="turnaround"
         }
     }, 
-    ["Zerde"]={
-        ["Just Desserts"]={
-            ["complete_reaction"]="wait 2;input /ma 'Frazzle II' <bt>", 
-            ["ready_reaction"]="input /ma Stun <bt>"
+    ["Kei"]={
+        ["Dancing Fullers"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="runaway 12"
         }
-    }, 
+    },
     ["Cachaemic Corse"]={
         ["Danse Macabre"]={
             ["complete_reaction"]="", 
@@ -113,16 +197,6 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     },
-    ["Warder of Courage"]={
-        ["Benediction"]={
-            ["complete_reaction"]="timers create Next", 
-            ["ready_reaction"]=""
-        }, 
-        ["Soul Voice"]={
-            ["complete_reaction"]="input /item 'Charm Buffer' <me>", 
-            ["ready_reaction"]=""
-        }
-    }, 
     ["Leshonn"]={
         ["Undulating Shockwave"]={
             ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
@@ -153,23 +227,6 @@ return {
         ["Chilling Roar"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
-        }
-    },
-    ["Aita"]={
-        ["Flaming Kick"]={
-            ["complete_reaction"]="input /p >>> NM WEAK water NOW"
-        },
-        ["Flashflood"]={
-            ["complete_reaction"]="input /p >>> NM WEAK THUNDER NOW"
-        },
-        ["Icy Grasp"]={
-            ["complete_reaction"]="input /p >>> NM WEAK FIRE NOW"
-        },
-        ["Eroding Flesh"]={
-            ["complete_reaction"]="input /p >>> NM WEAK WIND NOW"
-        },
-        ["Fulminous Smash"]={
-            ["complete_reaction"]="input /p >>> NM WEAK STONE NOW"
         }
     }, 
 }
