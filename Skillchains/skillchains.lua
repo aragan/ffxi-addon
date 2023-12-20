@@ -377,7 +377,7 @@ windower.register_event('addon command', function(cmd, ...)
     elseif cmd == 'eval' then
         assert(loadstring(table.concat({...}, ' ')))()
     else
-        windower.add_to_chat(207, '%s: valid commands [save | move | burst | weapon | spell | pet | props | step | timer | color | aeonic]':format(_addon.name))
+        --windower.add_to_chat(207, '%s: valid commands [save | move | burst | weapon | spell | pet | props | step | timer | color | aeonic]':format(_addon.name))
     end
 end)
 
