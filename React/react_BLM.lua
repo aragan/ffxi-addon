@@ -125,7 +125,7 @@ return {
     },
     ["Leshonn"]={
         ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
+            ["complete_reaction"]="input /p Changing to Wind Hands! weak Ice SC >>Induration<< <call7>"
         },
         ["Shrieking Gale"]={
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
@@ -133,11 +133,45 @@ return {
     }, 
     ["Gartell"]={
         ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
+            ["complete_reaction"]="input /p Changing to Wind Hands! weak Ice SC >>Induration<< <call7>"
         },
         ["Shrieking Gale"]={
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
         }       
+    },
+    ["Degei"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /p  WEAK WATER CHANGE SC >>Reverberation<< MB WATER <call7>"
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /p  WEAK THUNDER CHANGE SC >>Fragmentation<< MB THUNDER <call7>"
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /p  WEAK FIRE CHANGE SC >>Fusion<< MB FIRE <call7>"
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /p  WEAK WIND CHANGE SC >>Detonation<< MB WIND <call7>"
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /p  WEAK EARTH CHANGE SC >>Scission<< MB STONE <call7>"
+        }
+    },
+    ["Aita"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /p  WEAK WATER CHANGE SC >>Reverberation<< MB WATER <call7>"
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /p  WEAK THUNDER CHANGE SC >>Fragmentation<< MB THUNDER <call7>"
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /p  WEAK FIRE CHANGE SC >>Fusion<< MB FIRE <call7>"
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /p  WEAK WIND CHANGE SC >>Detonation<< MB WIND <call7>"
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /p  WEAK EARTH CHANGE SC >>Scission<< MB STONE <call7>"
+        }
     },
     ["Sava Savanovic"]={
         ["Nocturnal Servitude"]={

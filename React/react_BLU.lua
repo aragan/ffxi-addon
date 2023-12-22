@@ -198,6 +198,10 @@ return {
     ["Golden Kist"]={
         ["Death Trap"]={
             ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        },
+        ["Pandora's Curse"]={
+            ["complete_reaction"]="", 
             ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
         }
     }, 
@@ -338,5 +342,31 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="turnaround"
         }
-    }
+    },
+    ["Chaos"]={
+        ["Black Sanctus"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
+        },
+        ["Oppressive Yawp"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
+        },
+        ["Silent Storm"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
+        },
+        ["Seeping Dread"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
+        },
+        ["Tenebrous Surge"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
+        },
+        ["Wrenching Impale"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
+        }
+    },
 }
