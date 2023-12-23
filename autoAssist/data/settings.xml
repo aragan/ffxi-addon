@@ -1,0 +1,14 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <approach>true</approach>
+        <engage>true</engage>
+        <face_target>true</face_target>
+        <follow_target />
+        <max_range>3.5</max_range>
+        <reposition>true</reposition>
+        <show_debug>false</show_debug>
+        <update_time>0.03</update_time>
+        <use_fastfollow>false</use_fastfollow>
+    </global>
+</settings>
