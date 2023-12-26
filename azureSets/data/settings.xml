@@ -66,23 +66,23 @@
                 <slot20>glutinous dart</slot20>
             </all>
             <aoe>
-                <slot01>molting plumage</slot01>
-                <slot02>magic fruit</slot02>
-                <slot03>spectral floe</slot03>
-                <slot04>winds of promy.</slot04>
-                <slot05>magic hammer</slot05>
-                <slot06>occultation</slot06>
-                <slot07>reactor cool</slot07>
-                <slot08>enervation</slot08>
+                <slot01>battery charge</slot01>
+                <slot02>retinal glare</slot02>
+                <slot03>subduction</slot03>
+                <slot04>spectral floe</slot04>
+                <slot05>occultation</slot05>
+                <slot06>magic fruit</slot06>
+                <slot07>sound blast</slot07>
+                <slot08>dream flower</slot08>
                 <slot09>tenebral crush</slot09>
-                <slot10>battery charge</slot10>
-                <slot11>sound blast</slot11>
-                <slot12>retinal glare</slot12>
-                <slot13>erratic flutter</slot13>
-                <slot14>memento mori</slot14>
-                <slot15>dream flower</slot15>
-                <slot18>diamondhide</slot18>
-                <slot19>entomb</slot19>
+                <slot10>entomb</slot10>
+                <slot11>molting plumage</slot11>
+                <slot12>enervation</slot12>
+                <slot13>magic hammer</slot13>
+                <slot14>frightful roar</slot14>
+                <slot15>erratic flutter</slot15>
+                <slot16>diamondhide</slot16>
+                <slot17>winds of promy.</slot17>
             </aoe>
             <apex>
                 <slot01>sweeping gouge</slot01>
@@ -508,6 +508,24 @@
                 <slot16>subduction</slot16>
                 <slot17>molting plumage</slot17>
             </unm>
+            <vagary>
+                <slot01>battery charge</slot01>
+                <slot03>subduction</slot03>
+                <slot04>silent storm</slot04>
+                <slot05>occultation</slot05>
+                <slot06>magic fruit</slot06>
+                <slot07>anvil lightning</slot07>
+                <slot08>dream flower</slot08>
+                <slot09>searing tempest</slot09>
+                <slot10>entomb</slot10>
+                <slot11>molting plumage</slot11>
+                <slot12>enervation</slot12>
+                <slot13>magic hammer</slot13>
+                <slot14>sound blast</slot14>
+                <slot15>erratic flutter</slot15>
+                <slot16>diamondhide</slot16>
+                <slot17>winds of promy.</slot17>
+            </vagary>
             <vw1>
                 <slot01>Firespit</slot01>
                 <slot02>Heat Breath</slot02>
