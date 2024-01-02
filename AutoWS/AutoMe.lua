@@ -1,7 +1,7 @@
-_addon.name = 'AutoWS'
+_addon.name = 'AutoMe'
 _addon.author = 'Helmaru'
 _addon.version = '2.2.0'
-_addon.commands = {'aws','AWS',}
+_addon.commands = {'ame','AME',}
 
 res = require('resources')
 require 'aws_sets'
@@ -24,19 +24,14 @@ local aws_last_target = 0
 local aws_am3_counter = os.time()-300000
 local aws_job = {}
 local aws_break = nil
-local aws_engage = true
 
 local aws_ranged = T{
 'leaden salute'
 , 'last stand'
-, 'hot shot'
 } 
 
 windower.register_event('addon command', function(cmd, ...)
-	
 	local args = string.lower(table.concat({...},' '))
-	
-	if jse_command(cmd, args) then return end
 	
 	aws_chain = nil	
 	--log(args)
@@ -56,13 +51,6 @@ windower.register_event('addon command', function(cmd, ...)
 			aws_autora = ""
 		end
 		log(' AUTORA MODE TO ['..tostring(aws_autora)..']')
-	elseif string.lower(cmd) == "engage" then
-		if aws_engage then
-			aws_engage = false
-		else
-			aws_engage = true
-		end
-		log(' ENGAGE MODE '..tostring(abf_engage))
 	elseif string.lower(cmd) == "ws" then
 		ws_mode = string.sub(args,6,string.len(args))
 		ws_mode_tp = tonumber(string.sub(args,0, 4))
@@ -208,14 +196,14 @@ function do_it()
 	then
 		local player = windower.ffxi.get_player()
 
-		if (player.status == 1 or not aws_engage) and player.vitals.hp > 0 then
+		if player.status == 1 and player.vitals.hp > 0 then
 			local target = windower.ffxi.get_mob_by_target('t')
 			aws_adapt_target(target)	
 			jse_pre_ws_checks()
 			if player.vitals.tp >= ws_mode_tp and 
 				(not needsAM() or player.vitals.tp >= 3000) --am3
-			then 
-				windower.send_command('abf stop');
+			then --2k 500 from Weap, 250 from Earring
+				
 				local me = windower.ffxi.get_mob_by_target('me')
 				local maxDistance = me.model_size + target.model_size + 3.7
 				 
@@ -228,7 +216,7 @@ function do_it()
 							windower.send_command("input /ws '"..aws_aby_ws[aws_abyssea_count][2].."' <t>;");
 						end
 					elseif aws_chain then
-						windower.send_command('input /ws "'..aws_chain[aws_chain_count]..'" <t>;');
+						windower.send_command("input /ws '"..aws_chain[aws_chain_count].."' <t>;");
 					else
 						if jse_can_ws() then	
 							if needsAM() then
@@ -241,13 +229,11 @@ function do_it()
 								windower.send_command('input /ws '..ws_mode..''..aws_autora);
 								--	end
 							end
-							coroutine.sleep(0.5)
 						end
 					end
 				else
 					--log( ' ****** ['..ws_mode..' CANCELED - Amnesia/Impaired or Too Far] ******')
 				end
-				
 			end
 		end
 	end
@@ -262,7 +248,8 @@ end
 
 
 windower.register_event('action',function (act)
-	if not aws_abyssea and not aws_break == nil and not aws_chain then return end
+	if not aws_abyssea and not aws_break == nil then return end
+
 	if act == nil then return end
 	local actor = windower.ffxi.get_mob_by_id(act.actor_id)	
 	if actor == nil then return end
@@ -308,30 +295,28 @@ windower.register_event('action',function (act)
 	else 
 		-- self actions
 		if act.category ~= 7 then return end -- not WS 
-			--log('  NAME: ['..actor_name..'] TYPE: ['..target_action_type..'] PARAM: ['..target_action_param..'] ID: ['..target_action_id..']  WS: ['..aws_getActionName(target_action_type, target_action_id)..'] ')
-		if aws_getActionName(target_action_type, target_action_id) == aws_aby_ws[tonumber(aws_abyssea_count)][2] then
+		--log('  NAME: ['..actor_name..'] TYPE: ['..target_action_type..'] PARAM: ['..target_action_param..'] ID: ['..target_action_id..']  WS: ['..getActionName(target_action_type, target_action_id)..'] ')
+
+		if getActionName(target_action_type, target_action_id) == aws_aby_ws[tonumber(aws_abyssea_count)][2] then
 			aws_abyssea_count = (aws_abyssea_count % table.getn(aws_aby_ws))+1
 			--log(' NEW aws_abyssea_count : ['..aws_abyssea_count..']')
 			set_abyssea_weap(aws_abyssea_count)
 		end
-		if aws_chain and aws_getActionName(target_action_type, target_action_id) == aws_chain[tonumber(aws_chain_count)] then
+		if aws_chain and getActionName(target_action_type, target_action_id) == aws_chain[tonumber(aws_chain_count)] then
 			aws_chain_count = (aws_chain_count % table.getn(aws_chain))+1
 			log(' NEW WS CHAIN COUNT : ['..aws_chain_count..']')
 			set_chain_ws(aws_chain_count)
 		end
-		if aws_break and aws_getActionName(target_action_type, target_action_id) == 'Armor Break' then
+		if aws_break and getActionName(target_action_type, target_action_id) == 'Armor Break' then
 			log(' BREAK WS DONE ')
 			windower.send_command('gs c wp '..aws_break);
-			windower.send_command('/input /p Armor Break Applied!');
 			aws_break = nil
 		end
-		coroutine.sleep(2)
-		windower.send_command('abf start');
 	end
 end)
 
-function aws_getActionName(actiontype, actionid)
-	--log("aws_getActionName "..actiontype.." "..actionid.." "..target_action_param)
+function getActionName(actiontype, actionid)
+	--log("getActionName "..actiontype.." "..actionid.." "..target_action_param)
 	if actiontype == 7 and res.weapon_skills[actionid] then
 		return res.weapon_skills[actionid].en
 	else
