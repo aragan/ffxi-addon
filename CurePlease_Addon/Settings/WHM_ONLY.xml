@@ -2,31 +2,31 @@
 <MySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <settingsSet>true</settingsSet>
   <cure1enabled>false</cure1enabled>
-  <cure1amount>10</cure1amount>
+  <cure1amount>35</cure1amount>
   <cure2enabled>false</cure2enabled>
-  <cure2amount>60</cure2amount>
-  <cure3enabled>true</cure3enabled>
-  <cure3amount>130</cure3amount>
-  <cure4enabled>true</cure4enabled>
-  <cure4amount>270</cure4amount>
+  <cure2amount>89</cure2amount>
+  <cure3enabled>false</cure3enabled>
+  <cure3amount>138</cure3amount>
+  <cure4enabled>false</cure4enabled>
+  <cure4amount>289</cure4amount>
   <cure5enabled>false</cure5enabled>
-  <cure5amount>450</cure5amount>
+  <cure5amount>457</cure5amount>
   <cure6enabled>false</cure6enabled>
-  <cure6amount>600</cure6amount>
-  <curagaEnabled>false</curagaEnabled>
-  <curagaAmount>20</curagaAmount>
-  <curaga2enabled>false</curaga2enabled>
-  <curaga2Amount>70</curaga2Amount>
+  <cure6amount>558</cure6amount>
+  <curagaEnabled>true</curagaEnabled>
+  <curagaAmount>89</curagaAmount>
+  <curaga2enabled>true</curaga2enabled>
+  <curaga2Amount>138</curaga2Amount>
   <curaga3enabled>true</curaga3enabled>
-  <curaga3Amount>165</curaga3Amount>
+  <curaga3Amount>289</curaga3Amount>
   <curaga4enabled>true</curaga4enabled>
-  <curaga4Amount>330</curaga4Amount>
-  <curaga5enabled>false</curaga5enabled>
-  <curaga5Amount>570</curaga5Amount>
-  <curePercentage>75</curePercentage>
+  <curaga4Amount>457</curaga4Amount>
+  <curaga5enabled>true</curaga5enabled>
+  <curaga5Amount>558</curaga5Amount>
+  <curePercentage>80</curePercentage>
   <priorityCurePercentage>95</priorityCurePercentage>
   <monitoredCurePercentage>85</monitoredCurePercentage>
-  <curagaCurePercentage>75</curagaCurePercentage>
+  <curagaCurePercentage>80</curagaCurePercentage>
   <curagaTargetType>0</curagaTargetType>
   <curagaTargetName />
   <curagaRequiredMembers>3</curagaRequiredMembers>
@@ -47,7 +47,7 @@
   <plShellra_Level>5</plShellra_Level>
   <plProtectra>true</plProtectra>
   <plProtectra_Level>5</plProtectra_Level>
-  <plGainBoost>true</plGainBoost>
+  <plGainBoost>false</plGainBoost>
   <plGainBoost_Spell>0</plGainBoost_Spell>
   <plBarElement>false</plBarElement>
   <plBarElement_Spell>1</plBarElement_Spell>
@@ -55,7 +55,7 @@
   <plBarStatus>false</plBarStatus>
   <plBarStatus_Spell>2</plBarStatus_Spell>
   <AOE_Barstatus>true</AOE_Barstatus>
-  <plAuspice>true</plAuspice>
+  <plAuspice>false</plAuspice>
   <plRegen>false</plRegen>
   <plRegen_Level>4</plRegen_Level>
   <plReraise>true</plReraise>
@@ -66,17 +66,17 @@
   <plShell>false</plShell>
   <plBlink>false</plBlink>
   <plPhalanx>false</plPhalanx>
-  <plStoneskin>true</plStoneskin>
+  <plStoneskin>false</plStoneskin>
   <plTemper>false</plTemper>
   <plTemper_Level>2</plTemper_Level>
   <plEnspell>false</plEnspell>
   <plEnspell_Spell>0</plEnspell_Spell>
   <plStormSpell>false</plStormSpell>
-  <plStormSpell_Spell>0</plStormSpell_Spell>
+  <plStormSpell_Spell>7</plStormSpell_Spell>
   <plAdloquium>false</plAdloquium>
   <plKlimaform>false</plKlimaform>
-  <plAquaveil>true</plAquaveil>
-  <plHaste>true</plHaste>
+  <plAquaveil>false</plAquaveil>
+  <plHaste>false</plHaste>
   <plHaste_Level>1</plHaste_Level>
   <plSpikes>false</plSpikes>
   <plSpikes_Spell>0</plSpikes_Spell>
@@ -94,7 +94,7 @@
   <phalanxPerpetuance>false</phalanxPerpetuance>
   <phalanxAccession>false</phalanxAccession>
   <stoneskinPerpetuance>false</stoneskinPerpetuance>
-  <stoneskinAccession>true</stoneskinAccession>
+  <stoneskinAccession>false</stoneskinAccession>
   <enspellPerpetuance>false</enspellPerpetuance>
   <enspellAccession>false</enspellAccession>
   <stormspellPerpetuance>false</stormspellPerpetuance>
@@ -104,9 +104,9 @@
   <aquaveilPerpetuance>false</aquaveilPerpetuance>
   <aquaveilAccession>false</aquaveilAccession>
   <barspellPerpetuance>false</barspellPerpetuance>
-  <barspellAccession>true</barspellAccession>
+  <barspellAccession>false</barspellAccession>
   <barstatusPerpetuance>false</barstatusPerpetuance>
-  <barstatusAccession>true</barstatusAccession>
+  <barstatusAccession>false</barstatusAccession>
   <EnlightenmentReraise>true</EnlightenmentReraise>
   <EnableGeoSpells>false</EnableGeoSpells>
   <IndiWhenEngaged>false</IndiWhenEngaged>
@@ -128,8 +128,8 @@
   <dummy1>0</dummy1>
   <dummy2>0</dummy2>
   <recastSongTime>2</recastSongTime>
-  <LightArts>true</LightArts>
-  <Sublimation>true</Sublimation>
+  <LightArts>false</LightArts>
+  <Sublimation>false</Sublimation>
   <AddendumWhite>false</AddendumWhite>
   <Celerity>false</Celerity>
   <Accession>true</Accession>
@@ -138,7 +138,7 @@
   <Rapture>false</Rapture>
   <DarkArts>false</DarkArts>
   <AddendumBlack>false</AddendumBlack>
-  <AfflatusSolace>true</AfflatusSolace>
+  <AfflatusSolace>false</AfflatusSolace>
   <AfflatusMisery>false</AfflatusMisery>
   <DivineSeal>false</DivineSeal>
   <Devotion>false</Devotion>
@@ -168,20 +168,20 @@
   <plDoomitem>0</plDoomitem>
   <wakeSleepEnabled>true</wakeSleepEnabled>
   <wakeSleepSpell>2</wakeSleepSpell>
-  <naBlindness>true</naBlindness>
-  <naCurse>true</naCurse>
-  <naDisease>true</naDisease>
-  <naParalysis>true</naParalysis>
-  <naPetrification>true</naPetrification>
+  <naBlindness>false</naBlindness>
+  <naCurse>false</naCurse>
+  <naDisease>false</naDisease>
+  <naParalysis>false</naParalysis>
+  <naPetrification>false</naPetrification>
   <naPlague>false</naPlague>
-  <naPoison>true</naPoison>
-  <naSilence>true</naSilence>
+  <naPoison>false</naPoison>
+  <naSilence>false</naSilence>
   <naErase>true</naErase>
   <Esuna>true</Esuna>
   <EsunaOnlyAmnesia>false</EsunaOnlyAmnesia>
-  <PrioritizeDoomRemoval>false</PrioritizeDoomRemoval>
-  <AugmentDoomRemoval>false</AugmentDoomRemoval>
-  <AugmentDoomRemoval_Method>0</AugmentDoomRemoval_Method>
+  <PrioritizeDoomRemoval>true</PrioritizeDoomRemoval>
+  <AugmentDoomRemoval>true</AugmentDoomRemoval>
+  <AugmentDoomRemoval_Method>1</AugmentDoomRemoval_Method>
   <plAgiDown>true</plAgiDown>
   <plAccuracyDown>true</plAccuracyDown>
   <plAddle>true</plAddle>
@@ -307,7 +307,7 @@
   <na_AccuracyDown>true</na_AccuracyDown>
   <na_AgiDown>true</na_AgiDown>
   <mpMinCastValue>100</mpMinCastValue>
-  <lowMPcheckBox>false</lowMPcheckBox>
+  <lowMPcheckBox>true</lowMPcheckBox>
   <healLowMP>false</healLowMP>
   <healWhenMPBelow>5</healWhenMPBelow>
   <standAtMP>false</standAtMP>
@@ -322,7 +322,7 @@
   <DevotionMP>200</DevotionMP>
   <DevotionTargetType>1</DevotionTargetType>
   <DevotionTargetName />
-  <DevotionWhenEngaged>false</DevotionWhenEngaged>
+  <DevotionWhenEngaged>true</DevotionWhenEngaged>
   <autoTarget>true</autoTarget>
   <Hate_SpellType>0</Hate_SpellType>
   <autoTargetSpell>Dia</autoTargetSpell>
@@ -330,7 +330,7 @@
   <AssistSpecifiedTarget>false</AssistSpecifiedTarget>
   <DisableTargettingCancel>true</DisableTargettingCancel>
   <TargetRemoval_Delay>3</TargetRemoval_Delay>
-  <AcceptRaise>true</AcceptRaise>
+  <AcceptRaise>false</AcceptRaise>
   <AcceptRaiseOnlyWhenNotInCombat>false</AcceptRaiseOnlyWhenNotInCombat>
   <Overcure>true</Overcure>
   <Undercure>true</Undercure>

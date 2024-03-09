@@ -9,17 +9,17 @@
   <cure3amount>130</cure3amount>
   <cure4enabled>true</cure4enabled>
   <cure4amount>270</cure4amount>
-  <cure5enabled>false</cure5enabled>
+  <cure5enabled>true</cure5enabled>
   <cure5amount>450</cure5amount>
-  <cure6enabled>false</cure6enabled>
+  <cure6enabled>true</cure6enabled>
   <cure6amount>600</cure6amount>
   <curagaEnabled>false</curagaEnabled>
   <curagaAmount>20</curagaAmount>
   <curaga2enabled>false</curaga2enabled>
   <curaga2Amount>70</curaga2Amount>
-  <curaga3enabled>true</curaga3enabled>
+  <curaga3enabled>false</curaga3enabled>
   <curaga3Amount>165</curaga3Amount>
-  <curaga4enabled>true</curaga4enabled>
+  <curaga4enabled>false</curaga4enabled>
   <curaga4Amount>330</curaga4Amount>
   <curaga5enabled>false</curaga5enabled>
   <curaga5Amount>570</curaga5Amount>
@@ -43,41 +43,41 @@
   <autoShellMinutes>29</autoShellMinutes>
   <autoShell_Spell>4</autoShell_Spell>
   <autoStorm_Spell>0</autoStorm_Spell>
-  <plShellra>true</plShellra>
+  <plShellra>false</plShellra>
   <plShellra_Level>5</plShellra_Level>
-  <plProtectra>true</plProtectra>
+  <plProtectra>false</plProtectra>
   <plProtectra_Level>5</plProtectra_Level>
-  <plGainBoost>true</plGainBoost>
+  <plGainBoost>false</plGainBoost>
   <plGainBoost_Spell>0</plGainBoost_Spell>
   <plBarElement>false</plBarElement>
-  <plBarElement_Spell>1</plBarElement_Spell>
-  <AOE_Barelemental>true</AOE_Barelemental>
+  <plBarElement_Spell>0</plBarElement_Spell>
+  <AOE_Barelemental>false</AOE_Barelemental>
   <plBarStatus>false</plBarStatus>
-  <plBarStatus_Spell>2</plBarStatus_Spell>
-  <AOE_Barstatus>true</AOE_Barstatus>
+  <plBarStatus_Spell>0</plBarStatus_Spell>
+  <AOE_Barstatus>false</AOE_Barstatus>
   <plAuspice>true</plAuspice>
   <plRegen>false</plRegen>
   <plRegen_Level>4</plRegen_Level>
-  <plReraise>true</plReraise>
-  <plReraise_Level>4</plReraise_Level>
+  <plReraise>false</plReraise>
+  <plReraise_Level>2</plReraise_Level>
   <plRefresh>false</plRefresh>
   <plRefresh_Level>2</plRefresh_Level>
   <plProtect>false</plProtect>
   <plShell>false</plShell>
   <plBlink>false</plBlink>
   <plPhalanx>false</plPhalanx>
-  <plStoneskin>true</plStoneskin>
+  <plStoneskin>false</plStoneskin>
   <plTemper>false</plTemper>
-  <plTemper_Level>2</plTemper_Level>
+  <plTemper_Level>0</plTemper_Level>
   <plEnspell>false</plEnspell>
   <plEnspell_Spell>0</plEnspell_Spell>
   <plStormSpell>false</plStormSpell>
   <plStormSpell_Spell>0</plStormSpell_Spell>
   <plAdloquium>false</plAdloquium>
   <plKlimaform>false</plKlimaform>
-  <plAquaveil>true</plAquaveil>
-  <plHaste>true</plHaste>
-  <plHaste_Level>1</plHaste_Level>
+  <plAquaveil>false</plAquaveil>
+  <plHaste>false</plHaste>
+  <plHaste_Level>0</plHaste_Level>
   <plSpikes>false</plSpikes>
   <plSpikes_Spell>0</plSpikes_Spell>
   <plUtsusemi>false</plUtsusemi>
@@ -94,7 +94,7 @@
   <phalanxPerpetuance>false</phalanxPerpetuance>
   <phalanxAccession>false</phalanxAccession>
   <stoneskinPerpetuance>false</stoneskinPerpetuance>
-  <stoneskinAccession>true</stoneskinAccession>
+  <stoneskinAccession>false</stoneskinAccession>
   <enspellPerpetuance>false</enspellPerpetuance>
   <enspellAccession>false</enspellAccession>
   <stormspellPerpetuance>false</stormspellPerpetuance>
@@ -104,10 +104,10 @@
   <aquaveilPerpetuance>false</aquaveilPerpetuance>
   <aquaveilAccession>false</aquaveilAccession>
   <barspellPerpetuance>false</barspellPerpetuance>
-  <barspellAccession>true</barspellAccession>
+  <barspellAccession>false</barspellAccession>
   <barstatusPerpetuance>false</barstatusPerpetuance>
-  <barstatusAccession>true</barstatusAccession>
-  <EnlightenmentReraise>true</EnlightenmentReraise>
+  <barstatusAccession>false</barstatusAccession>
+  <EnlightenmentReraise>false</EnlightenmentReraise>
   <EnableGeoSpells>false</EnableGeoSpells>
   <IndiWhenEngaged>false</IndiWhenEngaged>
   <EnableLuopanSpells>false</EnableLuopanSpells>
@@ -130,15 +130,15 @@
   <recastSongTime>2</recastSongTime>
   <LightArts>true</LightArts>
   <Sublimation>true</Sublimation>
-  <AddendumWhite>false</AddendumWhite>
+  <AddendumWhite>true</AddendumWhite>
   <Celerity>false</Celerity>
-  <Accession>true</Accession>
+  <Accession>false</Accession>
   <Perpetuance>false</Perpetuance>
   <Penury>false</Penury>
   <Rapture>false</Rapture>
   <DarkArts>false</DarkArts>
   <AddendumBlack>false</AddendumBlack>
-  <AfflatusSolace>true</AfflatusSolace>
+  <AfflatusSolace>false</AfflatusSolace>
   <AfflatusMisery>false</AfflatusMisery>
   <DivineSeal>false</DivineSeal>
   <Devotion>false</Devotion>
@@ -158,7 +158,7 @@
   <Marcato>false</Marcato>
   <Majesty>false</Majesty>
   <plDebuffEnabled>true</plDebuffEnabled>
-  <monitoredDebuffEnabled>true</monitoredDebuffEnabled>
+  <monitoredDebuffEnabled>false</monitoredDebuffEnabled>
   <enablePartyDebuffRemoval>true</enablePartyDebuffRemoval>
   <SpecifiednaSpellsenable>false</SpecifiednaSpellsenable>
   <PrioritiseOverLowerTier>false</PrioritiseOverLowerTier>
@@ -167,7 +167,7 @@
   <plDoomEnabled>true</plDoomEnabled>
   <plDoomitem>0</plDoomitem>
   <wakeSleepEnabled>true</wakeSleepEnabled>
-  <wakeSleepSpell>2</wakeSleepSpell>
+  <wakeSleepSpell>0</wakeSleepSpell>
   <naBlindness>true</naBlindness>
   <naCurse>true</naCurse>
   <naDisease>true</naDisease>
@@ -226,53 +226,53 @@
   <plVitDown>true</plVitDown>
   <plWeight>true</plWeight>
   <plAmnesia>true</plAmnesia>
-  <monitoredAgiDown>true</monitoredAgiDown>
-  <monitoredAccuracyDown>true</monitoredAccuracyDown>
-  <monitoredAddle>true</monitoredAddle>
-  <monitoredAttackDown>true</monitoredAttackDown>
-  <monitoredBane>true</monitoredBane>
-  <monitoredBind>true</monitoredBind>
-  <monitoredBio>true</monitoredBio>
-  <monitoredBlindness>true</monitoredBlindness>
-  <monitoredBurn>true</monitoredBurn>
-  <monitoredChrDown>true</monitoredChrDown>
-  <monitoredChoke>true</monitoredChoke>
-  <monitoredCurse>true</monitoredCurse>
-  <monitoredCurse2>true</monitoredCurse2>
-  <monitoredDexDown>true</monitoredDexDown>
-  <monitoredDefenseDown>true</monitoredDefenseDown>
-  <monitoredDia>true</monitoredDia>
-  <monitoredDisease>true</monitoredDisease>
-  <monitoredDoom>true</monitoredDoom>
-  <monitoredDrown>true</monitoredDrown>
-  <monitoredElegy>true</monitoredElegy>
-  <monitoredEvasionDown>true</monitoredEvasionDown>
-  <monitoredFlash>true</monitoredFlash>
-  <monitoredFrost>true</monitoredFrost>
-  <monitoredHelix>true</monitoredHelix>
-  <monitoredIntDown>true</monitoredIntDown>
-  <monitoredMndDown>true</monitoredMndDown>
-  <monitoredMagicAccDown>true</monitoredMagicAccDown>
-  <monitoredMagicAtkDown>true</monitoredMagicAtkDown>
-  <monitoredMaxHpDown>true</monitoredMaxHpDown>
-  <monitoredMaxMpDown>true</monitoredMaxMpDown>
-  <monitoredMaxTpDown>true</monitoredMaxTpDown>
-  <monitoredParalysis>true</monitoredParalysis>
-  <monitoredPetrification>true</monitoredPetrification>
-  <monitoredPlague>true</monitoredPlague>
-  <monitoredPoison>true</monitoredPoison>
-  <monitoredRasp>true</monitoredRasp>
-  <monitoredRequiem>true</monitoredRequiem>
-  <monitoredStrDown>true</monitoredStrDown>
-  <monitoredShock>true</monitoredShock>
-  <monitoredSilence>true</monitoredSilence>
-  <monitoredSleep>true</monitoredSleep>
-  <monitoredSleep2>true</monitoredSleep2>
-  <monitoredSlow>true</monitoredSlow>
-  <monitoredThrenody>true</monitoredThrenody>
-  <monitoredVitDown>true</monitoredVitDown>
-  <monitoredWeight>true</monitoredWeight>
-  <monitoredAmnesia>true</monitoredAmnesia>
+  <monitoredAgiDown>false</monitoredAgiDown>
+  <monitoredAccuracyDown>false</monitoredAccuracyDown>
+  <monitoredAddle>false</monitoredAddle>
+  <monitoredAttackDown>false</monitoredAttackDown>
+  <monitoredBane>false</monitoredBane>
+  <monitoredBind>false</monitoredBind>
+  <monitoredBio>false</monitoredBio>
+  <monitoredBlindness>false</monitoredBlindness>
+  <monitoredBurn>false</monitoredBurn>
+  <monitoredChrDown>false</monitoredChrDown>
+  <monitoredChoke>false</monitoredChoke>
+  <monitoredCurse>false</monitoredCurse>
+  <monitoredCurse2>false</monitoredCurse2>
+  <monitoredDexDown>false</monitoredDexDown>
+  <monitoredDefenseDown>false</monitoredDefenseDown>
+  <monitoredDia>false</monitoredDia>
+  <monitoredDisease>false</monitoredDisease>
+  <monitoredDoom>false</monitoredDoom>
+  <monitoredDrown>false</monitoredDrown>
+  <monitoredElegy>false</monitoredElegy>
+  <monitoredEvasionDown>false</monitoredEvasionDown>
+  <monitoredFlash>false</monitoredFlash>
+  <monitoredFrost>false</monitoredFrost>
+  <monitoredHelix>false</monitoredHelix>
+  <monitoredIntDown>false</monitoredIntDown>
+  <monitoredMndDown>false</monitoredMndDown>
+  <monitoredMagicAccDown>false</monitoredMagicAccDown>
+  <monitoredMagicAtkDown>false</monitoredMagicAtkDown>
+  <monitoredMaxHpDown>false</monitoredMaxHpDown>
+  <monitoredMaxMpDown>false</monitoredMaxMpDown>
+  <monitoredMaxTpDown>false</monitoredMaxTpDown>
+  <monitoredParalysis>false</monitoredParalysis>
+  <monitoredPetrification>false</monitoredPetrification>
+  <monitoredPlague>false</monitoredPlague>
+  <monitoredPoison>false</monitoredPoison>
+  <monitoredRasp>false</monitoredRasp>
+  <monitoredRequiem>false</monitoredRequiem>
+  <monitoredStrDown>false</monitoredStrDown>
+  <monitoredShock>false</monitoredShock>
+  <monitoredSilence>false</monitoredSilence>
+  <monitoredSleep>false</monitoredSleep>
+  <monitoredSleep2>false</monitoredSleep2>
+  <monitoredSlow>false</monitoredSlow>
+  <monitoredThrenody>false</monitoredThrenody>
+  <monitoredVitDown>false</monitoredVitDown>
+  <monitoredWeight>false</monitoredWeight>
+  <monitoredAmnesia>false</monitoredAmnesia>
   <na_Weight>true</na_Weight>
   <na_VitDown>true</na_VitDown>
   <na_Threnody>true</na_Threnody>
@@ -314,7 +314,7 @@
   <standAtMP_Percentage>99</standAtMP_Percentage>
   <convertMP>300</convertMP>
   <sublimationMP>100</sublimationMP>
-  <SublimationRecoverWhenCharging>true</SublimationRecoverWhenCharging>
+  <SublimationRecoverWhenCharging>false</SublimationRecoverWhenCharging>
   <Fullcircle_DisableEnemy>false</Fullcircle_DisableEnemy>
   <Fullcircle_GEOTarget>false</Fullcircle_GEOTarget>
   <RadialArcanaMP>300</RadialArcanaMP>
@@ -323,14 +323,14 @@
   <DevotionTargetType>1</DevotionTargetType>
   <DevotionTargetName />
   <DevotionWhenEngaged>false</DevotionWhenEngaged>
-  <autoTarget>true</autoTarget>
+  <autoTarget>false</autoTarget>
   <Hate_SpellType>0</Hate_SpellType>
   <autoTargetSpell>Dia</autoTargetSpell>
   <autoTarget_Target />
   <AssistSpecifiedTarget>false</AssistSpecifiedTarget>
-  <DisableTargettingCancel>true</DisableTargettingCancel>
+  <DisableTargettingCancel>false</DisableTargettingCancel>
   <TargetRemoval_Delay>3</TargetRemoval_Delay>
-  <AcceptRaise>true</AcceptRaise>
+  <AcceptRaise>false</AcceptRaise>
   <AcceptRaiseOnlyWhenNotInCombat>false</AcceptRaiseOnlyWhenNotInCombat>
   <Overcure>true</Overcure>
   <Undercure>true</Undercure>
@@ -343,7 +343,7 @@
   <pauseOnKO>false</pauseOnKO>
   <MinimiseonStart>false</MinimiseonStart>
   <autoFollowName />
-  <autoFollowDistance>3</autoFollowDistance>
+  <autoFollowDistance>5</autoFollowDistance>
   <autoFollow_Warning>false</autoFollow_Warning>
   <FFXIDefaultAutoFollow>false</FFXIDefaultAutoFollow>
   <enableHotKeys>false</enableHotKeys>
