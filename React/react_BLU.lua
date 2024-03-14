@@ -369,4 +369,40 @@ return {
             ["ready_reaction"]="input /ma 'Sudden Lunge' <bt>"
         }
     },
+    ["Bozzetto Freyja"]={
+        ["Blight Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Noxious Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Petrifactive Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Edifying Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Impale"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Poisonous Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Bozzetto Frigg"]={
+        ["Chasting Disregard"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        },
+        ["Raqs Baladi"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+         }
+     },
 }

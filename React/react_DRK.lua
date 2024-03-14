@@ -298,5 +298,11 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
+    },
+    ["Volatile Cluster"]={
+        ["Self-Destruct"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
     }, 
 }
