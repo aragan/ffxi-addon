@@ -39,6 +39,7 @@ local Spells    	= require( 'spells' )
 local Abilities 	= require( 'abilities' )
 local Skills    	= require( 'skills' )
 local Monsters    	= require( 'monsters' )
+local NPCs			= require( "npcs" )
 
 local Utilities		= require( 'utilities' )
 
@@ -233,7 +234,17 @@ local addon =
 			end
 		elseif( target.spawn_type ==  2 ) then
 			--ＮＰＣ(緑)
-			color = 7
+
+			local pet = windower.ffxi.get_mob_by_target( 'pet' ) ;
+			if( pet == nil ) then
+				color = 7
+			else
+				if( pet.id == target.id ) then
+					color = 2	-- 召喚獣など
+				else
+					color = 7
+				end
+			end
 		elseif( target.spawn_type == 34 ) then
 			-- オブジェクト(緑)
 			color = 7
@@ -244,7 +255,60 @@ local addon =
 		return color
 	end,
 
-	-- プレイヤーメンバーか判定する
+	-- NPCの名前と説明を取得する
+	GetNPC = function( this, targetName )
+		local label       = nil
+		local description = nil
+
+		local info = windower.ffxi.get_info()
+
+--		print( "Zone " .. info.zone )
+
+		if( NPCs[ info.zone ] ~= nil ) then
+			label, description = this:GetZoneNPC( targetName, NPCs[ info.zone ] )
+		end
+
+		if( label == nil ) then
+			label, description = this:GetZoneNPC( targetName, NPCs[ 900 ] )	-- ワールド共通
+		end
+
+		if( label == nil ) then
+			label, description = this:GetZoneNPC( targetName, NPCs[ 910 ] )	-- イベントシーン(エリア非依存):無印
+		end
+
+		if( label == nil ) then
+			label, description = this:GetZoneNPC( targetName, NPCs[ 912 ] )	-- イベントシーン(エリア非依存):プロマシアの呪縛
+		end
+		
+		if( label == nil ) then
+			label, description = this:GetZoneNPC( targetName, NPCs[ 920 ] )	-- 召喚獣
+		end
+
+		if( label == nil ) then
+			label, description = this:GetZoneNPC( targetName, NPCs[ 930 ] )	-- フェイス
+		end
+
+		return label, description
+	end,
+
+	GetZoneNPC = function( this, targetName, zoneNPCs )
+		local label       = nil
+		local description = nil
+
+		if( zoneNPCs[ targetName ] ~= nil ) then
+			if( type( zoneNPCs[ targetName ] ) == 'table' ) then
+				label       = zoneNPCs[ targetName ][ 1 ]
+				description = zoneNPCs[ targetName ][ 2 ]
+			else
+				label       = zoneNPCs[ targetName ]
+--				description = nil 
+			end
+		end
+
+		return label, description
+	end,
+
+	-- プレイヤーがパーティメンバーか判定する
 	IsPlayerMember = function( this, targetId )
 		local isPlayerMember = false
 		local targetDetail = windower.ffxi.get_mob_by_id( targetId )
@@ -750,12 +814,13 @@ local addon =
 	--									PrintFF11( this:GetTargetName( targetId ) .. "を麻痺状態にする" )
 										this.effectiveTargets[ target.id ][   4 ] = { EndTime = os.clock() + 60, FromPlayer = false }
 									end
-								elseif( T{   0,  31,  75,  78,  85, 106, 114, 283, 284 }:contains( message ) == true ) then
+								elseif( T{   0,  31,  75,  78,  85,  93, 106, 114, 283, 284 }:contains( message ) == true ) then
 									-- 無視して良いメッセージ
 									--  31 幻影が身替りで消えた
 									--  75 効果なし
 									--  78 遠くにいるため実行できない
 									--  85 レジストした
+									--  93 デジョン
 									-- 106 ひるんでいる
 									-- 114 ミス
 									-- 283 効果なし
@@ -879,7 +944,7 @@ local addon =
 
 								----------------------
 								
-								if( T{ 100, 102, 110, 115, 116, 117, 118, 119, 120, 121, 126, 131, 134, 143, 148, 149, 266, 285, 286, 287, 304, 317, 319, 452, 519, 529, 667, 668, 669 }:contains( message ) == true ) then
+								if( T{ 100, 102, 110, 115, 116, 117, 118, 119, 120, 121, 126, 131, 134, 143, 148, 149, 266, 285, 286, 287, 304, 317, 319, 452, 519, 529, 532, 667, 668, 669 }:contains( message ) == true ) then
 									-- 100 アビリティ！
 									-- 102 HP回復
 									-- 110 ダメージ
@@ -896,6 +961,7 @@ local addon =
 									-- 452 TP回復
 									-- 519 クイックステップ
 									-- 529 チェーンバインド
+									-- 532 インビジとスニーク
 									-- 667 命中アップ・回避アップ
 									-- 668 属性魔法ダメージ軽減
 									-- 669 属性ダメージ軽減の効果
@@ -1003,7 +1069,7 @@ local addon =
 
 									if( T{ 0 }:contains( hae_message ) == true ) then
 										-- <有効>
-									elseif( T{ 288, 289, 290, 291, 292, 293, 294, 295, 297, 298, 299, 300, 301 }:contains( hae_message ) == true ) then
+									elseif( T{ 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301 }:contains( hae_message ) == true ) then
 										-- <無効>
 										-- 288 技連携・光
 										-- 289 技連携・闇
@@ -1398,7 +1464,7 @@ local addon =
 			this.effectiveTargets[ targetId ] = {}
 		end
 
-		if( T{ 3494 }:contains( skillId ) == true ) then
+		if( T{ 3201, 3494 }:contains( skillId ) == true ) then
 			-- ウォークザープランクの強化効果の全消去
 			for i = 1, #Settings.EffectEnabled do
 				local effectId = Settings.EffectEnabled[ i ]
@@ -1551,7 +1617,7 @@ local addon =
 					this.effectiveTargets[ targetId ][ effectId ] = nil
 				end
 			end
-		elseif( S{   4,   5,   8,  16,  17,  36,  38,  45,  48,  49,  53,  62,  71,  78,  94,  95,  96, 173, 176, 177, 178, 219, 234, 246, 247, 249, 313, 410, 512, 558, 559, 565, 566, 615, 643, 704, 705, 717, 772 }[ message ] ) then
+		elseif( S{   4,   5,   8,  16,  17,  36,  38,  45,  48,  49,  53,  62,  71,  78,  94,  95,  96,  97, 170, 171, 173, 176, 177, 178, 219, 234, 246, 247, 249, 313, 315, 339, 410, 512, 531, 558, 559, 565, 566, 615, 643, 704, 705, 717, 772, 773 }[ message ] ) then
 			-- 無視して良いメッセージ
 			--   4 対象は範囲外
 			--   5 対象が見えない
@@ -1570,6 +1636,9 @@ local addon =
 			--  94 コマンドは実行できない
 			--  95 魔法を覚えられない
 			--  96 既に覚えている魔法です
+			--  97 プレイヤーが倒された
+			-- 170 とてもとても○○だ。攻撃の回避率、防御力、ともに高いモンスターだ。
+			-- 171 とても○○だ。攻撃の回避率が高いモンスターだ。
 			-- 173 とても○○だ。防御力が高そう。
 			-- 176 攻撃の回避率は低いが、防御力の高いモンスターだ。
 			-- 177 攻撃の回避率の低いモンスターだ。
@@ -1580,8 +1649,11 @@ local addon =
 			-- 247 食べられない
 			-- 249 強さは計り知れない
 			-- 313 遠くにいるため実行できない
+			-- 315 既にペットがいます！
+			-- 339 モンスターが近くにいてマウントが呼べない
 			-- 410 効果対象がいないので、そのアイテムは使用できません。
 			-- 512 両手武器を装備していないとグリップは装備できない
+			-- 531 target は status の状態ではなくなった
 			-- 558 討伐対象のモンスターを倒した
 			-- 559 訓練メニューを完遂
 			-- 565 ギルを得た
@@ -1592,6 +1664,7 @@ local addon =
 			-- 705 エミネンス・レコードを受領
 			-- 717 この場所では呼び出せない
 			-- 772 絆の力で攻撃に耐えた
+			-- 773 メインジョブのレベルが20に達していないため、乗り物を呼び出すことができなかった。
 		else
 			local en = "???"
 			if( Resources.buffs[ effectId ] ~= nil ) then
@@ -1650,13 +1723,57 @@ local addon =
 	-- ターゲットの情報を取得する
 	GetTargetInfo = function( this, targetName, targetIndex )
 
+		local rank   = ''	-- NM のランク
+		local action = 6	-- 行動(0=ノンアクティブ・1=リンク・2=アクティブ・3=リンク+アクティブ)
+		local level  = '?'
+		local ruby   = nil
+
+		local monster = nil
+
+		local info = windower.ffxi.get_info()
+
+		if( Monsters[ info.zone ] ~= nil ) then
+			-- 該当エリアを発見した
+			local areaMonsters
+
+			-- 現在エリアを検査する
+			areaMonsters = Monsters[ info.zone ]
+
+			if( areaMonsters == nil ) then
+				-- 共通エリアを検査する
+				areaMonsters = Monsters[ 999 ]
+			end
+
+			if( areaMonsters[ targetName ] ~= nil ) then
+				monster = areaMonsters[ targetName ]
+
+				ruby   = monster[ 1 ]
+				action = monster[ 2 ]
+				if( monster[ 3 ] ~= nil ) then
+					rank   = monster[ 3 ]
+				end
+
+				if( this.levelTable[ targetIndex ] ~=  nil ) then
+					level = this.levelTable[ targetIndex ].Level
+					if( lavel == 0 ) then
+						level = '?'
+						this.lastScanningTime = 0	-- レベルが不明なエネミーを発見したのでスキャンを試みる
+					end
+				else
+					this.lastScanningTime = 0	-- レベルが不明なエネミーを発見したのでスキャンを試みる
+				end
+		
+				return rank, action, level, ruby
+			end
+		end
+
+		-------------------------------------------------------
+
 		-- ノートリアスモンスターの場合は名前にランク文字列を付与する
-		local rank = ''
 		if( Monsters[ targetName ] ~= nil and Monsters[ targetName ][ 2 ] ~= nil ) then
 			rank = Monsters[ targetName ][ 2 ]
 		end
 
-		local action = 6	-- 不明
 		if( Monsters[ targetName ] ~= nil and Monsters[ targetName ][ 1 ] ~= nil ) then
 			if( type( Monsters[ targetName ][ 1 ] ) ~= 'table' ) then
 				action = Monsters[ targetName ][ 1 ]
@@ -1675,7 +1792,6 @@ local addon =
 			end
 		end	
 
-		local level = '?'
 		if( this.levelTable[ targetIndex ] ~=  nil ) then
 			level = this.levelTable[ targetIndex ].Level
 			if( lavel == 0 ) then
@@ -1686,7 +1802,7 @@ local addon =
 			this.lastScanningTime = 0	-- レベルが不明なエネミーを発見したのでスキャンを試みる
 		end
 
-		return rank, action, level
+		return rank, action, level, ruby
 	end,
 }
 -----------------------------------------------------------------------
@@ -1894,6 +2010,9 @@ addon.RegisterEvents = function( this )
 		local color
 		local isSameTarget
 		local effects
+		local label
+		local description
+		local ruby
 
 		local info = windower.ffxi.get_info()
 		if this.visible == true and ( this.isZoning == true or info.mog_house == true ) and this.isCutscene == false then
@@ -1942,15 +2061,31 @@ addon.RegisterEvents = function( this )
 --				targetName = targetName .. ' ' .. mTarget.spawn_type .. ' ' .. tostring( mTarget.in_party ) .. ' '
 
 				-- エネミーのレベルを取得する
-				rank = nil
+				rank   = nil
 				action = 0	-- なし
-				level = nil
+				level  = nil
+				ruby   = nil
 				if( color >= 3 and color <= 5 ) then
-					rank, action, level = this:GetTargetInfo( mTarget.name, mTarget.index )
+					rank, action, level, ruby = this:GetTargetInfo( mTarget.name, mTarget.index )
+				end
+
+				-- NPC の日本語名
+				label = nil
+				description = nil
+				if( mTarget.spawn_type ==  2 or mTarget.spawn_type == 14 or mTarget.spawn_type == 34 ) then
+					--  2 : NPC
+					-- 14 : Face
+					-- 34 : Object
+					label, description = this:GetNPC( mTarget.name )
+					if( color == 2 ) then
+						-- パーティメンバー
+						ruby = label
+						label = nil
+					end
 				end
 
 				-- メインターゲットゲージの表示を設定する
-				UI:ShowMT( targetName, rank, action, level, mTarget.hpp, color, isSameTarget, effects )
+				UI:ShowMT( targetName, rank, action, level, mTarget.hpp, color, isSameTarget, effects, label, description, ruby )
 
 				mtVisible = true
 
@@ -1976,15 +2111,31 @@ addon.RegisterEvents = function( this )
 					targetName = sTarget.name
 
 					-- エネミーのレベルを取得する
-					rank = nil
+					rank   = nil
 					action = 0	-- なし
-					level = nil
+					level  = nil
+					ruby   = nil
 					if( color >= 3 and color <= 5 ) then
-						rank, action, level = this:GetTargetInfo( sTarget.name, sTarget.index )
+						rank, action, level, ruby = this:GetTargetInfo( sTarget.name, sTarget.index )
 					end
 	
+					-- NPC の日本語名
+					label = nil
+					description = nil
+					if( sTarget.spawn_type ==  2 or sTarget.spawn_type == 14 or sTarget.spawn_type == 34 ) then
+						--  2 : NPC
+						-- 14 : Face
+						-- 34 : Object
+						label, description = this:GetNPC( sTarget.name )
+						if( color == 2 ) then
+							-- パーティメンバー
+							ruby = label
+							label = nil
+						end
+					end
+
 					-- サブターゲットゲージの表示を設定する
-					UI:ShowST( targetName, rank, action, level, sTarget.hpp, color, isSameTarget, effects )
+					UI:ShowST( targetName, rank, action, level, sTarget.hpp, color, isSameTarget, effects, label, description, ruby )
 
 					stVisible = true
 
