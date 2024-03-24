@@ -1,6 +1,6 @@
 _addon.name = 'Itemizer'
 _addon.author = 'Ihina'
-_addon.version = '3.0.1.3'
+_addon.version = '3.1.0.0'
 _addon.command = 'itemizer'
 
 require('luau')
@@ -8,8 +8,9 @@ require('luau')
 defaults = {}
 defaults.AutoNinjaTools = true
 defaults.AutoItems = true
+defaults.AutoStack = true
 defaults.Delay = 0.5
-defaults.version                       = "3.0.1.1"
+defaults.version                       = _addon.version
 defaults.UseUniversalTools = {}
 
 defaults.UseUniversalTools.Katon       = false
@@ -39,10 +40,16 @@ bag_ids = res.bags:key_map(string.gsub-{' ', ''} .. string.lower .. table.get-{'
 bag_ids.temporary = nil
 
 --Added this function for first load on new version. Because of the newly added features that weren't there before.
-windower.register_event("load", function()
-    if settings.version == "3.0.1.1" then
-        windower.add_to_chat(207,"Itemizer v3.0.1.2: New features added. (use //itemizer help to find out about them)")
-        settings.version = "3.0.1.2"
+windower.register_event("load", "login", function()
+    if not windower.ffxi.get_info().logged_in then
+        return
+    end
+        
+    local _, _, saved   = settings.version:find("(%d+%.%d+%.)")
+    local _, _, current = _addon.version:find("(%d+%.%d+%.)")
+    if saved ~= current then
+        log("Itemizer v%s: New features added. (use //itemizer help to find out about them)":format(_addon.version))
+        settings.version = _addon.version
         settings:save() 
     end
 end)
@@ -62,6 +69,7 @@ find_items = function(ids, bag, limit)
                         bag = bag_index,
                         slot = item.slot,
                         count = count,
+                        id = item.id,
                     })
 
                     if limit then
@@ -79,39 +87,60 @@ find_items = function(ids, bag, limit)
     return res, found
 end
 
+stack = function(bag_id)
+    if not bag_id or type(bag_id) ~= 'number' or bag_id == 0 then
+        return
+    end
+    windower.packets.inject_outgoing(0x03A, string.char(0x3A, 0x1E, 0, 0, bag_id, 0, 0, 0))
+end
+
 windower.register_event("addon command", function(command, arg2, ...)
     if command == 'help' then
-        local helptext = [[Itemizer - Command List:')
+        local helptext = [[Itemizer - Usage:
+    //get <item> [bag] [count] -- //gets <item> [bag] - Retrieves the specified item from the specified bag
+    //put <item> [bag] [count] -- //puts <item> [bag] - Places the specified item into the specified bag
+    //stack -- Stacks all stackable items in all currently available bags
+        Command List:
   1. Delay <delay> - Sets the time delay.
-  2. Autoninjatools - toggles Automatically getting ninja tools (Shortened ant)
+  2. Autoninjatools - Toggles automatically getting ninja tools (Shortened ant)
   3. Autoitems - Toggles automatically getting items from bags (shortened ai)
-  4. Useuniversaltool <spell> - toggles using universal ninja tools for <spell> (shortened uut)
+  4. Useuniversaltool <spell> - Toggles using universal ninja tools for <spell> (shortened uut)
      i.e. uut katon  - will toggle katon either true or false depending on your setting
      all defaulted false.
-  5. help --Shows this menu.]]
+  5. Autostack - Toggles utomatically stacking items in the destination bag (shortened as, defaults true)
+  6. help - Shows this menu.]]
         for _, line in ipairs(helptext:split('\n')) do
-            windower.add_to_chat(207, line)
+            log(line)
         end
     elseif command:lower() == "delay" and arg2 ~= nil then
         if type(arg2) == 'number' then
             settings.delay = arg2
             settings:save()
+            log('Delay is now %s.':format(settings.delay))
         else
             error('The delay must be a number')
         end
     elseif T{'autoninjatools','ant'}:contains(command:lower()) then
         settings.AutoNinjaTools = not settings.AutoNinjaTools
         settings:save()
+        log('AutoNinjaTools is now', settings.AutoNinjaTools)
     elseif T{'autoitems','ai'}:contains(command:lower()) then
         settings.AutoItems = not settings.AutoItems
         settings:save()
+        log('AutoItems is now', settings.AutoItems)
     elseif T{'useuniversaltool','uut'}:contains(command:lower()) then
-        if settings.UseUniversalTools[arg2:ucfirst()] ~= nil then
-            settings.UseUniversalTools[arg2:ucfirst()] = not settings.UseUniversalTools[arg2:ucfirst()]
+        local arg = arg2:ucfirst()
+        if settings.UseUniversalTools[arg] ~= nil then
+            settings.UseUniversalTools[arg] = not settings.UseUniversalTools[arg]
             settings:save()
+            log('UseUniversalTools for %s spells is now':format(arg), settings.UseUniversalTools[arg])
         else
             error('Argument 2 must be a ninjutsu spell (sans :ichi or :ni) i.e. uut katon')
         end
+    elseif T{'autostack','as'}:contains(command:lower()) then
+        settings.AutoStack = not settings.AutoStack
+        log('AutoStack is now', settings.AutoStack)
+        settings:save()
     end
 end)
         
@@ -127,7 +156,7 @@ windower.register_event('unhandled command', function(command, ...)
             local last = args[#args]
             if last == 'all' then
                 args:remove()
-            elseif tonumber(last) then
+            elseif not last:find('[^0-9]') then
                 count = tonumber(last)
                 args:remove()
             else
@@ -185,6 +214,17 @@ windower.register_event('unhandled command', function(command, ...)
 
         for match in matches:it() do
             windower.ffxi[command .. '_item'](command == 'get' and match.bag or destination_bag, match.slot, match.count)
+            
+            if settings.AutoStack and command == 'put' and match.count < res.items[match.id].stack then
+                stack(destination_bag)
+            end
+        end
+    
+    elseif command == 'stack' then
+        log('Stacking items in all currently accessible bags.')
+
+        for bag_index in bag_ids:filter(table.get-{'enabled'} .. windower.ffxi.get_bag_info):it() do
+            stack(bag_index)
         end
     end	
 end)
@@ -192,26 +232,29 @@ end)
 ninjutsu = res.spells:type('Ninjutsu')
 patterns = L{'"(.+)"', '\'(.+)\'', '.- (.+) .-', '.- (.+)'}
 spec_tools = T{
-    Katon       = 1161,
-    Hyoton      = 1164,
-    Huton       = 1167,
-    Doton       = 1170,
-    Raiton      = 1173,
-    Suiton      = 1176,
+    Katon       = 5867,
+    Hyoton      = 5867,
+    Huton       = 5867,
+    Doton       = 5867,
+    Raiton      = 5867,
+    Suiton      = 5867,
     Utsusemi    = 1179,
-    Jubaku      = 1182,
-    Hojo        = 1185,
-    Kurayami    = 1188,
-    Dokumori    = 1191,
-    Tonko       = 1194,
-    Monomi      = 2553,
-    Aisha       = 2555,
-    Yurin       = 2643,
-    Myoshu      = 2642,
-    Migawari    = 2970,
-    Kakka       = 2644,
-    Gekka       = 8803,
-    Yain        = 8804
+    Jubaku      = 5869,
+    Hojo        = 5869,
+    Kurayami    = 5869,
+    Dokumori    = 5869,
+    Tonko       = 5868,
+    Monomi      = 5868,
+    Aisha       = 5869,
+    Yurin       = 5869,
+    Myoshu      = 5868,
+    Migawari    = 5868,
+    Kakka       = 5868,
+    Gekka       = 5868,
+    Yain        = 5868,
+    Inoshishinofuda  = 5867,
+    Shikanofuda      = 5868,
+    Chonofuda     = 5869
 }
 gen_tools = T{
     Katon       = 2971,
@@ -233,7 +276,10 @@ gen_tools = T{
     Migawari    = 2972,
     Kakka       = 2972,
     Gekka       = 2972,
-    Yain        = 2972
+    Yain        = 2972,
+    Inoshishinofuda  = 2971,
+    Shikanofuda      = 2972,
+    Chonofuda        = 2973
 }
 
 active = S{}
@@ -328,7 +374,7 @@ windower.register_event('outgoing text', function()
 
                     if bag == 'inventory' then
                         inventory_items:add(item.id)
-                    elseif S{'wardrobe','wardrobe2','wardrobe3','wardrobe4'}:contains(bag) then
+                    elseif S{'wardrobe','wardrobe2','wardrobe3','wardrobe4','wardrobe5','wardrobe6','wardrobe7','wardrobe8'}:contains(bag) then
                         wardrobe_items:add(item.id)
                     end
                 end

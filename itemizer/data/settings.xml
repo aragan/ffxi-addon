@@ -3,6 +3,7 @@
     <global>
         <AutoItems>true</AutoItems>
         <AutoNinjaTools>true</AutoNinjaTools>
+        <AutoStack>true</AutoStack>
         <Delay>0.5</Delay>
         <UseUniversalTools>
             <Aisha>false</Aisha>
@@ -26,6 +27,6 @@
             <Yain>false</Yain>
             <Yurin>false</Yurin>
         </UseUniversalTools>
-        <version>3.0.1.1</version>
+        <version>3.1.0.0</version>
     </global>
 </settings>
