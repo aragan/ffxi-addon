@@ -1,3 +1,6 @@
+upgrade version from Author Aragan (asura)
+add ninjutsu tool Chonofuda Inoshishinofuda Shikanofuda.
+command:
 #Itemizer
 
 Provides a chat/console interface for moving items around between bags. Optionally also automatically fetches items into the main inventory before item usage (both regular usage and Ninjutsu tools).

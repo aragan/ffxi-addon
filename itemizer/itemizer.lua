@@ -1,6 +1,6 @@
 _addon.name = 'Itemizer'
-_addon.author = 'Ihina'
-_addon.version = '3.1.0.0'
+_addon.author = 'Aragan'
+_addon.version = '3.2.0.0'
 _addon.command = 'itemizer'
 
 require('luau')
@@ -398,6 +398,8 @@ end())
 
 --[[
 Copyright © 2013-2015, Ihina
+upgrade version from Author Aragan (asura) 2024
+add ninjutsu tool Chonofuda Inoshishinofuda Shikanofuda.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

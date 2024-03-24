@@ -29,4 +29,7 @@
         </UseUniversalTools>
         <version>3.1.0.0</version>
     </global>
+    <aragan>
+        <version>3.2.0.0</version>
+    </aragan>
 </settings>
