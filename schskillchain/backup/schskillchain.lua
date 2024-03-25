@@ -223,13 +223,13 @@ function set_magic_tier(spell, magic_tier)
     if magic_tier == '1' then
         spell = spell
     elseif magic_tier == '2' then 
-        spell = spell..' II'
-    elseif magic_tier == ' 3' then 
-        spell = spell..' III'
+        spell = spell..'II'
+    elseif magic_tier == '3' then 
+        spell = spell..'III'
     elseif magic_tier == '4' then 
-        spell = spell..' IV'
+        spell = spell..'IV'
     elseif magic_tier == '5' then 
-        spell = spell..' V'
+        spell = spell..'V'
     end
 
     return spell
