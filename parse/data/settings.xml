@@ -122,7 +122,7 @@
                 <padding>4</padding>
                 <pos>
                     <x>570</x>
-                    <y>50</y>
+                    <y>150</y>
                 </pos>
                 <text>
                     <alpha>255</alpha>
@@ -211,7 +211,7 @@
             <me>true</me>
             <party>true</party>
             <pet>true</pet>
-            <trust>true</trust>
+            <trust>false</trust>
         </record>
         <update_interval>1</update_interval>
     </global>
