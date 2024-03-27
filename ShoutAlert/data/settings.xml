@@ -20,8 +20,8 @@
             </flags>
             <padding>0</padding>
             <pos>
-                <x>1109</x>
-                <y>189</y>
+                <x>1121</x>
+                <y>89</y>
             </pos>
             <text>
                 <alpha>255</alpha>
@@ -59,8 +59,8 @@
             </flags>
             <padding>0</padding>
             <pos>
-                <x>1122</x>
-                <y>155</y>
+                <x>1128</x>
+                <y>305</y>
             </pos>
             <text>
                 <alpha>255</alpha>
@@ -84,6 +84,15 @@
         <word_sets>
             <default>Albumen,Zerde</default>
         </word_sets>
-        <words>Vinipata,Teles,Crepuscular Scythe,Erinys,Dagon breastplate,Twilight Cloak,Regal Belt,Dagon Breast.,Volte Tights,Crepuscular Knife,Volte Spats,Schah,Volte Mittens,Ashera Harness,Crepuscular Cloak</words>
+        <words>Crepuscular Knife,Teles,Crepuscular Scythe,Erinys,Volte Tights,Albumen,Regal Belt,Vinipata,Volte Spats,Crepuscular Cloak,Zerde,Schah,Volte Mittens,Ashera Harness,Twilight Cloak</words>
     </global>
+    <aragan>
+        <text>
+            <pos>
+                <x>1124</x>
+                <y>269</y>
+            </pos>
+        </text>
+        <words>Erinys,save,Crepuscular Knife,Teles,Crepuscular Scythe,Regal Belt,Volte Tights,Albumen,Twilight Cloak,Vinipata,Volte Spats,Crepuscular Cloak,Zerde,Schah,Volte Mittens,Ashera Harness,Sacro Breastplate</words>
+    </aragan>
 </settings>
