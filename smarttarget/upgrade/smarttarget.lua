@@ -205,6 +205,17 @@ function find_mob(player_mob, current_target_id)
         end
     end
 
+    for _,mob in pairs(mobs) do
+        target_rating = calculate_target_rating(mob, player_mob, party)
+        if target_rating ~= nil then
+            if selected_target_rating == nil or target_rating < selected_target_rating then
+                add_chat('Found better mob '..mob.name..' ('..mob.id..') rating '..target_rating)
+                selected_mob = mob
+                selected_target_rating = target_rating
+            end
+        end
+    end
+
     return selected_mob
 end
 
