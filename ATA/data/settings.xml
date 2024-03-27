@@ -1,0 +1,42 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <blacklist />
+        <enmityBar>
+            <color>
+                <alpha>255</alpha>
+                <blue>90</blue>
+                <green>180</green>
+                <red>90</red>
+            </color>
+            <font>Arial</font>
+            <fontSize>10</fontSize>
+            <maxCount>20</maxCount>
+            <posX>100</posX>
+            <posY>450</posY>
+            <show>false</show>
+            <showDist>true</showDist>
+            <stack>down</stack>
+            <stackPad>20</stackPad>
+            <width>200</width>
+        </enmityBar>
+        <maxDist>21</maxDist>
+        <mobHPFilter>highest</mobHPFilter>
+        <petFilter>true</petFilter>
+        <preferSimilar>false</preferSimilar>
+        <ratBar>
+            <color>
+                <alpha>255</alpha>
+                <blue>90</blue>
+                <green>180</green>
+                <red>90</red>
+            </color>
+            <font>Arial</font>
+            <fontSize>10</fontSize>
+            <posX>400</posX>
+            <posY>250</posY>
+            <showDist>true</showDist>
+            <width>200</width>
+        </ratBar>
+    </global>
+</settings>
