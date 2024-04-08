@@ -1,0 +1,1 @@
+ADDON  show targets elemental weakness
