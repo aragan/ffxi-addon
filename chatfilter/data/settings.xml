@@ -3,25 +3,72 @@
     <global>
         <filters>
             <players>
+                <aeoniccxaw>aeoniccxaw</aeoniccxaw>
+                <aeonicqcs>aeonicqcs</aeonicqcs>
+                <aeonicsadea>aeonicsadea</aeonicsadea>
+                <aeonicssw>aeonicssw</aeonicssw>
+                <alfredernstbgjh>alfredernstbgjh</alfredernstbgjh>
+                <alyykk>alyykk</alyykk>
+                <alyyssd>alyyssd</alyyssd>
+                <alyyt>alyyt</alyyt>
+                <amnbossc>amnbossc</amnbossc>
                 <anky>anky</anky>
                 <bumbaae>bumbaae</bumbaae>
                 <bumbab>bumbab</bumbab>
                 <bumbac>bumbac</bumbac>
+                <clearmindaeonic>clearmindaeonic</clearmindaeonic>
+                <cooldogcja>cooldogcja</cooldogcja>
+                <cooldogddcs>cooldogddcs</cooldogddcs>
+                <cooldogdsb>cooldogdsb</cooldogdsb>
+                <cooldoghgf>cooldoghgf</cooldoghgf>
+                <cooldogsdb>cooldogsdb</cooldogsdb>
+                <cooldogsdc>cooldogsdc</cooldogsdc>
+                <cooldogsed>cooldogsed</cooldogsed>
+                <crtod>crtod</crtod>
                 <efdal>efdal</efdal>
+                <fczjsp>fczjsp</fczjsp>
                 <fczjsrr>fczjsrr</fczjsrr>
+                <galkang>galkang</galkang>
+                <gataeonic>gataeonic</gataeonic>
+                <kimaaaeoniccc>kimaaaeoniccc</kimaaaeoniccc>
+                <kimaeaeonic>kimaeaeonic</kimaeaeonic>
+                <kimcaeonice>kimcaeonice</kimcaeonice>
+                <kimceaeonic>kimceaeonic</kimceaeonic>
+                <kimeaeaoenic>kimeaeaoenic</kimeaeaoenic>
+                <kimecaeonic>kimecaeonic</kimecaeonic>
+                <kimeeaeaeonic>kimeeaeaeonic</kimeeaeaeonic>
+                <kimevaeonic>kimevaeonic</kimevaeonic>
+                <kimoaeaeonic>kimoaeaeonic</kimoaeaeonic>
                 <kimouaeonicc>kimouaeonicc</kimouaeonicc>
+                <kkccili>kkccili</kkccili>
                 <mergis>mergis</mergis>
                 <odysseaallnms>odysseaallnms</odysseaallnms>
                 <odysseallnms>odysseallnms</odysseallnms>
+                <odyssenmclear>odyssenmclear</odyssenmclear>
                 <oqata>oqata</oqata>
+                <shuyang>shuyang</shuyang>
+                <siggs>siggs</siggs>
                 <snkoneg>snkoneg</snkoneg>
+                <snkonej>snkonej</snkonej>
+                <snkonek>snkonek</snkonek>
+                <snkonel>snkonel</snkonel>
+                <snkonem>snkonem</snkonem>
+                <snkones>snkones</snkones>
+                <snkonex>snkonex</snkonex>
+                <snkoney>snkoney</snkoney>
+                <snkoonee>snkoonee</snkoonee>
+                <swordmg>swordmg</swordmg>
+                <theonetwo>theonetwo</theonetwo>
                 <wowssssswss>wowssssswss</wowssssswss>
                 <wyfdcaa>wyfdcaa</wyfdcaa>
+                <xgpp>xgpp</xgpp>
                 <xgppp>xgppp</xgppp>
             </players>
             <strings>
+                <>ÅúÅúÅú</>
                 <030>0-30</030>
                 <099>0-99</099>
+                <10m2100p>10m/2100p</10m2100p>
                 <119145>119-145</119145>
                 <120k140k>120k-140k</120k140k>
                 <12h6>12h/6</12h6>
@@ -32,35 +79,201 @@
                 <210010m>2100/10m</210010m>
                 <2100p12m>2100p/12m</2100p12m>
                 <35hr>3.5hr</35hr>
+                <3areaclearminddoyouneedit>3 area clear mind do you need it?</3areaclearminddoyouneedit>
+                <3m500p>3m/500p</3m500p>
                 <3mbuy>3m buy?</3mbuy>
-                <3zone>3zone)</3zone>
+                <3zoneclearmind>3zone clear mind</3zoneclearmind>
+                <3zoneclearmindbuy>3zone clear mind buy?</3zoneclearmindbuy>
+                <3zoneclearmindbuytell>3zone clear mind buy? /tell</3zoneclearmindbuytell>
+                <3zoneclearminddoyouneedit>3zone clear mind do you need it?</3zoneclearminddoyouneedit>
+                <3zoneclearminddoyouneeditbuytell>3zone clear mind do you need it? buy? /tell</3zoneclearminddoyouneeditbuytell>
+                <3zoneclearminddoyouneeditbuytell15>3zone clear mind do you need it? buy? /tell 1/5</3zoneclearminddoyouneeditbuytell15>
                 <4080m>40/80m</4080m>
+                <45>/45</45>
+                <4mrun10m3run>4m/run 10m/3run</4mrun10m3run>
                 <500p3m>500p/3m</500p3m>
+                <505075>50 50 75</505075>
                 <5145>5-145</5145>
                 <5mrun>5m/run</5mrun>
+                <6mrun>6m/run</6mrun>
+                <808590>80 85 90</808590>
+                <abysseabuy>abyssea buy?</abysseabuy>
+                <abysseakeyitem>abyssea key item</abysseakeyitem>
+                <aeonicionibkuufpon3zone>aeonic/ioniÉbkuuÉfpon 3zone</aeonicionibkuufpon3zone>
+                <aeonicionibkuufpon3zoneclearmindbuy>aeonic/ioniÉbkuuÉfpon 3zone clear mind buy?</aeonicionibkuufpon3zoneclearmindbuy>
+                <aeonicweapon3zoneclearmind>aeonic weapon 3 zone clear mind</aeonicweapon3zoneclearmind>
+                <aeonicweapon3zoneclearminddoyouneeditbuy>aeonic weapon 3 zone clear mind do you need it? buy?</aeonicweapon3zoneclearminddoyouneeditbuy>
+                <aeonicweapon3zoneclearminddoyouneeditbuytellalldropfree>aeonic weapon 3 zone clear mind do you need it? buy? /tell all drop free</aeonicweapon3zoneclearminddoyouneeditbuytellalldropfree>
+                <aeonicweapon3zonesclear>aeonic weapon 3 zones clear</aeonicweapon3zonesclear>
+                <aeonicwepon3zoneclearminddoyouneeditbuytellalldropfree>aeonic wepon 3 zone clear mind do you need it? buy? /tell all drop free</aeonicwepon3zoneclearminddoyouneeditbuytellalldropfree>
+                <alexandrite>alexandrite</alexandrite>
+                <ambuscade1vdclearminddoyouneedit5m>ambuscade 1 vd clear mind do you need it? 5m</ambuscade1vdclearminddoyouneedit5m>
+                <ambuscade1vdwindoyouneeditbuy>ambuscade1vd win do you need it? buy?</ambuscade1vdwindoyouneeditbuy>
                 <ambuscadev1vd3m>ambuscadev1 vd 3m</ambuscadev1vd3m>
+                <ambuscadev1vdclearmind5m>ambuscadev1 vd clear mind 5m</ambuscadev1vdclearmind5m>
+                <ambuscadev1vdclearmindbuy5m>ambuscadev1 vd clear mind buy? 5m</ambuscadev1vdclearmindbuy5m>
+                <ambuscadevdv1buy>ambuscade vd v1 buy?</ambuscadevdv1buy>
+                <ammurapishield>ammurapi shield</ammurapishield>
+                <ammurapishieldscale>ammurapi shield scale</ammurapishieldscale>
+                <archon>archon</archon>
                 <autoinv>autoinv</autoinv>
+                <bazaar>bazaar</bazaar>
+                <beitetsu>beitetsu</beitetsu>
+                <bumbav015tvrlast>bumbav0~15 tvrlast</bumbav015tvrlast>
+                <bumbav020>bumbav0-20</bumbav020>
+                <bumbav020tvr>bumba v0-20 tvr</bumbav020tvr>
+                <bumbav0v1tvrlast>bumba v0v1 tvr last</bumbav0v1tvrlast>
+                <bumbav0v1v15>(bumbav0v1v15)</bumbav0v1v15>
+                <bumbav1killdoyouneeditbuy5m>bumba v1 kill do you need it? buy? 5m</bumbav1killdoyouneeditbuy5m>
+                <bumbav20deathbuypst>bumba v20 death buy? pst</bumbav20deathbuypst>
+                <bumbav20unlockaugr25>bumba-v20 unlock-aug-r25</bumbav20unlockaugr25>
+                <bumbv020>bumbv0-20</bumbv020>
                 <buyh>buyÅh</buyh>
+                <cessance>cessance</cessance>
+                <cessanceearring5mlebeche>cessance earring5mlebeche</cessanceearring5mlebeche>
+                <dingirring>dingir ring</dingirring>
+                <empitem>emp item</empitem>
+                <entrance3hour>entrance 3 hour</entrance3hour>
+                <eponasring>epona&apos;s ring</eponasring>
                 <equipitem>equip item</equipitem>
+                <eschabeads>escha beads</eschabeads>
                 <fl35hr>fl~~3.5hr</fl35hr>
+                <frekering15>freke ring 15</frekering15>
                 <fuginkei>fu gin kei</fuginkei>
+                <glavoid>glavoid</glavoid>
+                <heavymetal>heavy metal</heavymetal>
                 <hrm>hr/m</hrm>
                 <ilabratring>ilabrat ring</ilabratring>
+                <ironplateapademakdraguaorthuscarabosscireincroinnisgebindbriareaus>ironplate/apademak/dragua/orthus/caraboss/cireincroinn/isgebind/briareaus</ironplateapademakdraguaorthuscarabosscireincroinnisgebindbriareaus>
+                <ironplateapademakdraguaorthuscarabosscireincroinnisgebindbriareausanyabysseabuy>ironplate/apademak/dragua/orthus/caraboss/cireincroinn/isgebind/briareaus any abyssea buy?</ironplateapademakdraguaorthuscarabosscireincroinnisgebindbriareausanyabysseabuy>
+                <isgebinditzpopalotlchloriscireincroinbriareuscarabosseapademakironplatekukulanorthusdragua>isgebind/itzpopalotl/chloris/cireincroin/briareus/carabosse/apademak/iron plate/kukulan/orthus/dragua</isgebinditzpopalotlchloriscireincroinbriareuscarabosseapademakironplatekukulanorthusdragua>
+                <itemabjreikiyotai>item abj reiki yotai</itemabjreikiyotai>
+                <jqs>ÇjÇqÇs</jqs>
+                <kalungav25t4v20unlockr25>kalunga-v25 t4 -v20 unlock-r25</kalungav25t4v20unlockr25>
+                <kalungaxeviosongaimbozeongobumba>kalunga xevioso ngai mboze ongo bumba</kalungaxeviosongaimbozeongobumba>
+                <keikinfugin>kei kin fu gin</keikinfugin>
+                <keikinkyouginfu>kei kin kyou gin fu</keikinkyouginfu>
+                <keikyoukinfugin>kei kyou kin fu gin</keikyoukinfugin>
                 <keikyoukinginfu>kei kyou kin gin fu</keikyoukinginfu>
                 <kinginkei>kin gin kei</kinginkei>
+                <kinginkyoufu>kin gin kyou fu</kinginkyoufu>
+                <kinginkyoukeifu>kin gin kyou kei fu</kinginkyoukeifu>
+                <kingranperres>king ranperre&apos;s</kingranperres>
+                <kingranperrestomb>king ranperre&apos;s tomb</kingranperrestomb>
+                <kingranperrestombkjqsl>king ranperre&apos;s tombÅkÇjÇqÇsÅl</kingranperrestombkjqsl>
+                <kinkeikyouginfu>kin kei kyou gin fu</kinkeikyouginfu>
+                <kinkyouginkeifu>kin kyou gin kei fu</kinkyouginkeifu>
                 <kinkyoukei>kin kyou kei</kinkyoukei>
+                <kirinwanted122145>kirinwanted122-145</kirinwanted122145>
+                <kirinwocwanted122145equip>kirin woc wanted122-145 equip</kirinwocwanted122145equip>
+                <kjqsl>ÅkÇjÇqÇsÅl</kjqsl>
+                <krt>krt</krt>
                 <lilith>lilith</lilith>
+                <ljadeshell>l. jadeshell</ljadeshell>
+                <lugalbandaearring>lugalbanda earring</lugalbandaearring>
+                <maidenphantomgem>maiden phantom gem</maidenphantomgem>
+                <marsorb>mars orb</marsorb>
+                <mbozearebationgobumbav0v1>mboze arebati ongo bumba v0v1</mbozearebationgobumbav0v1>
                 <mercenary>mercenary</mercenary>
+                <ml02010m>ml0-20/10m</ml02010m>
                 <niqmadduring>niqmaddu ring</niqmadduring>
+                <nmt1t2kalungav25t3t3v20>nm t1 t2 kalunga v25 t3 t3 v20</nmt1t2kalungav25t3t3v20>
+                <nmt1t2v25t3t4v20>nm t1 t2/v25 t3 t4/v20</nmt1t2v25t3t4v20>
+                <nmt1t2v25v25t3v20>nm t1 t2 v25 v25 t3 v20</nmt1t2v25v25t3v20>
+                <oboro>oboro</oboro>
+                <obronzepiece>o. bronzepiece</obronzepiece>
+                <odingerering15frekering>odin gere ring 15 freke ring</odingerering15frekering>
                 <odinvd>odin vd</odinvd>
+                <odysseybumbav1killdoyouneedit5m>odyssey bumba v1 kill do you need it? 5m</odysseybumbav1killdoyouneedit5m>
+                <odysseynmt1t2v25>odysseynm t1 t2/v25</odysseynmt1t2v25>
+                <odysseynmt1t2v25t3t4v20>odyssey nm t1 t2 v25 t3 t4 v20</odysseynmt1t2v25t3t4v20>
+                <odysseynmt1t2v25t3v20kalungav25>odysseynmt1 t2/v25 t3/v20 kalunga/v25</odysseynmt1t2v25t3v20kalungav25>
+                <odysseyt14>odysseyt1~4</odysseyt14>
+                <odysseyt14xeviosonagikalungamboze>odysseyt1~4 xevioso nagi kalunga mboze</odysseyt14xeviosonagikalungamboze>
+                <odysseyt1t2v025t3t4bumbav20>ÅúÅúÅúodysseyÅúÅúÅút1 t2 v0-25ÅúÅúÅú t3 t4 bumba v20</odysseyt1t2v025t3t4bumbav20>
+                <odysseyt1t2v25t3kalunga>odyssey t1 t2 v25 - t3 kalunga</odysseyt1t2v25t3kalunga>
                 <odysseyt1v25>odysseyt1-v25*</odysseyt1v25>
+                <odysseyt1v25t2v25>odyssey t1 v25 t2 v25</odysseyt1v25t2v25>
+                <odysseyt1v25t2v25t3v20kalungav25t4bumbav20>odyssey t1 v25 / t2 v25 / t3 v20 / kalunga v25 / t4 bumba v20</odysseyt1v25t2v25t3v20kalungav25t4bumbav20>
+                <omenkeiearringmiddlebossdoyouneeditbuy>omen kei earring middle boss do you need it? buy?</omenkeiearringmiddlebossdoyouneeditbuy>
+                <omenkeilugalbandaearringscalemidbossbuy>omen kei lugalbanda earring scale midboss buy?</omenkeilugalbandaearringscalemidbossbuy>
+                <omenkinscalemidboss>omen kin scale midboss</omenkinscalemidboss>
+                <omenkinutugripscalemiddle>omen kin utu grip scale middle</omenkinutugripscalemiddle>
+                <omenkyouenmerkarearringscale>omen kyou enmerkar earring scale</omenkyouenmerkarearringscale>
+                <omenkyoukeiginkinfu>omen kyou kei gin kin fu</omenkyoukeiginkinfu>
+                <omenkyouscalemiddleboss>omen kyou scale middle boss</omenkyouscalemiddleboss>
+                <ongobumbav020clear>ongo bumba v0-20clear</ongobumbav020clear>
                 <ongov0v1>ongov0v1</ongov0v1>
+                <ongov0v1bumbav015>ongov0v1 bumbav0-15</ongov0v1bumbav015>
+                <oqow>ÇãÇíÇîÇo-ÇqÇoÅ^Çw</oqow>
+                <pb>ÇpÇçÅbÇà</pb>
+                <pbh>ÇpÇçÅbÇà ÇñÇÖÇíÇô ÇÜÇÅÇìÇî ÇÇÇïÇôÅh</pbh>
+                <qoropwrosost>ÇqÇo-ÇrÇoÅ^ÇpÇwÅ@ÇrÇo-ÇsÇoÅ^ÇsÇt</qoropwrosost>
+                <riftbornboulder>riftborn boulder</riftbornboulder>
+                <riftdross>riftdross</riftdross>
+                <sarameya>sarameya</sarameya>
+                <segmentsescha>segmentsescha</segmentsescha>
+                <sortieodysseypointfarmtvrclear>sortie odyssey point farm tvr clear</sortieodysseypointfarmtvrclear>
+                <sparklingstone>sparkling stone</sparklingstone>
+                <t1t2kalungav25t3t4v20>t1 t2 kalunga v25 t3 t4 v20</t1t2kalungav25t3t4v20>
+                <t1t2t3>t1t2t3</t1t2t3>
+                <t1t2v20t3v20kalungav25t4v20>t1t2-v20* t3-v20* kalunga-v25* t4-v20</t1t2v20t3v20kalungav25t4v20>
+                <t1t2v25>t1t2-v25*</t1t2v25>
+                <t1t2v25kalungat3t4v20>t1 t2 v25 kalunga t3 t4 v20</t1t2v25kalungat3t4v20>
+                <t1t2v25t3arebatimbozexeviosoongongaiv20kalungav25t4bumbav20>t1 t2 v25 t3 arebati mboze xevioso ongo ngai v20 kalunga v25 t4 bumba v20</t1t2v25t3arebatimbozexeviosoongongaiv20kalungav25t4bumbav20>
+                <t1t2v25t3kalungav25v20t4v20>t1 t2 v25 t3 kalunga v25 v20 t4 v20</t1t2v25t3kalungav25v20t4v20>
+                <t1t2v25t3t4>t1t2 v25 // t3t4</t1t2v25t3t4>
                 <t1t2v25t3t4v20>t1t2 v25 /// t3t4 v20</t1t2v25t3t4v20>
+                <t1t2v25t3v20>t1 t2 v25 t3 v20</t1t2v25t3v20>
+                <t1t2v25t3v20kalungav25t4v20>t1 t2/v25 t3/v20 kalunga/v25 t4/v20</t1t2v25t3v20kalungav25t4v20>
+                <t1t2v25t3v20kalungev25t420>t1 t2/v25 t3/v20 kalunge/v25 t4/20</t1t2v25t3v20kalungev25t420>
+                <t1t2v25t3v20xeviosov25kalunga25t4v20>t1t2 v25 t3 v20 xevioso v25 kalunga 25 t4 v20</t1t2v25t3v20xeviosov25kalunga25t4v20>
+                <t1v025t2v025>t1v0-25 t2v0-25</t1v025t2v025>
+                <t1v025t2v025t3>t1v0-25 t2v0-25t3</t1v025t2v025t3>
+                <t1v25t2v25>t1-v25* t2-v25*</t1v25t2v25>
+                <t1v25t2v25t3>t1 v25 t2 v25 --- t3</t1v25t2v25t3>
+                <t1v25t2v25t3v20>t1 v25 t2 v25 t3 v20</t1v25t2v25t3v20>
+                <t1v25t2v25t3v20t4bumbav20>t1 v25 - t2 v25 - t3 v20 - t4 bumba v20</t1v25t2v25t3v20t4bumbav20>
+                <t1v25t2v25t3v20t4v20>t1 v25 - t2 v25 - t3 v20 - t4 v20</t1v25t2v25t3v20t4v20>
+                <t1v25t2v25t3v20t4v20tvr>t1 v25 * t2 v25 * t3 v20 * t4 v20 * tvr</t1v25t2v25t3v20t4v20tvr>
+                <t1v25t2v25t3v20xeviosov25t4v20>* t1 v25 t2 v25 * t3 v20 xevioso v25 * t4 v20</t1v25t2v25t3v20xeviosov25t4v20>
+                <t2v025t3v0v20kalungav25t4v0v20>t2/v0-25 t3/v0-v20 kalunga/v25 t4/v0-v20</t2v025t3v0v20kalungav25t4v0v20>
+                <t2v0v25t3v0v20>t2/v0-v25 t3/v0-v20</t2v0v25t3v0v20>
+                <t2v0v25t3v20t4v20>t2/v0-v25 t3-v20 t4-v20</t2v0v25t3v20t4v20>
+                <t3t4bumbav020>t3 t4 bumba v0-20</t3t4bumbav020>
+                <t4bumbav0v20>t4 bumba v0-v20</t4bumbav0v20>
+                <t4bumbav20doyouneeditbuy>t4 bumba-v20 do you need it? buy?</t4bumbav20doyouneeditbuy>
+                <t4bumbav20unlockr25>t4 bumba-v20 unlock-r25</t4bumbav20unlockr25>
+                <t4v020>t4 v0-20</t4v020>
+                <t4v0v20>t4/v0-v20</t4v0v20>
+                <telldropfl35hr>/tell(drop fl~~3.5hr</telldropfl35hr>
                 <telosearring>telos earring</telosearring>
                 <tinnin>tinnin</tinnin>
+                <tvr112>tvr 11-2</tvr112>
+                <unm119135>unm119~135</unm119135>
+                <unm119145>unm 119~145</unm119145>
                 <unm145>unm~145</unm145>
+                <unm145lilith>unm~145 lilith</unm145lilith>
                 <v015>v0-15</v015>
+                <v020bumbav020>v0-20 bumba v0-20</v020bumbav020>
                 <v0v1>v0 v1</v0v1>
+                <v0v1bumbav0v1v15>v0v1(bumbav0v1v15)</v0v1bumbav0v1v15>
+                <v0v1bumbav0v1v15tvrlast>v0v1(bumba v0v1v15)tvrlast</v0v1bumbav0v1v15tvrlast>
+                <v0v1tvrlastboss>v0v1 tvr last boss</v0v1tvrlastboss>
+                <v0v25t3t4v0v20>v0~v25 t3-t4 v0~v20</v0v25t3t4v0v20>
+                <v1v25t3v1v20t4v1v20>v1-v25 t3 v1-v20 t4 v1-v20</v1v25t3v1v20t4v1v20>
+                <v1vdclearmind5m>v1 vd clear mind 5m</v1vdclearmind5m>
+                <v1vddoyouneeditbuy5mr>v1vd do you need it? buy? 5m/r</v1vddoyouneeditbuy5mr>
+                <v1vdwindoyouneedit5m>v1 vd win do you need it? 5m</v1vdwindoyouneedit5m>
+                <v25t4v20>v25 t4 v20</v25t4v20>
+                <w3boss>w3 boss</w3boss>
+                <wanted119135>wanted119-135</wanted119135>
+                <wanted122145>wanted122-145</wanted122145>
+                <wanted145eschazitahescharuaunreisenjima>wanted~145 escha - zi&apos;tah escha - ru&apos;aun reisenjima</wanted145eschazitahescharuaunreisenjima>
+                <wanteduc122145>wanted uc122-145</wanteduc122145>
+                <wantedunm119135>wanted unm 119~135</wantedunm119135>
+                <wantedunm135>wanted unm ~135</wantedunm135>
+                <weaponshop>weapon shop</weaponshop>
             </strings>
         </filters>
         <show>false</show>
