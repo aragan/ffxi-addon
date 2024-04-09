@@ -6,11 +6,11 @@
             <type>t</type>
         </target>
         <wait>
-            <immanence_wait>1.6</immanence_wait>
-            <mb_wait>5</mb_wait>
+            <immanence_wait>1.5</immanence_wait>
+            <mb_wait>3</mb_wait>
             <mb_wait_helix>5</mb_wait_helix>
-            <skillchain_wait>3.5</skillchain_wait>
-            <skillchain_wait_helix>4</skillchain_wait_helix>
+            <skillchain_wait>4</skillchain_wait>
+            <skillchain_wait_helix>5</skillchain_wait_helix>
         </wait>
     </global>
 </settings>
