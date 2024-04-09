@@ -197,22 +197,6 @@ return {
             ["ready_reaction"]=""
         }
     }, 
-    ["Leshonn"]={
-        ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
-        },
-        ["Shrieking Gale"]={
-            ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
-        }
-    }, 
-    ["Gartell"]={
-        ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /p Changing to Wind Hands! <call7>"
-        },
-        ["Shrieking Gale"]={
-            ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
-        }       
-    },
     ["Sava Savanovic"]={
         ["Nocturnal Servitude"]={
             ["complete_reaction"]="facemob", 
@@ -269,6 +253,66 @@ return {
         ["Impale"]={
             ["complete_reaction"]="", 
             ["ready_reaction"]="facemob"
+        }
+    },
+    ["Leshonn"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /p Changing to Wind Hands! >>> PROC ICE <<< <call7>"
         },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /p Changing to Thunder Hands! >>> PROC STONE <<< <call6>"
+        }
     }, 
+    ["Gartell"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /p Changing to Wind Hands! >>> PROC ICE <<< <call7>"
+        },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /p Changing to Thunder Hands! >>> PROC STONE <<< <call6>"
+        }       
+    },
+    ["Degei"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /p Flaming Kick >>> PROC WATER <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /p Flashflood  >>> PROC THUNDER <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /p Icy Grasp >>> PROC FIRE <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /p Eroding Flesh >>> PROC WIND <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /p Fulminous Smash >>> PROC STONE <<< <call7>",
+            ["ready_reaction"]=""
+        }
+    },
+    ["Aita"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /p Flaming Kick >>> PROC WATER <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /p Flashflood  >>> PROC THUNDER <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /p Icy Grasp >>> PROC FIRE <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /p Eroding Flesh >>> PROC WIND <<< <call7>",
+            ["ready_reaction"]=""
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /p Fulminous Smash >>> PROC STONE <<< <call7>",
+            ["ready_reaction"]=""
+        }
+    },
 }

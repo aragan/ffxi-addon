@@ -125,18 +125,18 @@ return {
     }, 
     ["Leshonn"]={
         ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /p Changing to Wind Hands! weak Ice SC >>Induration<< <call7>"
+            ["complete_reaction"]="input /p Changing to Wind Hands! weak Ice SC >> Induration << <call7>"
         },
         ["Shrieking Gale"]={
-            ["complete_reaction"]="input /p Changing to Thunder Hands! weak Earth <call7>"
-        },
+            ["complete_reaction"]="input /p Changing to Thunder Hands! weak Stone SC >> Scission << <call6>" 
+        }
     }, 
     ["Gartell"]={
         ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /p Changing to Wind Hands! weak Ice SC >>Induration<< <call7>"
+            ["complete_reaction"]="input /p Changing to Wind Hands! weak Ice SC >> Induration << <call7>"
         },
         ["Shrieking Gale"]={
-            ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
+            ["complete_reaction"]="input /p Changing to Thunder Hands! weak Stone SC >> Scission << <call6>" 
         }       
     },
     ["Sava Savanovic"]={
