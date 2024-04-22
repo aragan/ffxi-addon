@@ -134,7 +134,7 @@ function enterReisen()
 	coroutine.sleep(.50)
 	
 	log('Obtaining Elvorseal in 22 minutes.')
-	coroutine.sleep(1400)
+	coroutine.sleep(2100)
 	
 	enterArena()
 
