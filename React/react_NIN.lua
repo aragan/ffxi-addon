@@ -117,6 +117,12 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
+    ["Isgebind"]={
+        ["Absolute Terror"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="gs equip sets.defense.MDT"
+        }
+    }, 
     ["Gestalt"]={
         ["Dread Spikes"]={
             ["complete_reaction"]="", 
