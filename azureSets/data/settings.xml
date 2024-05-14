@@ -339,6 +339,28 @@
                 <slot18>cocoon</slot18>
                 <slot19>metallic body</slot19>
             </magic>
+            <mboze>
+                <slot01>delta thrust</slot01>
+                <slot02>barrier tusk</slot02>
+                <slot03>saline coat</slot03>
+                <slot04>barbed crescent</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>battery charge</slot06>
+                <slot07>reaving wind</slot07>
+                <slot08>wind breath</slot08>
+                <slot09>glutinous dart</slot09>
+                <slot10>magnetite cloud</slot10>
+                <slot11>silent storm</slot11>
+                <slot12>diamondhide</slot12>
+                <slot13>retinal glare</slot13>
+                <slot14>feather tickle</slot14>
+                <slot15>rending deluge</slot15>
+                <slot16>metallic body</slot16>
+                <slot17>magic fruit</slot17>
+                <slot18>actinic burst</slot18>
+                <slot19>mp drainkiss</slot19>
+                <slot20>cold wave</slot20>
+            </mboze>
             <mix>
                 <slot01>delta thrust</slot01>
                 <slot02>heavy strike</slot02>
