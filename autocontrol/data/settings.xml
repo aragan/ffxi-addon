@@ -743,6 +743,38 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </ghatjot>
+            <golden>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>steam jacket</slot01>
+                <slot02>magniplug ii</slot02>
+                <slot03>magniplug</slot03>
+                <slot04>armor plate iv</slot04>
+                <slot05>attuner</slot05>
+                <slot06>turbo charger</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>inhibitor ii</slot09>
+                <slot10>flame holder</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </golden>
+            <goldenkist>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>steam jacket</slot01>
+                <slot02>magniplug ii</slot02>
+                <slot03>magniplug</slot03>
+                <slot04>armor plate iv</slot04>
+                <slot05>attuner</slot05>
+                <slot06>turbo charger</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>inhibitor ii</slot09>
+                <slot10>flame holder</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </goldenkist>
             <harle>
                 <frame>harlequin frame</frame>
                 <head>soulsoother head</head>
@@ -839,6 +871,22 @@
                 <slot11>optic fiber</slot11>
                 <slot12>armor plate ii</slot12>
             </kraken>
+            <kraken1>
+                <frame>valoredge frame</frame>
+                <head>harlequin head</head>
+                <slot01>magniplug</slot01>
+                <slot02>stabilizer</slot02>
+                <slot03>tension spring iii</slot03>
+                <slot04>stabilizer ii</slot04>
+                <slot05>steam jacket</slot05>
+                <slot06>turbo charger</slot06>
+                <slot07>auto-repair kit ii</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>magniplug ii</slot09>
+                <slot10>armor plate iii</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>target marker</slot12>
+            </kraken1>
             <lil>
                 <frame>valoredge frame</frame>
                 <head>valoredge head</head>
@@ -999,6 +1047,22 @@
                 <slot11>optic fiber</slot11>
                 <slot12>optic fiber ii</slot12>
             </pakecet>
+            <pdt>
+                <frame>valoredge frame</frame>
+                <head>soulsoother head</head>
+                <slot01>strobe ii</slot01>
+                <slot02>strobe</slot02>
+                <slot03>turbo charger ii</slot03>
+                <slot04>coiler ii</slot04>
+                <slot05>barrier module</slot05>
+                <slot06>tension spring v</slot06>
+                <slot07>auto-repair kit iv</slot07>
+                <slot08>shock absorber iii</slot08>
+                <slot09>flashbulb</slot09>
+                <slot10>armor plate iv</slot10>
+                <slot11>optic fiber</slot11>
+                <slot12>optic fiber ii</slot12>
+            </pdt>
             <petws>
                 <frame>sharpshot frame</frame>
                 <head>valoredge head</head>
@@ -1850,8 +1914,8 @@
         <maneuvertimers>true</maneuvertimers>
         <padding>0</padding>
         <pos>
-            <x>511</x>
-            <y>502</y>
+            <x>528</x>
+            <y>489</y>
         </pos>
         <text>
             <alpha>255</alpha>
