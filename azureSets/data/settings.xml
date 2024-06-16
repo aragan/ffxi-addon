@@ -478,6 +478,21 @@
                 <slot13>terror touch</slot13>
                 <slot14>cold wave</slot14>
             </pld>
+            <pldsortie>
+                <slot01>cocoon</slot01>
+                <slot02>blood saber</slot02>
+                <slot03>mysterious light</slot03>
+                <slot04>geist wall</slot04>
+                <slot05>soporific</slot05>
+                <slot06>mp drainkiss</slot06>
+                <slot07>grand slam</slot07>
+                <slot08>frightful roar</slot08>
+                <slot09>magnetite cloud</slot09>
+                <slot10>ice break</slot10>
+                <slot11>sheep song</slot11>
+                <slot12>terror touch</slot12>
+                <slot13>metallic body</slot13>
+            </pldsortie>
             <procyellow>
                 <slot01>heat breath</slot01>
                 <slot02>magnetite cloud</slot02>
@@ -511,6 +526,42 @@
                 <slot18>anvil lightning</slot18>
                 <slot19>blinding fulgor</slot19>
             </sortie>
+            <sortie1>
+                <slot01>molting plumage</slot01>
+                <slot02>rail cannon</slot02>
+                <slot03>winds of promy.</slot03>
+                <slot04>anvil lightning</slot04>
+                <slot05>battery charge</slot05>
+                <slot06>blinding fulgor</slot06>
+                <slot07>enervation</slot07>
+                <slot08>occultation</slot08>
+                <slot09>magic hammer</slot09>
+                <slot10>entomb</slot10>
+                <slot11>plenilune embrace</slot11>
+                <slot12>water bomb</slot12>
+                <slot13>erratic flutter</slot13>
+                <slot15>dream flower</slot15>
+                <slot16>sound blast</slot16>
+                <slot17>spectral floe</slot17>
+            </sortie1>
+            <sortie2>
+                <slot01>molting plumage</slot01>
+                <slot02>reactor cool</slot02>
+                <slot03>winds of promy.</slot03>
+                <slot04>anvil lightning</slot04>
+                <slot05>battery charge</slot05>
+                <slot06>blinding fulgor</slot06>
+                <slot07>enervation</slot07>
+                <slot08>occultation</slot08>
+                <slot09>mp drainkiss</slot09>
+                <slot10>entomb</slot10>
+                <slot11>plenilune embrace</slot11>
+                <slot12>diamondhide</slot12>
+                <slot13>erratic flutter</slot13>
+                <slot15>dream flower</slot15>
+                <slot16>sound blast</slot16>
+                <slot17>spectral floe</slot17>
+            </sortie2>
             <unm>
                 <slot01>cocoon</slot01>
                 <slot02>anvil lightning</slot02>
