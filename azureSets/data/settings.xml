@@ -527,22 +527,24 @@
                 <slot19>blinding fulgor</slot19>
             </sortie>
             <sortie1>
-                <slot01>molting plumage</slot01>
-                <slot02>rail cannon</slot02>
-                <slot03>winds of promy.</slot03>
-                <slot04>anvil lightning</slot04>
-                <slot05>battery charge</slot05>
-                <slot06>blinding fulgor</slot06>
-                <slot07>enervation</slot07>
-                <slot08>occultation</slot08>
-                <slot09>magic hammer</slot09>
-                <slot10>entomb</slot10>
-                <slot11>plenilune embrace</slot11>
-                <slot12>water bomb</slot12>
-                <slot13>erratic flutter</slot13>
-                <slot15>dream flower</slot15>
+                <slot01>entomb</slot01>
+                <slot02>white wind</slot02>
+                <slot03>enervation</slot03>
+                <slot04>spectral floe</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>diamondhide</slot06>
+                <slot07>magic hammer</slot07>
+                <slot08>memento mori</slot08>
+                <slot09>dream flower</slot09>
+                <slot10>reactor cool</slot10>
+                <slot11>winds of promy.</slot11>
+                <slot12>battery charge</slot12>
+                <slot13>occultation</slot13>
+                <slot14>molting plumage</slot14>
+                <slot15>anvil lightning</slot15>
                 <slot16>sound blast</slot16>
-                <slot17>spectral floe</slot17>
+                <slot17>cocoon</slot17>
+                <slot18>water bomb</slot18>
             </sortie1>
             <sortie2>
                 <slot01>molting plumage</slot01>
