@@ -546,6 +546,25 @@
                 <slot17>cocoon</slot17>
                 <slot18>water bomb</slot18>
             </sortie1>
+            <sortie11>
+                <slot01>entomb</slot01>
+                <slot02>white wind</slot02>
+                <slot03>enervation</slot03>
+                <slot04>spectral floe</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>diamondhide</slot06>
+                <slot07>magic hammer</slot07>
+                <slot08>atra. libations</slot08>
+                <slot09>sheep song</slot09>
+                <slot10>winds of promy.</slot10>
+                <slot11>battery charge</slot11>
+                <slot12>occultation</slot12>
+                <slot13>molting plumage</slot13>
+                <slot14>temporal shift</slot14>
+                <slot15>searing tempest</slot15>
+                <slot16>cocoon</slot16>
+                <slot17>lowing</slot17>
+            </sortie11>
             <sortie2>
                 <slot01>molting plumage</slot01>
                 <slot02>reactor cool</slot02>
@@ -564,6 +583,140 @@
                 <slot16>sound blast</slot16>
                 <slot17>spectral floe</slot17>
             </sortie2>
+            <sortie22>
+                <slot01>winds of promy.</slot01>
+                <slot02>battery charge</slot02>
+                <slot03>rending deluge</slot03>
+                <slot04>entomb</slot04>
+                <slot05>spectral floe</slot05>
+                <slot06>embalming earth</slot06>
+                <slot07>palling salvo</slot07>
+                <slot08>thermal pulse</slot08>
+                <slot09>dream flower</slot09>
+                <slot10>enervation</slot10>
+                <slot11>diamondhide</slot11>
+                <slot12>cocoon</slot12>
+                <slot13>magic hammer</slot13>
+                <slot14>molting plumage</slot14>
+                <slot15>white wind</slot15>
+                <slot16>amplification</slot16>
+                <slot17>occultation</slot17>
+            </sortie22>
+            <sortie3>
+                <slot01>entomb</slot01>
+                <slot02>white wind</slot02>
+                <slot03>enervation</slot03>
+                <slot04>spectral floe</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>diamondhide</slot06>
+                <slot07>magic hammer</slot07>
+                <slot08>memento mori</slot08>
+                <slot09>dream flower</slot09>
+                <slot10>embalming earth</slot10>
+                <slot11>winds of promy.</slot11>
+                <slot12>battery charge</slot12>
+                <slot13>occultation</slot13>
+                <slot14>molting plumage</slot14>
+                <slot15>anvil lightning</slot15>
+                <slot16>sound blast</slot16>
+                <slot17>cocoon</slot17>
+                <slot18>regurgitation</slot18>
+            </sortie3>
+            <sortie4>
+                <slot01>entomb</slot01>
+                <slot02>white wind</slot02>
+                <slot03>enervation</slot03>
+                <slot04>spectral floe</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>diamondhide</slot06>
+                <slot07>magic hammer</slot07>
+                <slot08>memento mori</slot08>
+                <slot09>dream flower</slot09>
+                <slot11>winds of promy.</slot11>
+                <slot12>battery charge</slot12>
+                <slot13>occultation</slot13>
+                <slot14>molting plumage</slot14>
+                <slot15>anvil lightning</slot15>
+                <slot16>tenebral crush</slot16>
+                <slot17>cocoon</slot17>
+            </sortie4>
+            <sortie5>
+                <slot01>entomb</slot01>
+                <slot02>white wind</slot02>
+                <slot03>enervation</slot03>
+                <slot04>spectral floe</slot04>
+                <slot05>erratic flutter</slot05>
+                <slot06>diamondhide</slot06>
+                <slot07>magic hammer</slot07>
+                <slot08>memento mori</slot08>
+                <slot09>dream flower</slot09>
+                <slot10>winds of promy.</slot10>
+                <slot11>battery charge</slot11>
+                <slot12>occultation</slot12>
+                <slot13>molting plumage</slot13>
+                <slot14>anvil lightning</slot14>
+                <slot15>searing tempest</slot15>
+                <slot16>cocoon</slot16>
+            </sortie5>
+            <sortie6>
+                <slot01>winds of promy.</slot01>
+                <slot02>occultation</slot02>
+                <slot03>magic hammer</slot03>
+                <slot04>enervation</slot04>
+                <slot05>battery charge</slot05>
+                <slot06>tenebral crush</slot06>
+                <slot07>dream flower</slot07>
+                <slot08>diamondhide</slot08>
+                <slot09>sheep song</slot09>
+                <slot10>searing tempest</slot10>
+                <slot11>entomb</slot11>
+                <slot12>cimicine discharge</slot12>
+                <slot13>erratic flutter</slot13>
+                <slot14>spectral floe</slot14>
+                <slot15>white wind</slot15>
+                <slot16>molting plumage</slot16>
+            </sortie6>
+            <test>
+                <slot01>winds of promy.</slot01>
+                <slot02>battery charge</slot02>
+                <slot03>scouring spate</slot03>
+                <slot04>silent storm</slot04>
+                <slot05>nectarous deluge</slot05>
+                <slot06>embalming earth</slot06>
+                <slot07>palling salvo</slot07>
+                <slot08>thermal pulse</slot08>
+                <slot09>dream flower</slot09>
+                <slot10>leafstorm</slot10>
+                <slot11>diamondhide</slot11>
+                <slot12>cocoon</slot12>
+                <slot13>magic hammer</slot13>
+                <slot14>molting plumage</slot14>
+                <slot15>white wind</slot15>
+                <slot16>charged whisker</slot16>
+                <slot17>occultation</slot17>
+                <slot18>fantod</slot18>
+            </test>
+            <test2>
+                <slot01>bludgeon</slot01>
+                <slot02>cocoon</slot02>
+                <slot03>palling salvo</slot03>
+                <slot04>rending deluge</slot04>
+                <slot05>diamondhide</slot05>
+                <slot06>dream flower</slot06>
+                <slot07>molting plumage</slot07>
+                <slot08>occultation</slot08>
+                <slot09>embalming earth</slot09>
+                <slot10>white wind</slot10>
+                <slot11>winds of promy.</slot11>
+                <slot12>spectral floe</slot12>
+                <slot13>entomb</slot13>
+                <slot14>battery charge</slot14>
+                <slot15>thermal pulse</slot15>
+                <slot16>magic hammer</slot16>
+                <slot17>amplification</slot17>
+                <slot18>smite of rage</slot18>
+                <slot19>sound blast</slot19>
+            </test2>
             <unm>
                 <slot01>cocoon</slot01>
                 <slot02>anvil lightning</slot02>
