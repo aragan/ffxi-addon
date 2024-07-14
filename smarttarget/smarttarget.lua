@@ -58,7 +58,7 @@ function calculate_target_type_rating(mob)
         end
     end
 
-    if string.match(mob.name, "Operative") or string.match(mob.name, "Shinobi") or string.match(mob.name, "Shadowstalker") or string.match(mob.name, "Spy") or string.match(mob.name, "Ninja") or string.match(mob.name, "Hitman") or string.match(mob.name, "Agon Halo") then
+    if string.match(mob.name, "Operative") or string.match(mob.name, "Shinobi") or string.match(mob.name, "Shadowstalker") or string.match(mob.name, "Spy") or string.match(mob.name, "Ninja") or string.match(mob.name, "Hitman") or string.match(mob.name, "Agon Halo") or string.match(mob.name, "Azi Dahaka") or string.match(mob.name, "Naga Raja") or string.match(mob.name, "Quetzalcoatl") or string.match(mob.name, "Mireu") then
         return 10
     end
 
@@ -201,6 +201,17 @@ function find_mob(player_mob, current_target_id)
                     selected_target_rating = target_rating
                 end
                 break
+            end
+        end
+    end
+
+    for _,mob in pairs(mobs) do
+        target_rating = calculate_target_rating(mob, player_mob, party)
+        if target_rating ~= nil then
+            if selected_target_rating == nil or target_rating < selected_target_rating then
+                add_chat('Found better mob '..mob.name..' ('..mob.id..') rating '..target_rating)
+                selected_mob = mob
+                selected_target_rating = target_rating
             end
         end
     end
