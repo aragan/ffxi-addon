@@ -145,4 +145,94 @@ return {
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
     }, 
+    ["Leshonn"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /ma 'ice' <bt>",
+            ["ready_reaction"]="input /p Changing to Wind Hands! >>> PROC ICE <<< <call7>"
+        },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /ma 'Stone' <bt>",
+            ["ready_reaction"]="input /p Changing to Thunder Hands! >>> PROC STONE <<< <call6>"    
+        }
+    }, 
+    ["Gartell"]={
+        ["Undulating Shockwave"]={
+            ["complete_reaction"]="input /ma 'ice' <bt>",
+            ["ready_reaction"]="input /p Changing to Wind Hands! >>> PROC ICE <<< <call7>"
+        },
+        ["Shrieking Gale"]={
+            ["complete_reaction"]="input /ma 'Stone' <bt>",
+            ["ready_reaction"]="input /p Changing to Thunder Hands! >>> PROC STONE <<< <call6>"   
+        }     
+    },
+    ["Degei"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /ma 'water' <bt>",
+            ["ready_reaction"]="input /p Flaming Kick >>> PROC WATER <<< <call7>"
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /ma 'thunder' <bt>",
+            ["ready_reaction"]="input /p  Flashflood  >>> PROC THUNDER <<< <call7>"
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /ma 'fire' <bt>",
+            ["ready_reaction"]="input /p  Icy Grasp >>> PROC FIRE <<< <call7>"
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /ma 'wind' <bt>",
+            ["ready_reaction"]="input /p  Eroding Flesh >>> PROC WIND <<< <call7>"
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /ma 'Stone' <bt>",
+            ["ready_reaction"]="input /p  Fulminous Smash >>> PROC STONE <<< <call7>"
+        }
+    },
+    ["Aita"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /ma 'water' <bt>",
+            ["ready_reaction"]="input /p Flaming Kick >>> PROC WATER <<< <call7>"
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /ma 'thunder' <bt>",
+            ["ready_reaction"]="input /p  Flashflood  >>> PROC THUNDER <<< <call7>"
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /ma 'fire' <bt>",
+            ["ready_reaction"]="input /p  Icy Grasp >>> PROC FIRE <<< <call7>"
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /ma 'wind' <bt>",
+            ["ready_reaction"]="input /p  Eroding Flesh >>> PROC WIND <<< <call7>"
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /ma 'Stone' <bt>",
+            ["ready_reaction"]="input /p  Fulminous Smash >>> PROC STONE <<< <call7>"
+        }
+    },
+    ["Aminon"]={
+        ["Demonfire"]={
+            ["complete_reaction"]="input /ma 'water' <bt>",
+            ["ready_reaction"]="input /p Demonfire >>> PROC WATER <<< <call7>"
+        },
+        ["Torrential Pain"]={
+            ["complete_reaction"]="input /ma 'thunder' <bt>",
+            ["ready_reaction"]="input /p  Torrential Pain  >>> PROC THUNDER <<< <call7>"
+        },
+        ["Frozen Blood"]={
+            ["complete_reaction"]="input /ma 'fire' <bt>",
+            ["ready_reaction"]="input /p  Frozen Blood >>> PROC FIRE <<< <call7>"
+        },
+        ["Ensepulcher"]={
+            ["complete_reaction"]="input /ma 'wind' <bt>",
+            ["ready_reaction"]="input /p  Eroding Flesh >>> PROC WIND <<< <call7>"
+        },
+        ["Ceaseless Surge"]={
+            ["complete_reaction"]="input /ma 'Stone' <bt>",
+            ["ready_reaction"]="input /p Ensepulcher >>> PROC STONE <<< <call7>"
+        },
+        ["Blast of Reticence"]={
+            ["complete_reaction"]="input /ma 'Blizzard' <bt>",
+            ["ready_reaction"]="input /p Ensepulcher >>> PROC ICE <<< <call7>"
+        }
+    },
 }

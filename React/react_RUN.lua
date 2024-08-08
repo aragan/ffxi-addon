@@ -213,4 +213,64 @@ return {
             ["complete_reaction"]="input /p Changing to Thunder Hands! <call7>"
         }       
     },
+    ["Degei"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /p  WEAK WATER CHANGE SC >>Reverberation<< MB WATER <call7>"
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /p  WEAK THUNDER CHANGE SC >>Fragmentation<< MB THUNDER <call7>"
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /p  WEAK FIRE CHANGE SC >>Fusion<< MB FIRE <call7>"
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /p  WEAK WIND CHANGE SC >>Detonation<< MB WIND <call7>"
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /p  WEAK EARTH CHANGE SC >>Scission<< MB STONE <call7>"
+        }
+    },
+    ["Aita"]={
+        ["Flaming Kick"]={
+            ["complete_reaction"]="input /p  WEAK WATER CHANGE SC >>Reverberation<< MB WATER <call7>"
+        },
+        ["Flashflood"]={
+            ["complete_reaction"]="input /p  WEAK THUNDER CHANGE SC >>Fragmentation<< MB THUNDER <call7>"
+        },
+        ["Icy Grasp"]={
+            ["complete_reaction"]="input /p  WEAK FIRE CHANGE SC >>Fusion<< MB FIRE <call7>"
+        },
+        ["Eroding Flesh"]={
+            ["complete_reaction"]="input /p  WEAK WIND CHANGE SC >>Detonation<< MB WIND <call7>"
+        },
+        ["Fulminous Smash"]={
+            ["complete_reaction"]="input /p  WEAK EARTH CHANGE SC >>Scission<< MB STONE <call7>"
+        }
+    },
+    ["Aminon"]={
+        ["Demonfire"]={
+            ["complete_reaction"]="input /ma 'water' <bt>",
+            ["ready_reaction"]="input /p Demonfire >>> PROC WATER <<< <call7>"
+        },
+        ["Torrential Pain"]={
+            ["complete_reaction"]="input /ma 'thunder' <bt>",
+            ["ready_reaction"]="input /p  Torrential Pain  >>> PROC THUNDER <<< <call7>"
+        },
+        ["Frozen Blood"]={
+            ["complete_reaction"]="input /ma 'fire' <bt>",
+            ["ready_reaction"]="input /p  Frozen Blood >>> PROC FIRE <<< <call7>"
+        },
+        ["Ensepulcher"]={
+            ["complete_reaction"]="input /ma 'wind' <bt>",
+            ["ready_reaction"]="input /p  Eroding Flesh >>> PROC WIND <<< <call7>"
+        },
+        ["Ceaseless Surge"]={
+            ["complete_reaction"]="input /ma 'Stone' <bt>",
+            ["ready_reaction"]="input /p Ensepulcher >>> PROC STONE <<< <call7>"
+        },
+        ["Blast of Reticence"]={
+            ["complete_reaction"]="input /ma 'Blizzard' <bt>",
+            ["ready_reaction"]="input /p Ensepulcher >>> PROC ICE <<< <call7>"
+        }
+    },
 }
