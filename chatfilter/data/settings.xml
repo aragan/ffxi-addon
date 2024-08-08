@@ -16,6 +16,7 @@
                 <bumbaae>bumbaae</bumbaae>
                 <bumbab>bumbab</bumbab>
                 <bumbac>bumbac</bumbac>
+                <ceecee>ceecee</ceecee>
                 <clearmindaeonic>clearmindaeonic</clearmindaeonic>
                 <cooldogcja>cooldogcja</cooldogcja>
                 <cooldogddcs>cooldogddcs</cooldogddcs>
@@ -36,6 +37,7 @@
                 <kimcaeonice>kimcaeonice</kimcaeonice>
                 <kimceaeonic>kimceaeonic</kimceaeonic>
                 <kimeaeaoenic>kimeaeaoenic</kimeaeaoenic>
+                <kimeambusc>kimeambusc</kimeambusc>
                 <kimecaeonic>kimecaeonic</kimecaeonic>
                 <kimeeaeaeonic>kimeeaeaeonic</kimeeaeaeonic>
                 <kimevaeonic>kimevaeonic</kimevaeonic>
@@ -78,12 +80,14 @@
                 <199>1-99</199>
                 <1hm>1h/m</1hm>
                 <2010m>20/10m</2010m>
+                <203020m>20-30/20m</203020m>
                 <210010m>2100/10m</210010m>
                 <210012m>2100/12m</210012m>
                 <2100p12m>2100p/12m</2100p12m>
                 <35hr>3.5hr</35hr>
                 <3areaclearminddoyouneedit>3 area clear mind do you need it?</3areaclearminddoyouneedit>
                 <3m500p>3m/500p</3m500p>
+                <3m500p12m2100p>3m/500p 12m/2100p</3m500p12m2100p>
                 <3mbuy>3m buy?</3mbuy>
                 <3zoneclearmind>3zone clear mind</3zoneclearmind>
                 <3zoneclearmindbuy>3zone clear mind buy?</3zoneclearmindbuy>
@@ -104,6 +108,7 @@
                 <abysseabuy>abyssea buy?</abysseabuy>
                 <abysseaempyreanitem505075doyouneeditbuytell>abysseaempyreanitem50/50/75do you need it?buy?/tell</abysseaempyreanitem505075doyouneeditbuytell>
                 <abysseakeyitem>abyssea key item</abysseakeyitem>
+                <aeonicionibkuufpon3areaclearminddoyouneeditbuy35mtell>aeonic ioniÉbkuuÉfpon 3 area clear mind do you need it? buy? 35m /tell</aeonicionibkuufpon3areaclearminddoyouneeditbuy35mtell>
                 <aeonicionibkuufpon3zone>aeonic/ioniÉbkuuÉfpon 3zone</aeonicionibkuufpon3zone>
                 <aeonicionibkuufpon3zoneclearmindbuy>aeonic/ioniÉbkuuÉfpon 3zone clear mind buy?</aeonicionibkuufpon3zoneclearmindbuy>
                 <aeonicweapon3zoneclearmind>aeonic weapon 3 zone clear mind</aeonicweapon3zoneclearmind>
@@ -116,13 +121,17 @@
                 <alexandrite>alexandrite</alexandrite>
                 <ambuscade1vdclearminddoyouneedit5m>ambuscade 1 vd clear mind do you need it? 5m</ambuscade1vdclearminddoyouneedit5m>
                 <ambuscade1vdwindoyouneeditbuy>ambuscade1vd win do you need it? buy?</ambuscade1vdwindoyouneeditbuy>
+                <ambuscadev1ddoyouneeditbuy5mtell>ambuscade v1 d do you need it? buy? 5m /tell</ambuscadev1ddoyouneeditbuy5mtell>
                 <ambuscadev1vd3m>ambuscadev1 vd 3m</ambuscadev1vd3m>
                 <ambuscadev1vdclearmind5m>ambuscadev1 vd clear mind 5m</ambuscadev1vdclearmind5m>
                 <ambuscadev1vdclearmindbuy5m>ambuscadev1 vd clear mind buy? 5m</ambuscadev1vdclearmindbuy5m>
+                <ambuscadev1vdclearminddoyouneeditbuy5mtell>ambuscadev1vd clear mind do you need it? buy? 5m /tell</ambuscadev1vdclearminddoyouneeditbuy5mtell>
                 <ambuscadevdv1buy>ambuscade vd v1 buy?</ambuscadevdv1buy>
+                <ambuv1ddoyouneeditbuy5mtell>ambu v1 d do you need it? buy? 5m /tell</ambuv1ddoyouneeditbuy5mtell>
                 <ammurapishield>ammurapi shield</ammurapishield>
                 <ammurapishieldscale>ammurapi shield scale</ammurapishieldscale>
                 <archon>archon</archon>
+                <arebativ20t4bumbav20>arebati v20 t4 bumba v20</arebativ20t4bumbav20>
                 <autoinv>autoinv</autoinv>
                 <bazaar>bazaar</bazaar>
                 <beitetsu>beitetsu</beitetsu>
@@ -139,14 +148,18 @@
                 <cessance>cessance</cessance>
                 <cessanceearring5mlebeche>cessance earring5mlebeche</cessanceearring5mlebeche>
                 <dingirring>dingir ring</dingirring>
+                <earringscalemiddleboss>earring scale middleboss</earringscalemiddleboss>
                 <empitem>emp item</empitem>
                 <entrance3hour>entrance 3 hour</entrance3hour>
                 <eponasring>epona&apos;s ring</eponasring>
                 <equipitem>equip item</equipitem>
                 <eschabeads>escha beads</eschabeads>
+                <escharuaunreisenjimaitemabjwanted145odysseyv020fermionswordirradiancebladebuy>escha - ru&apos;aunreisenjimaitemabjwanted~145odysseyv0-20fermion swordirradiance blade buy?</escharuaunreisenjimaitemabjwanted145odysseyv020fermionswordirradiancebladebuy>
+                <fermionsword>fermion sword</fermionsword>
                 <fl35hr>fl~~3.5hr</fl35hr>
                 <frekering15>freke ring 15</frekering15>
                 <fuginkei>fu gin kei</fuginkei>
+                <gallimaufry30kbuy>gallimaufry 30k buy?</gallimaufry30kbuy>
                 <glavoid>glavoid</glavoid>
                 <heavymetal>heavy metal</heavymetal>
                 <hrm>hr/m</hrm>
@@ -156,6 +169,7 @@
                 <isgebinditzpopalotlchloriscireincroinbriareuscarabosseapademakironplatekukulanorthusdragua>isgebind/itzpopalotl/chloris/cireincroin/briareus/carabosse/apademak/iron plate/kukulan/orthus/dragua</isgebinditzpopalotlchloriscireincroinbriareuscarabosseapademakironplatekukulanorthusdragua>
                 <itemabjreikiyotai>item abj reiki yotai</itemabjreikiyotai>
                 <jqs>ÇjÇqÇs</jqs>
+                <kalungav25t4v20>kalunga v25)t4 v20</kalungav25t4v20>
                 <kalungav25t4v20unlockr25>kalunga-v25 t4 -v20 unlock-r25</kalungav25t4v20unlockr25>
                 <kalungaxeviosongaimbozeongobumba>kalunga xevioso ngai mboze ongo bumba</kalungaxeviosongaimbozeongobumba>
                 <keikinfugin>kei kin fu gin</keikinfugin>
@@ -175,6 +189,7 @@
                 <kirinwocwanted122145equip>kirin woc wanted122-145 equip</kirinwocwanted122145equip>
                 <kjqsl>ÅkÇjÇqÇsÅl</kjqsl>
                 <krt>krt</krt>
+                <lebechering>lebeche ring</lebechering>
                 <lilith>lilith</lilith>
                 <ljadeshell>l. jadeshell</ljadeshell>
                 <lugalbandaearring>lugalbanda earring</lugalbandaearring>
@@ -192,6 +207,8 @@
                 <odingerering15frekering>odin gere ring 15 freke ring</odingerering15frekering>
                 <odinvd>odin vd</odinvd>
                 <odysseybumbav1killdoyouneedit5m>odyssey bumba v1 kill do you need it? 5m</odysseybumbav1killdoyouneedit5m>
+                <odysseycfarmdoyouneeditbuy>odyssey c farm do you need it? buy?</odysseycfarmdoyouneeditbuy>
+                <odysseycfarmsortie30pointfarm>odyssey c farm sortie 30+ point farm</odysseycfarmsortie30pointfarm>
                 <odysseynmt1t2v25>odysseynm t1 t2/v25</odysseynmt1t2v25>
                 <odysseynmt1t2v25t3t4v20>odyssey nm t1 t2 v25 t3 t4 v20</odysseynmt1t2v25t3t4v20>
                 <odysseynmt1t2v25t3v20kalungav25>odysseynmt1 t2/v25 t3/v20 kalunga/v25</odysseynmt1t2v25t3v20kalungav25>
@@ -210,10 +227,14 @@
                 <omenkinutugripscalemiddle>omen kin utu grip scale middle</omenkinutugripscalemiddle>
                 <omenkyouenmerkarearringscale>omen kyou enmerkar earring scale</omenkyouenmerkarearringscale>
                 <omenkyoukeiginkinfu>omen kyou kei gin kin fu</omenkyoukeiginkinfu>
+                <omenkyoukeikinginfudoyouneeditbuy>omen kyou kei kin gin fu do you need it? buy?</omenkyoukeikinginfudoyouneeditbuy>
                 <omenkyouscalemiddleboss>omen kyou scale middle boss</omenkyouscalemiddleboss>
+                <omenoux4earringneckgemwaisthandscuffs>omen ou x4 earring neck gem waist hands/cuffs</omenoux4earringneckgemwaisthandscuffs>
                 <ongobumbav020clear>ongo bumba v0-20clear</ongobumbav020clear>
                 <ongov0v1>ongov0v1</ongov0v1>
                 <ongov0v1bumbav015>ongov0v1 bumbav0-15</ongov0v1bumbav015>
+                <ongov20arebativ20>ongo v20 arebati v20</ongov20arebativ20>
+                <ongov20arebativ20t4bumbav20clear>ongo v20 arebati v20 t4 bumba v20clear</ongov20arebativ20t4bumbav20clear>
                 <onlyneedfollowokdoyouneeditbuy>only need follow ok do you need it? buy?</onlyneedfollowokdoyouneeditbuy>
                 <oqow>ÇãÇíÇîÇo-ÇqÇoÅ^Çw</oqow>
                 <oukyouginkinkeifu>ou kyou gin kin kei fu</oukyouginkinkeifu>
@@ -223,20 +244,39 @@
                 <qoropwrosost>ÇqÇo-ÇrÇoÅ^ÇpÇwÅ@ÇrÇo-ÇsÇoÅ^ÇsÇt</qoropwrosost>
                 <reikiyotai>reiki yotai</reikiyotai>
                 <reisenjimaclearminddoyouneeditbuy>reisenjima clear mind do you need it? buy?</reisenjimaclearminddoyouneeditbuy>
+                <reisenjimaescharuaunequipabjfermionswordirradiancebladewanted145odysseyv020buy>reisenjimaescha - ru&apos;aunequipabjfermion swordirradiance bladewanted~145odysseyv0-20 buy?</reisenjimaescharuaunequipabjfermionswordirradiancebladewanted145odysseyv020buy>
+                <reisenjimaescharuaunequipabjwanted145odysseybossfermionswordirradiancebladebuy>reisenjimaescha - ru&apos;aunequipabjwanted~145odysseybossfermion swordirradiance blade buy?</reisenjimaescharuaunequipabjwanted145odysseybossfermionswordirradiancebladebuy>
+                <reisenjimaescharuaunequipabjwanted145odysseyv020fermionswordirradiancebladebuy>reisenjimaescha - ru&apos;aunequipabjwanted~145odysseyv0-20fermion swordirradiance bladebuy?</reisenjimaescharuaunequipabjwanted145odysseyv020fermionswordirradiancebladebuy>
                 <riftbornboulder>riftborn boulder</riftbornboulder>
                 <riftdross>riftdross</riftdross>
                 <rp6000>rp6000</rp6000>
                 <rp7000>rp7000~</rp7000>
                 <sarameya>sarameya</sarameya>
                 <segmentsescha>segmentsescha</segmentsescha>
+                <sortie30kaf3unlock>sortie 30k+ af+3 unlock</sortie30kaf3unlock>
+                <sortie30kfarmdoyouneeditbuy>sortie 30k+ farm do you need it? buy?</sortie30kfarmdoyouneeditbuy>
+                <sortie30kgallimaufrybuyescharuaunreisenjimaequipabjfermionswordwanted145buy>sortie30k+ gallimaufrybuy?escha - ru&apos;aunreisenjimaequipabj fermion sword wanted~145 buy?</sortie30kgallimaufrybuyescharuaunreisenjimaequipabjfermionswordwanted145buy>
+                <sortie30kgallimaufrydoyouneeditbuy>sortie 30k gallimaufry do you need it? buy?</sortie30kgallimaufrydoyouneeditbuy>
+                <sortie30kgallimaufrydoyouneeditbuytell>sortie 30k+ gallimaufry do you need it? buy? /tell</sortie30kgallimaufrydoyouneeditbuytell>
                 <sortie30kpointfarmaf3unlock>sortie 30k+ point farm af+3 unlock</sortie30kpointfarmaf3unlock>
+                <sortie30kpointfarmalljoboknotneedhelpdoyouneeditbuy>sortie 30k+ point farm all job ok not need help do you need it? buy?</sortie30kpointfarmalljoboknotneedhelpdoyouneeditbuy>
+                <sortiegaillmaufry30kwanted145odysseyv020escharuaunreisenjimaitemfermionswordbuy>sortiegaillmaufry 30k+wanted~145odysseyv0-20escha - ru&apos;aunreisenjimaitemfermion swordbuy?</sortiegaillmaufry30kwanted145odysseyv020escharuaunreisenjimaitemfermionswordbuy>
+                <sortiegalimaufry3034kdoyouneeditbuy>sortie galimaufry 30-34k do you need it? buy?</sortiegalimaufry3034kdoyouneeditbuy>
+                <sortiegallimaufry30kbuytell>sortie gallimaufry 30k+ buy? tell</sortiegallimaufry30kbuytell>
+                <sortiegallimaufry30kdoyouneedit>sortie gallimaufry 30k+ do you need it?</sortiegallimaufry30kdoyouneedit>
                 <sortiegallimaufry30kdoyouneeditbuy>sortie gallimaufry 30k do you need it? buy?</sortiegallimaufry30kdoyouneeditbuy>
+                <sortiegallimaufry30kfermionswordirradiancebladewanted145odysseyv020buy>sortie gallimaufry 30k+ fermion swordirradiance bladewanted~145 odysseyv0-20 buy?</sortiegallimaufry30kfermionswordirradiancebladewanted145odysseyv020buy>
+                <sortiegallimaufry30kwanted145escharuaunreisenjimaitemfermionswordodysseyv020buy>sortiegallimaufry 30kwanted~145escha - ru&apos;aunreisenjimaitemfermion swordodysseyv0-20 buy?</sortiegallimaufry30kwanted145escharuaunreisenjimaitemfermionswordodysseyv020buy>
+                <sortiegallimaufry3242k>sortie gallimaufry 32-42k</sortiegallimaufry3242k>
+                <sortiegallimaufrygarimnkhuri3234kdoyouneeditbuy>sortie gallimaufry garimnkÅ[huriÅ[ 32~34k do you need it? buy?</sortiegallimaufrygarimnkhuri3234kdoyouneeditbuy>
                 <sortiegallomaufry30kdoyouneeditbuy>sortie gallomaufry 30k do you need it? buy?</sortiegallomaufry30kdoyouneeditbuy>
+                <sortiegallomaufry30kreisenjimaescharuaunequipabjfermionswordirradiancebladebuy>sortie gallomaufry 30k~reisenjimaescha - ru&apos;aunequipabjfermion swordirradiance blade buy?</sortiegallomaufry30kreisenjimaescharuaunequipabjfermionswordirradiancebladebuy>
                 <sortieodysseypointfarmtvrclear>sortie odyssey point farm tvr clear</sortieodysseypointfarmtvrclear>
                 <sparklingstone>sparkling stone</sparklingstone>
                 <swordbuy>sword buy?</swordbuy>
                 <t1t2kalungav25t3t4v20>t1 t2 kalunga v25 t3 t4 v20</t1t2kalungav25t3t4v20>
                 <t1t2t3>t1t2t3</t1t2t3>
+                <t1t2v025>t1t2v0-25ÇãÇÅÇåÇïÇéÇáÇÅ</t1t2v025>
                 <t1t2v20t3v20kalungav25t4v20>t1t2-v20* t3-v20* kalunga-v25* t4-v20</t1t2v20t3v20kalungav25t4v20>
                 <t1t2v25>t1t2-v25*</t1t2v25>
                 <t1t2v25kalungat3t4v20>t1 t2 v25 kalunga t3 t4 v20</t1t2v25kalungat3t4v20>
@@ -260,12 +300,14 @@
                 <t2v025t3v0v20kalungav25t4v0v20>t2/v0-25 t3/v0-v20 kalunga/v25 t4/v0-v20</t2v025t3v0v20kalungav25t4v0v20>
                 <t2v0v25t3v0v20>t2/v0-v25 t3/v0-v20</t2v0v25t3v0v20>
                 <t2v0v25t3v20t4v20>t2/v0-v25 t3-v20 t4-v20</t2v0v25t3v20t4v20>
+                <t2v25t3v20t4v20>t2-v25 t3-v20 t4-v20</t2v25t3v20t4v20>
                 <t3t4bumbav020>t3 t4 bumba v0-20</t3t4bumbav020>
                 <t4bumbav0v20>t4 bumba v0-v20</t4bumbav0v20>
                 <t4bumbav20doyouneeditbuy>t4 bumba-v20 do you need it? buy?</t4bumbav20doyouneeditbuy>
                 <t4bumbav20unlockr25>t4 bumba-v20 unlock-r25</t4bumbav20unlockr25>
                 <t4v020>t4 v0-20</t4v020>
                 <t4v0v20>t4/v0-v20</t4v0v20>
+                <t4v20seg10ksortiebuy>t4/v20 seg/10k+ sortie buy?</t4v20seg10ksortiebuy>
                 <telldropfl35hr>/tell(drop fl~~3.5hr</telldropfl35hr>
                 <telosearring>telos earring</telosearring>
                 <tinnin>tinnin</tinnin>
@@ -277,7 +319,10 @@
                 <unm145>unm~145</unm145>
                 <unm145lilith>unm~145 lilith</unm145lilith>
                 <v015>v0-15</v015>
+                <v01520>v0-15-20</v01520>
                 <v020bumbav020>v0-20 bumba v0-20</v020bumbav020>
+                <v020segments>v0-20 segments</v020segments>
+                <v020segmentstvrbossbuy>v0-20 segments ,tvrboss buy?</v020segmentstvrbossbuy>
                 <v0v1>v0 v1</v0v1>
                 <v0v1bumbav0v1v15>v0v1(bumbav0v1v15)</v0v1bumbav0v1v15>
                 <v0v1bumbav0v1v15tvrlast>v0v1(bumba v0v1v15)tvrlast</v0v1bumbav0v1v15tvrlast>
@@ -295,13 +340,20 @@
                 <wanted145escharuaunreisenjimaequipabjodysseyv0v1fermionswordirradiancebladebuy>wanted~145escha - ru&apos;aunreisenjimaequipabjodysseyv0v1fermion swordirradiance blade buy?</wanted145escharuaunreisenjimaequipabjodysseyv0v1fermionswordirradiancebladebuy>
                 <wanted145escharuaunreisenjimaitemabjodysseynmv0v1fermionswordirradiancebladebuy>wanted~145escha - ru&apos;aunreisenjimaitemabjodysseynm v0v1fermion swordirradiance blade buy?</wanted145escharuaunreisenjimaitemabjodysseynmv0v1fermionswordirradiancebladebuy>
                 <wanted145eschazitahescharuaunreisenjima>wanted~145 escha - zi&apos;tah escha - ru&apos;aun reisenjima</wanted145eschazitahescharuaunreisenjima>
+                <wanted145odysseyv020escharuaunequipabjfermionswordirradiancebladebuy>wanted~145odysseyv0-20escha - ru&apos;aunequipabjfermion swordirradiance blade buy?</wanted145odysseyv020escharuaunequipabjfermionswordirradiancebladebuy>
+                <wanted145odysseyv020escharuaunreisenjimaequipabjfermionswordirradiancebladebuy>wanted~145odysseyv0-20escha - ru&apos;aunreisenjimaequipabjfermion swordirradiance blade buy?</wanted145odysseyv020escharuaunreisenjimaequipabjfermionswordirradiancebladebuy>
+                <wanted145odysseyv020reisenjimaescha>wanted~145odysseyv0-20reisenjimaescha</wanted145odysseyv020reisenjimaescha>
+                <wanted145odysseyv020reisenjimaescharuaunequipabjfermionswordirradianceblade>wanted~145odysseyv0-20reisenjimaescha - ru&apos;aunequipabjfermion sword irradiance blade</wanted145odysseyv020reisenjimaescharuaunequipabjfermionswordirradianceblade>
                 <wanted145odysseyv020reisenjimaescharuaunequipabjfermionswordirradiancebladebuy>wanted~145odysseyv0-20reisenjimaescha - ru&apos;aunequipabjfermion swordirradiance blade buy?</wanted145odysseyv020reisenjimaescharuaunequipabjfermionswordirradiancebladebuy>
                 <wanted145odysseyv0v1escharuaunreisenjimaequipabjfermionswordirradiancebladebuy>wanted~145odysseyv0v1escha - ru&apos;aunreisenjimaequipabjfermion swordirradiance blade buy?</wanted145odysseyv0v1escharuaunreisenjimaequipabjfermionswordirradiancebladebuy>
+                <wanted145reisenjimaescharuaunequipabjodysseyv020fermionswordirradiancebladebuy>wanted~145reisenjimaescha - ru&apos;aunequipabjodysseyv0-20fermion swordirradiance blade buy?</wanted145reisenjimaescharuaunequipabjodysseyv020fermionswordirradiancebladebuy>
+                <wanted145reisenjimaescharuaunitemabjfermionswordirradiancebladebuy>wanted~145reisenjimaescha - ru&apos;aunitemabjfermion sword irradiance blade buy?</wanted145reisenjimaescharuaunitemabjfermionswordirradiancebladebuy>
                 <wanteduc122145>wanted uc122-145</wanteduc122145>
                 <wantedunm119135>wanted unm 119~135</wantedunm119135>
                 <wantedunm135>wanted unm ~135</wantedunm135>
                 <weaponshop>weapon shop</weaponshop>
                 <winfirstpaylater>(win first,pay later)</winfirstpaylater>
+                <wyrmgodphantomgemvd>wyrm god phantom gemvd</wyrmgodphantomgemvd>
                 <xeviosongaikalungav25t4v20>(xevioso ngai kalunga v25) t4 v20</xeviosongaikalungav25t4v20>
             </strings>
         </filters>
