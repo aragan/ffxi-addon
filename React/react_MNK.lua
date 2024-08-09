@@ -245,7 +245,7 @@ return {
     }, 
     ["Leshonn"]={
         ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /ma 'ice' <bt>",
+            ["complete_reaction"]="input /ma 'Blizzard' <bt>",
             ["ready_reaction"]="input /p Changing to Wind Hands! >>> PROC ICE <<< <call7>"
         },
         ["Shrieking Gale"]={
@@ -255,7 +255,7 @@ return {
     }, 
     ["Gartell"]={
         ["Undulating Shockwave"]={
-            ["complete_reaction"]="input /ma 'ice' <bt>",
+            ["complete_reaction"]="input /ma 'Blizzard' <bt>",
             ["ready_reaction"]="input /p Changing to Wind Hands! >>> PROC ICE <<< <call7>"
         },
         ["Shrieking Gale"]={
