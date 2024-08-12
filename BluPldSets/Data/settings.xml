@@ -1,0 +1,41 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <setmode>PreserveTraits</setmode>
+        <setspeed>1</setspeed>
+        <spellsets>
+            <default>
+
+            </default>
+            <pld>
+                <slot01>cocoon</slot01>
+                <slot02>terror touch</slot02>
+                <slot03>sheep song</slot03>
+                <slot04>screwdriver</slot04>
+                <slot05>jettatura</slot05>
+                <slot06>geist wall</slot06>
+                <slot07>soporific</slot07>
+                <slot08>magnetite cloud</slot08>
+                <slot09>stinking gas</slot09>
+                <slot10>frightful roar</slot10>
+                <slot11>healing breeze</slot11>
+                <slot12>grand slam</slot12>
+                <slot13>cold wave</slot13>
+            </pld>
+            <tank>
+                <slot01>healing breeze</slot01>
+                <slot02>sheep song</slot02>
+                <slot03>blank gaze</slot03>
+                <slot04>wild carrot</slot04>
+                <slot05>pollen</slot05>
+                <slot06>jettatura</slot06>
+                <slot07>geist wall</slot07>
+                <slot08>sandspin</slot08>
+                <slot09>cocoon</slot09>
+                <slot10>terror touch</slot10>
+                <slot11>grand slam</slot11>
+                <slot12>screwdriver</slot12>
+            </tank>
+        </spellsets>
+    </global>
+</settings>
