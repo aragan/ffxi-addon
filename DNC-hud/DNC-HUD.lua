@@ -43,8 +43,8 @@ local time_start = 0
 local previous = 0
 local previous2 = 0
 
-local iPosition_x = 200
-local iPosition_y = 200
+local iPosition_x = 720
+local iPosition_y = 250
 
 --for future size commands
 --FOR THE USER: You can set these using the number listed in comment
