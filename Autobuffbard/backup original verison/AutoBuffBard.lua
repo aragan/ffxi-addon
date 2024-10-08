@@ -1,9 +1,9 @@
 _addon.name = 'AutoBuffBard'
 _addon.author = 'Helmaru'
-_addon.version = '2.2.2'
+_addon.version = '2.2.0'
 _addon.commands = {'abb','ABB',}
 
---modification by Xenodeus and Aragan
+--modification by Xenodeus
 --added dynamic pianissimo list
 --edited behavior for multiple placeholder songs all at once + clarion call placeholder song (switch via boolean original_logic)
 
@@ -98,7 +98,7 @@ function do_buff(cmd, nonitro)
 			if int == 2 and windower.ffxi.get_ability_recasts()[48]== 0 then
 				buffstring = buffstring..'input /ja "Marcato" <me>;wait 4;'
 			end
-			if int <= 5 or hasbuff(499) then
+			if int <= 4 or hasbuff(499) then
 				if int > 2 and abf_phsongs and entry ~= "Aria of Passion" then
 					buffstring = buffstring..'input /ma "'..ph_song..'" <me>;wait '..recast..';'
 					ph_song = bff_ph_song..' '..tostring(int)
@@ -115,13 +115,13 @@ function do_buff(cmd, nonitro)
 			if int == 2 and windower.ffxi.get_ability_recasts()[48]== 0 then
 				buffstring = buffstring..'input /ja "Marcato" <me>;wait 4;'
 			end
-			if int <= 5 or hasbuff(499) then
+			if int <= 4 or hasbuff(499) then
 				if int > 2 and abf_phsongs and ph_songs_todo and entry ~= "Aria of Passion" then
 					for _,ph_song in pairs(bff_ph_songs) do
 						buffstring = buffstring..'input /ma "'..ph_song..'" <me>;wait '..recast..';'
 					end
 					if hasbuff(499) and bff_ph_cc_song then
-						buffstring = buffstring..'input /ja "Clarion Call" <me>;wait 1; input /ma "'..bff_ph_cc_song..'" <me>;wait '..recast..';'
+						buffstring = buffstring..'input /ma "'..bff_ph_cc_song..'" <me>;wait '..recast..';'
 					end
 					ph_songs_todo = false
 				end
