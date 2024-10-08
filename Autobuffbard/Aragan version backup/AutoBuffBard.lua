@@ -1,6 +1,6 @@
 _addon.name = 'AutoBuffBard'
 _addon.author = 'Helmaru'
-_addon.version = '2.2.2'
+_addon.version = '2.2.0'
 _addon.commands = {'abb','ABB',}
 
 --modification by Xenodeus and Aragan

@@ -11,7 +11,7 @@ bff_sets.haste2acc = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V', 'Blade
 bff_sets.haste1 = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V', 'Victory March', "Blade Madrigal"}
 bff_sets.aria1 = {'Valor Minuet IV', 'Honor March',  "Aria of Passion", 'Valor Minuet V', 'Victory March'}
 bff_sets.sheol = {'Blade Madrigal', 'Honor March', 'Victory March', "Valor Minuet IV", "Valor Minuet V"}
-bff_sets.acc = {'Blade Madrigal', 'Honor March', 'Valor Minuet IV', 'Victory March', 'Valor Minuet V'}
+bff_sets.acc = {'Blade Madrigal', 'Honor March', 'Valor Minuet V', 'Victory March', 'Valor Minuet IV'}
 bff_sets.fire = {'Blade Madrigal', 'Honor March', 'Valor Minuet V', 'Fire Carol', 'Fire Carol II'}
 bff_sets.magic = {'Blade Madrigal', 'Honor March', 'Logical Etude', "Sage Etude", "Sentinel's Scherzo"}
 bff_sets.skill = {'Blade Madrigal', 'Honor March', 'Sword Madrigal', "Victory March", "Sentinel's Scherzo"}
@@ -43,11 +43,10 @@ bff_sets.Bumba = {"Sentinel's Scherzo", 'Honor March', 'Valor Minuet IV', 'Valor
 
 
 --PIANISSIMO TARGET (ONLY ONE ATM, i.e. BALLAD FOR HEALER)
---bff_pianissimo = {['Aragan']= "Mage's Ballad III", ['Anitamaru']= "Mage's Ballad III"}
---bff_pianissimo = {['Xenodeus']= "Mage's Ballad III"}
+--bff_pianissimo = {['Anitamaru']= "Mage's Ballad III", ['Limaru']= "Mage's Ballad III"}
+--bff_pianissimo = {['Anitamaru']= "Mage's Ballad III"}
 --bff_pianissimo = {['Limaru']= "Mage's Ballad III"}
 --bff_pianissimo = {['Spatz']= "Mage's Ballad III"}
-
 bff_pianissimo = {}
 bff_pianissimo_sets = {}
 bff_pianissimo_sets.refresh = {"Mage's Ballad III"}
