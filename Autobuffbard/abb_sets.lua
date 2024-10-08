@@ -47,6 +47,8 @@ bff_sets.Bumba = {"Sentinel's Scherzo", 'Honor March', 'Valor Minuet IV', 'Valor
 --bff_pianissimo = {['Xenodeus']= "Mage's Ballad III"}
 --bff_pianissimo = {['Limaru']= "Mage's Ballad III"}
 --bff_pianissimo = {['Spatz']= "Mage's Ballad III"}
+--bff_pianissimo = "Mage's Ballad III"
+--bff_pianissimo = {"Mage's Ballad III"}
 
 bff_pianissimo = {}
 bff_pianissimo_sets = {}
