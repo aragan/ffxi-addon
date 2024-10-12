@@ -44,7 +44,7 @@ COR need Scherzo ]]
 bff_sets.ongo = {'Victory March', 'Sage Etude', 'Learned Etude', "Mage's Ballad III", "Mage's Ballad II"}
 --[[BRD: SV Victory March, Ballad x2, INT Etude x2 (on everyone)
 Minne x3, Paeon, Sirvente (on BRD) ]]
-bff_sets.Bumba = {"Sentinel's Scherzo", 'Honor March', 'Valor Minuet IV', 'Valor Minuet V', 'Valor Minuet III'}
+bff_sets.bumba = {"Sentinel's Scherzo", 'Honor March', 'Valor Minuet IV', 'Valor Minuet V', 'Valor Minuet III'}
 --[[BRD: BRD: SV Scherzo, Honor March, Minuet x3]]
 
 --NOTE: IF U HAVE SONG Aria of Passion prime horn Loughnashade replaced Minuet
@@ -62,7 +62,8 @@ bff_pianissimo_sets = {}
 bff_pianissimo_sets.refresh = {"Mage's Ballad III"}
 
 --PLACEHOLDER FOR BUFFING
---bff_ph_song = "Adventurer's Dirge"
+
+bff_ph_song = ""
 bff_ph_songs = {}
 bff_ph_cc_song = "" --Clarion Call song
 
