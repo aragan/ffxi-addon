@@ -1,9 +1,9 @@
 _addon.name = 'AutoBuffBard'
 _addon.author = 'Helmaru'
-_addon.version = '2.2.0'
+_addon.version = '2.2.2'
 _addon.commands = {'abb','ABB',}
 
---modification by Xenodeus
+--modification by Xenodeus and Aragan
 --added dynamic pianissimo list
 --edited behavior for multiple placeholder songs all at once + clarion call placeholder song (switch via boolean original_logic)
 
@@ -13,7 +13,6 @@ local abf_mode = "dps"
 local abf_runes = {}
 local abf_autorune = false
 local abf_phsongs = true
-local abf_fake_cc = false
 
 local original_logic = false
 local abf_pianissimo_players = {}
@@ -27,7 +26,7 @@ windower.register_event('addon command', function(cmd, ...)
 	local args = string.lower(table.concat({...},' '))
 	--windower.add_to_chat(8,dump({...}))
 	if string.lower(cmd) == "help" then
-		windower.add_to_chat(8,'[AutoBuffBard] USAGE: //abb [setname] [nitro|noph|fakecc]')
+		windower.add_to_chat(8,'[AutoBuffBard] USAGE: //abb [setname] [nitro|noph]')
 		windower.add_to_chat(8,'[AutoBuffBard] USAGE: //abb set [pianissimoSetName] [playername]')
 		windower.add_to_chat(8,'[AutoBuffBard] USAGE: //abb reset')
 	elseif string.lower(cmd) == "set" then
@@ -52,17 +51,12 @@ windower.register_event('addon command', function(cmd, ...)
 		abf_pianissimo_players = {}
 		windower.add_to_chat(8, '[AutoBuffBard] ****** ['..cmd..' DONE] ******')
 	else
-		if string.find(args, 'noph') then
+		if args == 'noph' then
 			abf_phsongs = false
 		else
 			abf_phsongs = true
 		end
-		if string.find(args, 'fakecc') then
-			abf_fake_cc = true
-		else
-			abf_fake_cc = false
-		end
-		if string.find(args, 'nonitro') then
+		if args == 'nonitro' then
 			windower.add_to_chat(8,'[AutoBuffBard] Suppressing nitro!')
 			do_buff(cmd, true)
 		else
@@ -104,7 +98,7 @@ function do_buff(cmd, nonitro)
 			if int == 2 and windower.ffxi.get_ability_recasts()[48]== 0 then
 				buffstring = buffstring..'input /ja "Marcato" <me>;wait 4;'
 			end
-			if int <= 4 or hasbuff(499) then
+			if int <= 5 or hasbuff(499) then
 				if int > 2 and abf_phsongs and entry ~= "Aria of Passion" then
 					buffstring = buffstring..'input /ma "'..ph_song..'" <me>;wait '..recast..';'
 					ph_song = bff_ph_song..' '..tostring(int)
@@ -121,13 +115,13 @@ function do_buff(cmd, nonitro)
 			if int == 2 and windower.ffxi.get_ability_recasts()[48]== 0 then
 				buffstring = buffstring..'input /ja "Marcato" <me>;wait 4;'
 			end
-			if int <= 4 or hasbuff(499) or abf_fake_cc then
+			if int <= 5 or hasbuff(499) then
 				if int > 2 and abf_phsongs and ph_songs_todo and entry ~= "Aria of Passion" then
 					for _,ph_song in pairs(bff_ph_songs) do
 						buffstring = buffstring..'input /ma "'..ph_song..'" <me>;wait '..recast..';'
 					end
-					if (hasbuff(499) or abf_fake_cc) and bff_ph_cc_song then
-						buffstring = buffstring..'input /ma "'..bff_ph_cc_song..'" <me>;wait '..recast..';'
+					if hasbuff(499) and bff_ph_cc_song then
+						buffstring = buffstring..'input /ja "Clarion Call" <me>;wait 1; input /ma "'..bff_ph_cc_song..'" <me>;wait '..recast..';'
 					end
 					ph_songs_todo = false
 				end

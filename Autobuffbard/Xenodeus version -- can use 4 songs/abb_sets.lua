@@ -22,6 +22,7 @@ bff_sets.ph = {"Adventurer's Dirge","Warding Round","Puppet's Operetta","Goddess
 --bff_pianissimo = {['Anitamaru']= "Mage's Ballad III"}
 bff_pianissimo = {['Limaru']= "Mage's Ballad III"}
 --bff_pianissimo = {['Spatz']= "Mage's Ballad III"}
+--bff_pianissimo = "Mage's Ballad III"
 
 --PLACEHOLDER FOR BUFFING
 bff_ph_song = "Army's Paeon"

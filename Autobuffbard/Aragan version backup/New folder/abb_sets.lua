@@ -56,8 +56,8 @@ bff_pianissimo_sets.refresh = {"Mage's Ballad III"}
 
 --PLACEHOLDER FOR BUFFING
 --bff_ph_song = "Adventurer's Dirge"
-bff_ph_songs = {}
-bff_ph_cc_song = "" --Clarion Call song
+bff_ph_songs = {'Herb Pastoral'}
+bff_ph_cc_song = "Adventurer's Dirge" --Clarion Call song
 
 -- END OF CUSTOM STUFF
 -- ************************************************************************************ --
