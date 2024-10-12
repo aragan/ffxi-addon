@@ -13,14 +13,15 @@ NOTE: marcato always use in song number 2.
 {its save u time its save u every second its save u place in macro}
 
 command  //abb ph nonitro --for first 5songs dummy with out nitro 
-//abb mboze ccsv -- ccsv to use ja clarion call and Soul Voice
-//abb mboze -- setup songs with nitro 
-NOTE: //abb mboze ccsv -- ccsv with nitro 
+//abb bumba ccsv -- ccsv to use ja clarion call and Soul Voice
+//abb bumba -- setup songs with nitro 
+NOTE: //abb bumba ccsv -- ccsv with nitro 
 command to execute all 5 normal songs
 
 //abb seg ph -- ph add 1 song (ph= placeholder)
 //abb seg noph -- noph not add 1 song 
 command  //abb ph noph --for first 5songs dummy *
+
 help
 USAGE: //abb [setname] [nitro|ccsv]
 USAGE: //abb [setname] [ccsv] -- ccsv to use ja clarion call and Soul Voice.
