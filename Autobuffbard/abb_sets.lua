@@ -13,10 +13,14 @@ bff_sets.acc = {'Blade Madrigal', 'Honor March', 'Valor Minuet IV', 'Victory Mar
 bff_sets.fire = {'Blade Madrigal', 'Honor March', 'Valor Minuet V', 'Fire Carol', 'Fire Carol II'}
 bff_sets.magic = {'Victory March', 'Sage Etude', 'Learned Etude', "Mage's Ballad III", "Mage's Ballad II"}
 bff_sets.skill = {'Blade Madrigal', 'Honor March', 'Sword Madrigal', "Victory March", "Sentinel's Scherzo"}
-bff_sets.seg = {'Blade Madrigal', 'Honor March', 'Victory March', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.seg = {'Valor Minuet III', 'Honor March', 'Victory March', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.seg4 = {'Honor March', 'Victory March', "Valor Minuet IV", "Valor Minuet V"}
 bff_sets.sortie = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.sortie4 = {'Blade Madrigal', 'Honor March', "Valor Minuet IV", "Valor Minuet V"}
 bff_sets.ody = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.ody4 = {'Blade Madrigal', 'Honor March', "Valor Minuet IV", "Valor Minuet V"}
 bff_sets.ambuscade = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.ambuscade4 = {'Blade Madrigal', 'Honor March',  "Valor Minuet IV", "Valor Minuet V"}
 
 bff_sets.ph = {"Adventurer's Dirge","Warding Round","Puppet's Operetta","Goddess's Hymnus","Shining Fantasia"}
 --Odyssey V25 ADD BY Author: Aragan (Asura)

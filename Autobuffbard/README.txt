@@ -16,6 +16,13 @@ USAGE: //abb [setname] [ccsv] -- ccsv to use ja clarion call and Soul Voice.
 USAGE: //abb [setname] [nonitro] -- use u setup songs with out nitro
 USAGE: //abb set [pianissimoSetName] [playername]')
 USAGE: //abb reset')
+
+--songs setup u can save any name and use it for any nm or event  use command:  //abb mboze noph or //abb seg noph
+
+-- for 4 songs setup u can add in abb_sets.lua  4 songs setup like //abb sortie4
+-----------------
+NOTE : songs setup get from abb_sets.lua and ther u can add any songs 
+
 command  //abb ph noph --for first 5songs dummy 
 NOTE : songs setup get from abb_sets.lua and ther u can add any songs 
 
