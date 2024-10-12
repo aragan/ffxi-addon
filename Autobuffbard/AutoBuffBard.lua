@@ -1,9 +1,10 @@
 _addon.name = 'AutoBuffBard'
 _addon.author = 'Helmaru'
-_addon.version = '2.2.0'
+_addon.version = '2.2.2'
 _addon.commands = {'abb','ABB',}
+_addon.modification = {'Aragan','Xenodeus',}
 
---modification by Xenodeus
+--modification by Xenodeus and Aragan
 --added dynamic pianissimo list
 --edited behavior for multiple placeholder songs all at once + clarion call placeholder song (switch via boolean original_logic)
 

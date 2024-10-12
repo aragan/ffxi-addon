@@ -1,9 +1,7 @@
 -- Author: Aragan (Asura) and this addon AutoBuffBard created for focus on ody v25 
 
 AutoBuffBard
-
-command  
-//abb ph nonitro --for first 5songs dummy with out nitro 
+command  //abb ph nonitro --for first 5songs dummy with out nitro 
 //abb mboze ccsv -- ccsv to use ja clarion call and Soul Voice
 //abb mboze -- do normal 5 songs
 

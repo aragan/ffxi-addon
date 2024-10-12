@@ -4,18 +4,20 @@ bff_sets = {};
 -- Author: Aragan (Asura)
 -- DEFINE YOUR SETS HERE, SECOND SONG GETS MARCATO (SO WE DONT OVWRITE IT WITH PIANISSIMO)
 -- EVERY SET NAME MUST BE LOWERCASE
-bff_sets.haste2 = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V',  'Blade Madrigal', "Knight's Minne V"}
-bff_sets.aria2 = {'Valor Minuet IV', 'Honor March',  "Aria of Passion", 'Valor Minuet V', 'Blade Madrigal'}
+bff_sets.haste = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V',  'Blade Madrigal', "Victory March"}
+bff_sets.aria = {'Valor Minuet IV', 'Honor March',  "Aria of Passion", 'Valor Minuet V', 'Blade Madrigal'}
 bff_sets.sherzo = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V', "Sentinel's Scherzo", 'Blade Madrigal'}
 bff_sets.haste2acc = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V', 'Blade Madrigal', "Sword Madrigal"}
-bff_sets.haste1 = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V', 'Victory March', "Blade Madrigal"}
-bff_sets.aria1 = {'Valor Minuet IV', 'Honor March',  "Aria of Passion", 'Valor Minuet V', 'Victory March'}
 bff_sets.sheol = {'Blade Madrigal', 'Honor March', 'Victory March', "Valor Minuet IV", "Valor Minuet V"}
 bff_sets.acc = {'Blade Madrigal', 'Honor March', 'Valor Minuet IV', 'Victory March', 'Valor Minuet V'}
 bff_sets.fire = {'Blade Madrigal', 'Honor March', 'Valor Minuet V', 'Fire Carol', 'Fire Carol II'}
-bff_sets.magic = {'Blade Madrigal', 'Honor March', 'Logical Etude', "Sage Etude", "Sentinel's Scherzo"}
+bff_sets.magic = {'Victory March', 'Sage Etude', 'Learned Etude', "Mage's Ballad III", "Mage's Ballad II"}
 bff_sets.skill = {'Blade Madrigal', 'Honor March', 'Sword Madrigal', "Victory March", "Sentinel's Scherzo"}
 bff_sets.seg = {'Blade Madrigal', 'Honor March', 'Victory March', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.sortie = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.ody = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.ambuscade = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
+
 bff_sets.ph = {"Adventurer's Dirge","Warding Round","Puppet's Operetta","Goddess's Hymnus","Shining Fantasia"}
 --Odyssey V25 ADD BY Author: Aragan (Asura)
 bff_sets.mboze = {'Valor Minuet III', 'Honor March', 'Valor Minuet II', 'Valor Minuet IV', 'Valor Minuet V'}
@@ -41,6 +43,7 @@ Minne x3, Paeon, Sirvente (on BRD) ]]
 bff_sets.Bumba = {"Sentinel's Scherzo", 'Honor March', 'Valor Minuet IV', 'Valor Minuet V', 'Valor Minuet III'}
 --[[BRD: BRD: SV Scherzo, Honor March, Minuet x3]]
 
+--NOTE: IF U HAVE SONG Aria of Passion prime horn Loughnashade replaced Minuet
 
 --PIANISSIMO TARGET (ONLY ONE ATM, i.e. BALLAD FOR HEALER)
 --bff_pianissimo = {['Aragan']= "Mage's Ballad III", ['Anitamaru']= "Mage's Ballad III"}
