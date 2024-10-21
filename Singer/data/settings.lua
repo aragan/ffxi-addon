@@ -1,5 +1,5 @@
 return {
-    ["dummy"] = L{"Puppet's Operetta","Scop's Operetta",},
+    ["dummy"] = L{},
     ["song"] = T{
     },
     ["playlist"] = T{
@@ -10,12 +10,15 @@ return {
         ["sv5"] = L{"Valor Minuet III","Valor Minuet IV","Valor Minuet V","Honor March","Valor Minuet II",},
         ["mboze2"] = L{"Knight's Minne IV","Knight's Minne V","Mage's Ballad II","Victory March","Mage's Ballad III",},
         ["arebati"] = L{"Valor Minuet IV","Valor Minuet V","Knight's Minne IV","Knight's Minne V","Honor March",},
+        ["1"] = L{"Herculean Etude","Valor Minuet III","Valor Minuet IV","Valor Minuet V",},
         ["melee"] = L{"Valor Minuet V","Valor Minuet IV","Honor March","Victory March","Valor Minuet III",},
+        ["2"] = L{"Herculean Etude","Valor Minuet III","Valor Minuet IV","Valor Minuet V","Honor March",},
         ["mboze"] = L{"Valor Minuet V","Valor Minuet IV","Valor Minuet III","Honor March","Valor Minuet II",},
         ["kalunga"] = L{"Valor Minuet III","Valor Minuet V","Valor Minuet IV","Honor March","Fire Carol II",},
         ["sortie"] = L{"Valor Minuet IV","Valor Minuet V","Blade Madrigal","Honor March","Aria of Passion",},
         ["odin"] = L{"Knight's Minne V","Honor March","Valor Minuet V","Valor Minuet IV","Valor Minuet III",},
         ["procne"] = L{"Valor Minuet V","Valor Minuet IV","Blade Madrigal","Honor March","Knight's Minne IV",},
+        ["11"] = L{"Herculean Etude","Valor Minuet III","Valor Minuet IV","Valor Minuet V","Honor March",},
         ["tank"] = L{"Knight's Minne V","Honor March","Foe Sirvente","Sentinel's Scherzo","Mage's Ballad III",},
         ["ambu"] = L{"Valor Minuet V","Blade Madrigal","Honor March","Knight's Minne V","Valor Minuet IV",},
         ["w2"] = L{"Adventurer's Dirge","Blade Madrigal","Honor March","Valor Minuet V","Knight's Minne V",},
@@ -44,5 +47,5 @@ return {
     ["buffs"] = T{
     },
     ["clarion"] = L{"Valor Minuet IV",},
-    ["songs"] = L{"Honor March","Knight's Minne V","Knight's Minne IV","Army's Paeon VI","Knight's Minne III",},
+    ["songs"] = L{"Honor March","Blade Madrigal","Valor Minuet III","Valor Minuet IV","Valor Minuet V",},
 }
