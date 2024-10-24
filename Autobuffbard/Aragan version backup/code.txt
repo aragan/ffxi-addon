@@ -1,0 +1,49 @@
+
+
+-- can add in gearswap
+
+job_precast
+    if num_bard_songs >= 2 and num_bard_songs < info.MaxSongs and spell.name ~= 'Honor March' and generalClass == 'SongEffect' then
+        windower.add_to_chat(10,"Swapping to "..info.ExtraSongInstrument.."! Number of bard buffs = "..num_bard_songs)
+        equip({range=info.ExtraSongInstrument})
+    end
+    -- end --
+    
+    if spell.name == 'Honor March' then
+        equip({range="Marsyas"})
+    end
+
+
+and in job_midcast
+
+    if num_bard_songs >= 2 and num_bard_songs < info.MaxSongs and spell.name ~= 'Honor March' and generalClass == 'SongEffect' then
+        equip({range=info.ExtraSongInstrument})
+    end
+    -- end -- 
+    if spell.name == 'Honor March' then
+        equip(sets.midcast.HonorMarch)
+    end
+
+
+
+
+------------------
+
+--can add in abb lua
+
+if int <= 4 or hasbuff(499) then
+    if int > 2 and abf_phsongs and ph_songs_todo and entry ~= "Aria of Passion" then
+        //lock daurdabla
+        for _,ph_song in pairs(bff_ph_songs) do
+            buffstring = buffstring..'input /ma "'..ph_song..'" <me>;wait '..recast..';'
+        end
+        if hasbuff(499) and bff_ph_cc_song then
+            buffstring = buffstring..'input /ma "'..bff_ph_cc_song..'" <me>;wait '..recast..';'
+        end
+        //unlock daurdabla
+        ph_songs_todo = false
+    end
+    buffstring = buffstring..'input /ma "'..entry..'" <me>;wait '..recast..';'
+end
+
+------------
