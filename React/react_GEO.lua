@@ -235,4 +235,30 @@ return {
             ["ready_reaction"]="input /p Ensepulcher >>> PROC ICE <<< <call7>"
         }
     },
+    ["Bozzetto Retributionist"]={
+        ["Charging Up"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="input /p STOP FIGHT >>> Charging Up <<< <call6>"
+        },
+        ["Boiling Over"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="input /p STOP FIGHT >>> Charging Up <<< <call6>"
+        },
+        ["Miasma"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="input /p STOP FIGHT >>> Charging Up <<< <call6>"
+        },
+        ["Atramentous Oblation"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="input /p  FIGHT AGAIN >>> FULL ATTACK <<< <call6>"
+        },
+        ["Atramentous Libations"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="input /p  FIGHT AGAIN >>> FULL ATTACK <<< <call6>"
+        },
+        ["Nether Castigation"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="input /p  FIGHT AGAIN >>> FULL ATTACK <<< <call6>"
+        }   
+    },
 }
