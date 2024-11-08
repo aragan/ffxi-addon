@@ -51,6 +51,7 @@
                 <oqata>oqata</oqata>
                 <shuyang>shuyang</shuyang>
                 <siggs>siggs</siggs>
+                <sixgodhhc>sixgodhhc</sixgodhhc>
                 <snkoneg>snkoneg</snkoneg>
                 <snkonej>snkonej</snkonej>
                 <snkonek>snkonek</snkonek>
@@ -95,6 +96,7 @@
                 <3zoneclearminddoyouneedit>3zone clear mind do you need it?</3zoneclearminddoyouneedit>
                 <3zoneclearminddoyouneeditbuytell>3zone clear mind do you need it? buy? /tell</3zoneclearminddoyouneeditbuytell>
                 <3zoneclearminddoyouneeditbuytell15>3zone clear mind do you need it? buy? /tell 1/5</3zoneclearminddoyouneeditbuytell15>
+                <3zonesclearminddoyouneedittellbuy>3 zones clear mind do you need it? /tell buy?</3zonesclearminddoyouneedittellbuy>
                 <4080m>40/80m</4080m>
                 <45>/45</45>
                 <4mrun10m3run>4m/run 10m/3run</4mrun10m3run>
@@ -119,18 +121,26 @@
                 <aeonicweaponreisenjima>aeonic weapon reisenjima</aeonicweaponreisenjima>
                 <aeonicwepon3zoneclearminddoyouneeditbuytellalldropfree>aeonic wepon 3 zone clear mind do you need it? buy? /tell all drop free</aeonicwepon3zoneclearminddoyouneeditbuytellalldropfree>
                 <alexandrite>alexandrite</alexandrite>
+                <ambuscade1vdcleardoyouneeditbuy>ambuscade 1 vd clear do you need it? buy?</ambuscade1vdcleardoyouneeditbuy>
+                <ambuscade1vdclearmindbuy5m>ambuscade 1 vd clear mind buy? 5m</ambuscade1vdclearmindbuy5m>
                 <ambuscade1vdclearminddoyouneedit5m>ambuscade 1 vd clear mind do you need it? 5m</ambuscade1vdclearminddoyouneedit5m>
+                <ambuscade1vdclearminddoyouneeditbuy5m56>ambuscade 1 vd clear mind do you need it? buy? 5m 5/6</ambuscade1vdclearminddoyouneeditbuy5m56>
+                <ambuscade1vddoyouneeditbuy5m>ambuscade 1 vd do you need it? buy? 5m</ambuscade1vddoyouneeditbuy5m>
                 <ambuscade1vdwindoyouneeditbuy>ambuscade1vd win do you need it? buy?</ambuscade1vdwindoyouneeditbuy>
+                <ambuscadev1dclearmindbuy>ambuscade v1 d clear mind buy?</ambuscadev1dclearmindbuy>
                 <ambuscadev1ddoyouneeditbuy5mtell>ambuscade v1 d do you need it? buy? 5m /tell</ambuscadev1ddoyouneeditbuy5mtell>
                 <ambuscadev1vd3m>ambuscadev1 vd 3m</ambuscadev1vd3m>
                 <ambuscadev1vdclearmind5m>ambuscadev1 vd clear mind 5m</ambuscadev1vdclearmind5m>
                 <ambuscadev1vdclearmindbuy5m>ambuscadev1 vd clear mind buy? 5m</ambuscadev1vdclearmindbuy5m>
                 <ambuscadev1vdclearminddoyouneeditbuy5mtell>ambuscadev1vd clear mind do you need it? buy? 5m /tell</ambuscadev1vdclearminddoyouneeditbuy5mtell>
+                <ambuscadev1vdwindoyouneedit3mrun>ambuscade v.1 vd win do you need it? 3m/run</ambuscadev1vdwindoyouneedit3mrun>
+                <ambuscadevdclearmindbuy5m>ambuscade vd clear mind buy?5m</ambuscadevdclearmindbuy5m>
                 <ambuscadevdv1buy>ambuscade vd v1 buy?</ambuscadevdv1buy>
                 <ambuv1ddoyouneeditbuy5mtell>ambu v1 d do you need it? buy? 5m /tell</ambuv1ddoyouneeditbuy5mtell>
                 <ammurapishield>ammurapi shield</ammurapishield>
                 <ammurapishieldscale>ammurapi shield scale</ammurapishieldscale>
                 <archon>archon</archon>
+                <arebationgombozebumbav020>arebati ongo mboze bumba v0-20</arebationgombozebumbav020>
                 <arebativ20t4bumbav20>arebati v20 t4 bumba v20</arebativ20t4bumbav20>
                 <autoinv>autoinv</autoinv>
                 <bazaar>bazaar</bazaar>
@@ -155,6 +165,8 @@
                 <equipitem>equip item</equipitem>
                 <eschabeads>escha beads</eschabeads>
                 <escharuaunreisenjimaitemabjwanted145odysseyv020fermionswordirradiancebladebuy>escha - ru&apos;aunreisenjimaitemabjwanted~145odysseyv0-20fermion swordirradiance blade buy?</escharuaunreisenjimaitemabjwanted145odysseyv020fermionswordirradiancebladebuy>
+                <eschazitahescharuaunreisenjimaallitemabjbeadsunmambuscadev1vddoyouneedittellbuy>escha - zi&apos;tah escha - ru&apos;aun reisenjima all item abj beads unm ambuscade v1 vd do you need it? /tell buy?</eschazitahescharuaunreisenjimaallitemabjbeadsunmambuscadev1vddoyouneedittellbuy>
+                <eschazitahescharuaunreisenjimaallitembeadsunm>escha - zi&apos;tah escha - ru&apos;aun reisenjima all item beads unm</eschazitahescharuaunreisenjimaallitembeadsunm>
                 <fermionsword>fermion sword</fermionsword>
                 <fl35hr>fl~~3.5hr</fl35hr>
                 <frekering15>freke ring 15</frekering15>
@@ -211,17 +223,21 @@
                 <odysseycfarmsortie30pointfarm>odyssey c farm sortie 30+ point farm</odysseycfarmsortie30pointfarm>
                 <odysseynmt1t2v25>odysseynm t1 t2/v25</odysseynmt1t2v25>
                 <odysseynmt1t2v25t3t4v20>odyssey nm t1 t2 v25 t3 t4 v20</odysseynmt1t2v25t3t4v20>
+                <odysseynmt1t2v25t3v20>odyssey nm t1-t2/v25 t3/v20</odysseynmt1t2v25t3v20>
                 <odysseynmt1t2v25t3v20kalungav25>odysseynmt1 t2/v25 t3/v20 kalunga/v25</odysseynmt1t2v25t3v20kalungav25>
                 <odysseynmv020>odysseynm v0-20</odysseynmv020>
                 <odysseyt14>odysseyt1~4</odysseyt14>
                 <odysseyt14xeviosonagikalungamboze>odysseyt1~4 xevioso nagi kalunga mboze</odysseyt14xeviosonagikalungamboze>
+                <odysseyt1t2v025t3kalunga>odysseyt1t2v0-25t3kalunga</odysseyt1t2v025t3kalunga>
                 <odysseyt1t2v025t3t4bumbav20>ÅúÅúÅúodysseyÅúÅúÅút1 t2 v0-25ÅúÅúÅú t3 t4 bumba v20</odysseyt1t2v025t3t4bumbav20>
                 <odysseyt1t2v25t3kalunga>odyssey t1 t2 v25 - t3 kalunga</odysseyt1t2v25t3kalunga>
                 <odysseyt1v25>odysseyt1-v25*</odysseyt1v25>
                 <odysseyt1v25t2v25>odyssey t1 v25 t2 v25</odysseyt1v25t2v25>
                 <odysseyt1v25t2v25t3v20kalungav25t4bumbav20>odyssey t1 v25 / t2 v25 / t3 v20 / kalunga v25 / t4 bumba v20</odysseyt1v25t2v25t3v20kalungav25t4bumbav20>
                 <omenescharuaunreisenjimaitemabjodysseynmwanted145fermionswordirradiancebladebuy>omenescha - ru&apos;aunreisenjimaitemabjodysseynmwanted~145fermion swordirradiance bladebuy?</omenescharuaunreisenjimaitemabjodysseynmwanted145fermionswordirradiancebladebuy>
+                <omenfukeikinginkyouitem>omen fu kei kin gin kyou item</omenfukeikinginkyouitem>
                 <omenkeiearringmiddlebossdoyouneeditbuy>omen kei earring middle boss do you need it? buy?</omenkeiearringmiddlebossdoyouneeditbuy>
+                <omenkeiginkinmidbossesbuytellitems>omen*kei*gin*kin*mid*bosses*buy?*tell items</omenkeiginkinmidbossesbuytellitems>
                 <omenkeilugalbandaearringscalemidbossbuy>omen kei lugalbanda earring scale midboss buy?</omenkeilugalbandaearringscalemidbossbuy>
                 <omenkinscalemidboss>omen kin scale midboss</omenkinscalemidboss>
                 <omenkinutugripscalemiddle>omen kin utu grip scale middle</omenkinutugripscalemiddle>
@@ -235,6 +251,7 @@
                 <ongov0v1bumbav015>ongov0v1 bumbav0-15</ongov0v1bumbav015>
                 <ongov20arebativ20>ongo v20 arebati v20</ongov20arebativ20>
                 <ongov20arebativ20t4bumbav20clear>ongo v20 arebati v20 t4 bumba v20clear</ongov20arebativ20t4bumbav20clear>
+                <onlyfollow>only follow</onlyfollow>
                 <onlyneedfollowokdoyouneeditbuy>only need follow ok do you need it? buy?</onlyneedfollowokdoyouneeditbuy>
                 <oqow>ÇãÇíÇîÇo-ÇqÇoÅ^Çw</oqow>
                 <oukyouginkinkeifu>ou kyou gin kin kei fu</oukyouginkinkeifu>
@@ -255,9 +272,12 @@
                 <segmentsescha>segmentsescha</segmentsescha>
                 <sortie30kaf3unlock>sortie 30k+ af+3 unlock</sortie30kaf3unlock>
                 <sortie30kfarmdoyouneeditbuy>sortie 30k+ farm do you need it? buy?</sortie30kfarmdoyouneeditbuy>
+                <sortie30kgallimaufrybuy>sortie 30k gallimaufry buy?</sortie30kgallimaufrybuy>
                 <sortie30kgallimaufrybuyescharuaunreisenjimaequipabjfermionswordwanted145buy>sortie30k+ gallimaufrybuy?escha - ru&apos;aunreisenjimaequipabj fermion sword wanted~145 buy?</sortie30kgallimaufrybuyescharuaunreisenjimaequipabjfermionswordwanted145buy>
                 <sortie30kgallimaufrydoyouneeditbuy>sortie 30k gallimaufry do you need it? buy?</sortie30kgallimaufrydoyouneeditbuy>
                 <sortie30kgallimaufrydoyouneeditbuytell>sortie 30k+ gallimaufry do you need it? buy? /tell</sortie30kgallimaufrydoyouneeditbuytell>
+                <sortie30kgallimufry>sortie 30k gallimufry</sortie30kgallimufry>
+                <sortie30kgallmaufrybuytell>sortie 30k gallmaufry buy? tell</sortie30kgallmaufrybuytell>
                 <sortie30kpointfarmaf3unlock>sortie 30k+ point farm af+3 unlock</sortie30kpointfarmaf3unlock>
                 <sortie30kpointfarmalljoboknotneedhelpdoyouneeditbuy>sortie 30k+ point farm all job ok not need help do you need it? buy?</sortie30kpointfarmalljoboknotneedhelpdoyouneeditbuy>
                 <sortiegaillmaufry30kwanted145odysseyv020escharuaunreisenjimaitemfermionswordbuy>sortiegaillmaufry 30k+wanted~145odysseyv0-20escha - ru&apos;aunreisenjimaitemfermion swordbuy?</sortiegaillmaufry30kwanted145odysseyv020escharuaunreisenjimaitemfermionswordbuy>
@@ -267,7 +287,11 @@
                 <sortiegallimaufry30kdoyouneeditbuy>sortie gallimaufry 30k do you need it? buy?</sortiegallimaufry30kdoyouneeditbuy>
                 <sortiegallimaufry30kfermionswordirradiancebladewanted145odysseyv020buy>sortie gallimaufry 30k+ fermion swordirradiance bladewanted~145 odysseyv0-20 buy?</sortiegallimaufry30kfermionswordirradiancebladewanted145odysseyv020buy>
                 <sortiegallimaufry30kwanted145escharuaunreisenjimaitemfermionswordodysseyv020buy>sortiegallimaufry 30kwanted~145escha - ru&apos;aunreisenjimaitemfermion swordodysseyv0-20 buy?</sortiegallimaufry30kwanted145escharuaunreisenjimaitemfermionswordodysseyv020buy>
+                <sortiegallimaufry3240k>sortie gallimaufry 32-40k+</sortiegallimaufry3240k>
                 <sortiegallimaufry3242k>sortie gallimaufry 32-42k</sortiegallimaufry3242k>
+                <sortiegallimaufry40kbuy>sortie gallimaufry 40k+ buy?</sortiegallimaufry40kbuy>
+                <sortiegallimaufry40konlyfollowdoyouneeditbuy>sortie gallimaufry 40k+ only /follow do you need it? buy?</sortiegallimaufry40konlyfollowdoyouneeditbuy>
+                <sortiegallimaufrydoyouneeditbuytell>sortie gallimaufry do you need it? buy? tell</sortiegallimaufrydoyouneeditbuytell>
                 <sortiegallimaufrygarimnkhuri3234kdoyouneeditbuy>sortie gallimaufry garimnkÅ[huriÅ[ 32~34k do you need it? buy?</sortiegallimaufrygarimnkhuri3234kdoyouneeditbuy>
                 <sortiegallomaufry30kdoyouneeditbuy>sortie gallomaufry 30k do you need it? buy?</sortiegallomaufry30kdoyouneeditbuy>
                 <sortiegallomaufry30kreisenjimaescharuaunequipabjfermionswordirradiancebladebuy>sortie gallomaufry 30k~reisenjimaescha - ru&apos;aunequipabjfermion swordirradiance blade buy?</sortiegallomaufry30kreisenjimaescharuaunequipabjfermionswordirradiancebladebuy>
@@ -310,7 +334,6 @@
                 <t4v20seg10ksortiebuy>t4/v20 seg/10k+ sortie buy?</t4v20seg10ksortiebuy>
                 <telldropfl35hr>/tell(drop fl~~3.5hr</telldropfl35hr>
                 <telosearring>telos earring</telosearring>
-                <tinnin>tinnin</tinnin>
                 <tvr112>tvr 11-2</tvr112>
                 <tvrbossbuy>tvr boss buy?</tvrbossbuy>
                 <tvrlastbossbuy>tvrlast bossbuy?</tvrlastbossbuy>
@@ -355,6 +378,7 @@
                 <winfirstpaylater>(win first,pay later)</winfirstpaylater>
                 <wyrmgodphantomgemvd>wyrm god phantom gemvd</wyrmgodphantomgemvd>
                 <xeviosongaikalungav25t4v20>(xevioso ngai kalunga v25) t4 v20</xeviosongaikalungav25t4v20>
+                <xeviosongaiv025arebationgombozebumbav020buywinpay>xevioso ngai v0-25 arebati ongo mboze bumba v0-20buy?win pay</xeviosongaiv025arebationgombozebumbav020buywinpay>
             </strings>
         </filters>
         <show>false</show>
