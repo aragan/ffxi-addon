@@ -1,8 +1,8 @@
 _addon.name = 'Gaze_check'
-_addon.author = 'smd111/Kenshi'
+_addon.author = 'smd111/Kenshi/Aragan'
 _addon.command = 'gazecheck'
 _addon.commands = {'gzc'}
-_addon.version = '2.03'
+_addon.version = '2.04'
 
 require 'luau'
 require('vectors')
@@ -19,8 +19,8 @@ gaze_attacks = {[284]="Cold Stare",[292]="Blank Gaze",[370]="Baleful Gaze",[386]
 [1694]="Vile Belch",[1695]="Hypnic Lamp",[1713]="Yawn",[1716]="Frigid Shuffle",[1759]="Hypnotic Sway",[1762]="Belly Dance",[1862]="Awful Eye",[1883]="Mortal Ray",
 [1950]="Belly Dance",[1978]="Abominable Belch",[2111]="Eternal Damnation",[2155]="Torpefying Charge",[2209]="Blink of Peril",[2424]="Terror Eye",[2465]="Bill Toss",
 [2466]="Washtub",[2570]="Afflicting Gaze",[2534]="Minax Glare",[2602]="Mortal Blast",[2610]="Vacant Gaze",[2768]="Deathly Glare",[2814]="Yawn",[2817]="Frigid Shuffle",
-[2828]="Jettatura",[3031]="Sylvan Slumber",[3032]="Crushing Gaze",[3358]="Blank Gaze",[3760]="Beguiling Gaze",[3898]="Chaotic Eye",[3916]="Jettatura"}
-
+[2828]="Jettatura",[3031]="Sylvan Slumber",[3032]="Crushing Gaze",[3358]="Blank Gaze",[3760]="Beguiling Gaze",[3898]="Chaotic Eye",
+[533]="Danse Macabre",[1329]="Gala Macabree",[2803]="Slimy Proposal",[2679]="Fatal Allure",[4192]="Fatal Allure"}  
 perm_gaze_attacks = {[2156]="Grim Glower",[2392]="Oppressive Glare",[2776]="Shah Mat",}
 perm_gaze_control = {["Peiste"]={skills=T{2156, 2392},delay=3,ender=T{4}},["Caturae"]={skills=T{2776},delay=6,ender=T{4,6}},}
 
