@@ -1,5 +1,33 @@
 return {
     ["Aragan"] = {
+        ["DNC"] = {
+            ["Dagger"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 5
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Aeolian Edge\" <t>"
+            }
+        },
+        ["DRG"] = {
+            ["Polearm"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 5
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Stardiver\" <t>"
+            },
+            ["Sword"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 5
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Savage Blade\" <t>"
+            }
+        },
         ["MNK"] = {
             ["Hand-to-Hand"] = {
                 ["hps"] = {
@@ -8,6 +36,16 @@ return {
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Howling Fist\" <t>"
+            }
+        },
+        ["PLD"] = {
+            ["Dagger"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 5
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Savage Blade\" <t>"
             }
         },
         ["WAR"] = {

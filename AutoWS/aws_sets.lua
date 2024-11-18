@@ -1,18 +1,18 @@
 
 aws_aby_ws = {
-	{'wind knife', 'Cyclone'},
-	{'wind knife', 'Energy Drain'},
-	{'twinned blade', 'Red Lotus Blade'},
-	{'twinned blade', 'Seraph Blade'},
-	{'ophidian sword', 'Freezebite'},
-	{"Tzee Xicu's Blade", 'Raiden Thrust'},
-	{'Debahocho', 'Blade: Ei'},
-	{"Soulflayer's Wand", 'Seraph Strike'},
-	{'Lamia Staff', 'Earth Crusher'},
-	{'Lamia Staff', 'Sunburst'},
-	{'Zanmato', 'Tachi: Jinpu'},
-	{'Zanmato', 'Tachi: Koki'},
-	{'Ark Scythe', 'Shadow of Death'},
+	{'Qutrub Knife', 'Cyclone'},
+	{'Qutrub Knife', 'Energy Drain'},
+	{'Fermion Sword', 'Red Lotus Blade'},
+	{'Fermion Sword', 'Seraph Blade'},
+	{'Irradiance Blade', 'Freezebite'},
+	{"Sha Wujing's La. +1", 'Raiden Thrust'},
+	{'Debahocho +1', 'Blade: Ei'},
+	{"Caduceus", 'Seraph Strike'},
+	{'Profane Staff', 'Earth Crusher'},
+	{'Profane Staff', 'Sunburst'},
+	{'Zanmato +1', 'Tachi: Jinpu'},
+	{'Zanmato +1', 'Tachi: Koki'},
+	{'Maven\'s Scythe', 'Shadow of Death'},
 }
 
 aws_chains = {};
