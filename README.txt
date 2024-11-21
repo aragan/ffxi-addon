@@ -1,5 +1,8 @@
 -- Author: Aragan (Asura) 
 
+support Donate
+https://www.paypal.com/donate/?business=8RV3QKCFU3PNQ&no_recurring=0&currency_code=USD
+
 Addon need it all time  dparty-partybuffs-DistancePlus-distance-Debuffed-GearSwap-enemybar2-GearInfo-equipviewer-itemizer-partyhints-rolltracker-Silence-Skillchains-TParty-organizer-instaLS-Furrow-AutoUNM-AutoRA-AutoWS-autoSC-autoMB-chatfilter-autoAssist-AuctionHelper-attack-AutoCOR-checkparam-FocusTarget-Omen-parse-Quetz-React-Repeater-SellNPC-Sparks-Synergy-temps-TradeNPC-TreasurePool-Treasury-Voidwatch-SirPopaLot               
 
 plugin: timers   for small bar do change <graphicalMode>true</graphicalMode> to <graphicalMode>false</graphicalMode> in your Timers.xml file (Windower Folder\plugins\settings)  plugin;  Config  (do  this comman in game to be fps 60   //config FrameRateDivisior 1  all addons in my web and need from google Large Address Aware patch to make pol.exe 4g and no lag or connect lose or bug                and dgvoodoo v2 
