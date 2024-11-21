@@ -1,0 +1,22 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <blacklist>Cyclone,Aeolian Edge,Fell Cleave,Sonic Thrust,Spinning Attack,Shockwave,Earth Crusher,Cataclysm,Spinning Scythe,Circle Blade</blacklist>
+        <chainPriority />
+        <close>true</close>
+        <closeTp>999</closeTp>
+        <closeWindowDelay>1</closeWindowDelay>
+        <closeWindowMinimum>1</closeWindowMinimum>
+        <closeWsDelay>0.5</closeWsDelay>
+        <closeWsPriority />
+        <enabled>false</enabled>
+        <hpGt>3</hpGt>
+        <hpLt>100</hpLt>
+        <levelPriority>dummy,3,4,2,1</levelPriority>
+        <open>true</open>
+        <openTp>999</openTp>
+        <openWsDelay>0.5</openWsDelay>
+        <opener />
+        <waitForMB>true</waitForMB>
+    </global>
+</settings>
