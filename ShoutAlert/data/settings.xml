@@ -21,7 +21,7 @@
             <padding>0</padding>
             <pos>
                 <x>1121</x>
-                <y>104</y>
+                <y>90</y>
             </pos>
             <text>
                 <alpha>255</alpha>
@@ -59,8 +59,8 @@
             </flags>
             <padding>0</padding>
             <pos>
-                <x>1361</x>
-                <y>304</y>
+                <x>1324</x>
+                <y>315</y>
             </pos>
             <text>
                 <alpha>255</alpha>
@@ -84,6 +84,6 @@
         <word_sets>
             <default>Albumen,Zerde</default>
         </word_sets>
-        <words>Erinys,Regal Gloves,Crepuscular Knife,Nyzul,Crepuscular Scythe,Volte Gloves,Schah,Albumen,Teles,Vinipata,Zerde,Crepuscular Cloak,Volte Spats,ýâý,Nyzul Isle,Regal Belt,Volte Tights</words>
+        <words>t3,Erinys,Ngai,Ongo,Xevioso,Mboze,Arebati,Kalunga,v15,v20,v25,Nyzul Isle,Teles,Albumen,Regal Belt,Vinipata,Volte Gloves,Crepuscular Cloak,Zerde,ýâý,Schah,Volte Tights,Nyzul</words>
     </global>
 </settings>
