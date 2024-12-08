@@ -1,6 +1,6 @@
-_addon.version = '0.0.1'
+_addon.version = '1.1.1'
 _addon.name = 'smarttarget'
-_addon.author = 'Anonymous'
+_addon.author = 'Anonymous, (Aragan@Asura)'
 _addon.commands = {'smarttarget','smrt'}
 
 local packets = require('packets')
