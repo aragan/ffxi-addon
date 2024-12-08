@@ -29,8 +29,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ]]
 
 _addon.name = 'React'
-_addon.author = 'Sammeh'
-_addon.version = '1.6.0.0'
+_addon.author = 'Sammeh , (Aragan@Asura)'
+_addon.version = '2.2.0.0'
 _addon.command = 'react'
 
 -- 1.3.0 changing map.lua to job specific
