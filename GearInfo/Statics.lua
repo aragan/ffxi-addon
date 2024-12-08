@@ -10,7 +10,7 @@ buff = 0
 full_gear_table_from_file = T{}
 Buffs_inform = {		['delay'] = 0,['damage'] = 0,
 								['HP'] = 0,['MP'] = 0,
-								['STR'] = 0,['DEX'] = 0,['VIT'] = 0,['AGI'] = 0,['INT'] = 0,['MND'] = 0,['CHR'] = 0,
+								['STR'] = 0,['DEX'] = 0,['VIT'] = 3,['AGI'] = 0,['INT'] = 0,['MND'] = 0,['CHR'] = 0,
 								['Accuracy'] = 0, ['Ranged Accuracy'] = 0, 
 								['Attack'] = 0, ['Attack perc'] = 0,
 								['Evasion'] = 0,['DEF'] = 0,['Defence perc'] = 0,

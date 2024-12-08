@@ -17,7 +17,7 @@ ImageBlock = {
 	x = 0,
 	y = 0,
 	width = 228,
-	height = 42,
+	height = 1,
 	alpha = 255,
 	red = 255,
 	green = 255,
@@ -61,25 +61,25 @@ ImageBlock = {
 		
 		if image_type == 'background' then
 			o.width = 228
-			o.height = 42
+			o.height = 1
 			o.image_path = ''
 			o.dragable = true
-			o.alpha = 255
+			o.alpha = 0
 			o.red = 0
 			o.green = 0 
 			o.blue = 0
 			o.type = image_type
 			o.color = image_color
-			o.name = 'block_' .. order
+			o.name = (_addon and _addon.name or 'image') .. '_gensym_' .. tostring(t):sub(8) .. '_%.8x':format(16^8 * math.random()):sub(3)
 			o.x = settings.display.pos.x
 			o.y = settings.display.pos.y
 		elseif image_type == 'logo' then
 			o.width = 228
-			o.height = 42
+			o.height = 1
 			o.type = image_type
 			o.color = image_color
 			o.image_path = windower.addon_path..'textures/'..settings.image_folder_name..'/'.. image_type ..'.png'
-			o.name = 'block_' .. order
+			o.name = (_addon and _addon.name or 'image') .. '_gensym_' .. tostring(t):sub(8) .. '_%.8x':format(16^8 * math.random()):sub(3)
 			o.x = sections.background:position_x()
 			o.y = sections.background:position_y()
 			check_positions()
@@ -91,18 +91,18 @@ ImageBlock = {
 				o.type = image_type
 				o.color = image_color
 				o.image_path = windower.addon_path..'textures/'..settings.image_folder_name..'/'..image_color ..'.png'
-				o.name = 'block_' .. order
+				o.name = (_addon and _addon.name or 'image') .. '_gensym_' .. tostring(t):sub(8) .. '_%.8x':format(16^8 * math.random()):sub(3)
 				o.x, o.y = get_position(o)
 				o.text = {}
 				
 	
-				o.text[1] = {name = 'text1'..o.name, text = text1, offset_x = 3 , offset_y = 3}
+				o.text[1] = {name = 'text1'..o.name, text = text1, offset_x = 3 , offset_y = 5}
 				
 				windower.text.create(o.text[1].name)
 				windower.text.set_text(o.text[1].name, o.text[1].text)
 				--windower.text.set_color(o.text[1].name, 255, 0, 0, 0)
-				windower.text.set_color(o.text[1].name, 255, 150,150,235)
-				windower.text.set_font_size(o.text[1].name, 9)
+				windower.text.set_color(o.text[1].name, 255, 255,255,255)
+				windower.text.set_font_size(o.text[1].name, 7)
 				windower.text.set_visibility(o.text[1].name, true)
 				windower.text.set_font(o.text[1].name,'Tahoma') --'Verdana'
 				windower.text.set_stroke_width(o.text[1].name, 0)
@@ -113,13 +113,13 @@ ImageBlock = {
 				
 				--print(windower.text.get_extents(o.text[1].name))
 				
-				o.text[2] = {name = 'text2'..o.name, text = text2, offset_x = 3 , offset_y = 20}
+				o.text[2] = {name = 'text2'..o.name, text = text2, offset_x = 3 , offset_y = 22}
 				
 				windower.text.create(o.text[2].name)
 				windower.text.set_text(o.text[2].name, o.text[2].text)
 				windower.text.set_bold(o.text[2].name, false)
 				windower.text.set_color(o.text[2].name, 255, 255, 255, 255)
-				windower.text.set_font_size(o.text[2].name, 12)
+				windower.text.set_font_size(o.text[2].name, 9)
 				windower.text.set_visibility(o.text[2].name, true)
 				windower.text.set_font(o.text[2].name,'Tahoma') --'Verdana'
 				windower.text.set_stroke_width(o.text[2].name, 0)
