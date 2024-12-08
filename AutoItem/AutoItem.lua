@@ -1,6 +1,6 @@
 _addon.name = 'AutoItem'
-_addon.version = '4.1'
-_addon.author = 'PBW'
+_addon.version = '4.2'
+_addon.author = 'PBW ,(Aragan@Asura)'
 _addon.commands = {'autoitem','ai'}
 
 require('tables')
@@ -13,11 +13,11 @@ chat = require('chat')
 res = require('resources')
 
 active = true
-panacea = false
+panacea = true
 job_registry = T{}
 panacea_buffs = S{13,129,133,134,136,138,139,140,141,144,145,146,147,148,149,167,564}	-- Slow, Frost, Drown, STR Down, VIT Down,INT Down, AGI Down, MND Down, Dia, Max HP Down, Max MP Down, Accuracy Down, Attack Down, Evasion Down, Defense Down, Magic Def. Down, Magic Evasion Down,
 dot_buffs = S{128,129,130,131,132,133}
-remedy_buffs = S{4,8}	-- Paralysis, Disease
+remedy_buffs = S{3,4,8}	-- Paralysis, Disease
 holywater_buffs = S{9}	-- Curse
 allbuffs = remedy_buffs:union(panacea_buffs):union(holywater_buffs):union(dot_buffs)
 active_buffs = S{}
