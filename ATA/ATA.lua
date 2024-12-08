@@ -25,8 +25,8 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.--]]
 
 _addon.name = 'AutoTargetAssist'
-_addon.author = 'Toast'
-_addon.version = '1.0.1'
+_addon.author = 'Toast , (Aragan@Asura)'
+_addon.version = '1.1.1'
 _addon.commands = {'ata', 'autotargetassist'}
 
 require('luau')
@@ -61,12 +61,12 @@ if settings.blacklist:length() > 0 then
 end
 
 local targetingOn = true
-local engaged = false
+local engaged = true
 local myTarget = windower.ffxi.get_mob_by_target('t')
 local lastSelectedID = nil
 local previousSelectedIDs = T{}
 local previousSelectedNames = T{}
-local lockTargetResponse = nil
+local lockTargetResponse = true
 local player = windower.ffxi.get_player()
 local playerZone = windower.ffxi.get_info().zone
 local partyMembers = T{}
