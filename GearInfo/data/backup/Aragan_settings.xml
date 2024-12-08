@@ -65,11 +65,11 @@
         </Geos>
         <display>
             <pos>
-                <x>519</x>
-                <y>321</y>
+                <x>726</x>
+                <y>211</y>
             </pos>
         </display>
-        <image_folder_name>Aragan</image_folder_name>
+        <image_folder_name>Arislan</image_folder_name>
         <player>
             <rank>1</rank>
             <show_COR_messages>true</show_COR_messages>
