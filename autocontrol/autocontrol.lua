@@ -28,7 +28,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name = 'autocontrol'
 _addon.version = '2.0.5'
-_addon.author = 'Nitrous (Shiva)'
+_addon.author = 'Nitrous (Shiva) , (Aragan@Asura)'-- Aragan add all nms setup
 _addon.commands = {'autocontrol','acon'}
 
 require('tables')
