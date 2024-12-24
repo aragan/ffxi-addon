@@ -4,7 +4,7 @@ return {
             ["Dagger"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Aeolian Edge\" <t>"
@@ -14,7 +14,7 @@ return {
             ["Polearm"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Stardiver\" <t>"
@@ -22,7 +22,57 @@ return {
             ["Sword"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Savage Blade\" <t>"
+            }
+        },
+        ["DRK"] = {
+            ["Club"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Judgment\" <t>"
+            },
+            ["Dagger"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Aeolian Edge\" <t>"
+            },
+            ["Great Axe"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"upheaval\" <t>"
+            },
+            ["Great Sword"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Torcleaver\" <t>"
+            },
+            ["Scythe"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Cross Reaper\" <t>"
+            },
+            ["Sword"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Savage Blade\" <t>"
@@ -32,17 +82,87 @@ return {
             ["Hand-to-Hand"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Howling Fist\" <t>"
+            }
+        },
+        ["NIN"] = {
+            ["Club"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Seraph Strike\" <t>"
+            },
+            ["Great Sword"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Freezebite\" <t>"
+            },
+            ["Katana"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Blade: Ei\" <t>"
+            },
+            ["Polearm"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Raiden Thrust\" <t>"
+            },
+            ["Scythe"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Shadow of Death\" <t>"
             }
         },
         ["PLD"] = {
             ["Dagger"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Savage Blade\" <t>"
+            }
+        },
+        ["SAM"] = {
+            ["Great Katana"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Tachi: Fudo\" <t>"
+            }
+        },
+        ["THF"] = {
+            ["Dagger"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
+                },
+                ["mobs"] = {},
+                ["ws_cmd"] = "/ws \"Rudra's Storm\" <t>"
+            },
+            ["Sword"] = {
+                ["hps"] = {
+                    ["<"] = 100,
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Savage Blade\" <t>"
@@ -52,7 +172,7 @@ return {
             ["Axe"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"calamity\" <t>"
@@ -60,7 +180,7 @@ return {
             ["Club"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Judgment\" <t>"
@@ -68,7 +188,7 @@ return {
             ["Dagger"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Aeolian Edge\" <t>"
@@ -76,7 +196,7 @@ return {
             ["Great Axe"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"upheaval\" <t>"
@@ -84,7 +204,7 @@ return {
             ["Great Sword"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"resolution\" <t>"
@@ -92,7 +212,7 @@ return {
             ["Polearm"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Impulse Drive\" <t>"
@@ -100,7 +220,7 @@ return {
             ["Scythe"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"spiral hell\" <t>"
@@ -108,7 +228,7 @@ return {
             ["Sword"] = {
                 ["hps"] = {
                     ["<"] = 100,
-                    [">"] = 5
+                    [">"] = 0
                 },
                 ["mobs"] = {},
                 ["ws_cmd"] = "/ws \"Savage Blade\" <t>"
@@ -117,6 +237,6 @@ return {
     },
     ["hps"] = {
         ["<"] = 100,
-        [">"] = 5
+        [">"] = 0
     }
 }

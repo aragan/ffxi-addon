@@ -21,8 +21,8 @@ local enabled = false
 local useAutoRA = false
 local araDelayed = 0
 local ws_cmd = ''
-local autowsDelay = 0.8
-local defaults = {hps = {['<']=100, ['>']=5}}
+local autowsDelay = 1.0
+local defaults = {hps = {['<']=100, ['>']=0}}
 settings = _libs.lor.settings.load('data/settings.lua', defaults)
 local settings_loaded = false
 
