@@ -1,4 +1,4 @@
--- Copyright © 2013-2016, Omnys of Valefor
+-- Copyright © 2013-2016, 2022, Omnys of Valefor
 -- All rights reserved.
 
 -- Redistribution and use in source and binary forms, with or without
@@ -26,7 +26,7 @@
 
 _addon.name = 'gametime'
 _addon.author = 'Omnys'
-_addon.version = '0.6'
+_addon.version = '0.7'
 _addon.commands = {'gametime','gt'}
 
 require('chat')
@@ -287,6 +287,7 @@ end
 windower.register_event('time change', function(new, old)
     gt.hours = (new / 60):floor()
     gt.minutes = new % 60
+    gt.dectime = timeconvert(gt.hours..':'..gt.minutes)
     gt.gtt:update(gt)
 end)
 
@@ -319,7 +320,7 @@ function day_change(day)
         dlist = {'4','5','6','7','8','1','2','3'}
     elseif (day == 'Iceday') then
         dlist = {'5','6','7','8','1','2','3','4'}
-    elseif (day == 'Lightningsday') then
+    elseif (day == 'Lightningday') then
         dlist = {'6','7','8','1','2','3','4','5'}
     elseif (day == 'Lightsday') then
         dlist = {'7','8','1','2','3','4','5','6'}
