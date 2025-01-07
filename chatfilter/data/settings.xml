@@ -32,8 +32,10 @@
                 <fczjsrr>fczjsrr</fczjsrr>
                 <galkang>galkang</galkang>
                 <gataeonic>gataeonic</gataeonic>
+                <keokaimerc>keokaimerc</keokaimerc>
                 <kimaaaeoniccc>kimaaaeoniccc</kimaaaeoniccc>
                 <kimaeaeonic>kimaeaeonic</kimaeaeonic>
+                <kimaemerz>kimaemerz</kimaemerz>
                 <kimcaeonice>kimcaeonice</kimcaeonice>
                 <kimceaeonic>kimceaeonic</kimceaeonic>
                 <kimeaeaoenic>kimeaeaoenic</kimeaeaoenic>
@@ -44,6 +46,7 @@
                 <kimoaeaeonic>kimoaeaeonic</kimoaeaeonic>
                 <kimouaeonicc>kimouaeonicc</kimouaeonicc>
                 <kkccili>kkccili</kkccili>
+                <mcaeonicweapon>mcaeonicweapon</mcaeonicweapon>
                 <mergis>mergis</mergis>
                 <odysseaallnms>odysseaallnms</odysseaallnms>
                 <odysseallnms>odysseallnms</odysseallnms>
@@ -52,6 +55,8 @@
                 <shuyang>shuyang</shuyang>
                 <siggs>siggs</siggs>
                 <sixgodhhc>sixgodhhc</sixgodhhc>
+                <sknonc>sknonc</sknonc>
+                <sknond>sknond</sknond>
                 <snkoneg>snkoneg</snkoneg>
                 <snkonej>snkonej</snkonej>
                 <snkonek>snkonek</snkonek>
@@ -89,7 +94,10 @@
                 <3areaclearminddoyouneedit>3 area clear mind do you need it?</3areaclearminddoyouneedit>
                 <3m500p>3m/500p</3m500p>
                 <3m500p12m2100p>3m/500p 12m/2100p</3m500p12m2100p>
+                <3map>3map</3map>
                 <3mbuy>3m buy?</3mbuy>
+                <3zone>3 zone</3zone>
+                <3zoneclear>3zoneclear</3zoneclear>
                 <3zoneclearmind>3zone clear mind</3zoneclearmind>
                 <3zoneclearmindbuy>3zone clear mind buy?</3zoneclearmindbuy>
                 <3zoneclearmindbuytell>3zone clear mind buy? /tell</3zoneclearmindbuytell>
@@ -110,11 +118,14 @@
                 <abysseabuy>abyssea buy?</abysseabuy>
                 <abysseaempyreanitem505075doyouneeditbuytell>abysseaempyreanitem50/50/75do you need it?buy?/tell</abysseaempyreanitem505075doyouneeditbuytell>
                 <abysseakeyitem>abyssea key item</abysseakeyitem>
+                <aeonicionibkuufpon>aeonic/ioniƒbkuuƒfpon</aeonicionibkuufpon>
                 <aeonicionibkuufpon3areaclearminddoyouneeditbuy35mtell>aeonic ioniƒbkuuƒfpon 3 area clear mind do you need it? buy? 35m /tell</aeonicionibkuufpon3areaclearminddoyouneeditbuy35mtell>
                 <aeonicionibkuufpon3zone>aeonic/ioniƒbkuuƒfpon 3zone</aeonicionibkuufpon3zone>
                 <aeonicionibkuufpon3zoneclearmindbuy>aeonic/ioniƒbkuuƒfpon 3zone clear mind buy?</aeonicionibkuufpon3zoneclearmindbuy>
+                <aeonicweapon>aeonic weapon</aeonicweapon>
                 <aeonicweapon3zoneclearmind>aeonic weapon 3 zone clear mind</aeonicweapon3zoneclearmind>
                 <aeonicweapon3zoneclearminddoyouneeditbuy>aeonic weapon 3 zone clear mind do you need it? buy?</aeonicweapon3zoneclearminddoyouneeditbuy>
+                <aeonicweapon3zoneclearminddoyouneeditbuytell>aeonic weapon 3 zone clear mind do you need it? buy? /tell</aeonicweapon3zoneclearminddoyouneeditbuytell>
                 <aeonicweapon3zoneclearminddoyouneeditbuytellalldropfree>aeonic weapon 3 zone clear mind do you need it? buy? /tell all drop free</aeonicweapon3zoneclearminddoyouneeditbuytellalldropfree>
                 <aeonicweapon3zonesclear>aeonic weapon 3 zones clear</aeonicweapon3zonesclear>
                 <aeonicweaponescharuaunreisenjima>aeonic weapon escha - ru&apos;aun+ reisenjima</aeonicweaponescharuaunreisenjima>
@@ -133,6 +144,7 @@
                 <ambuscadev1vdclearmind5m>ambuscadev1 vd clear mind 5m</ambuscadev1vdclearmind5m>
                 <ambuscadev1vdclearmindbuy5m>ambuscadev1 vd clear mind buy? 5m</ambuscadev1vdclearmindbuy5m>
                 <ambuscadev1vdclearminddoyouneeditbuy5mtell>ambuscadev1vd clear mind do you need it? buy? 5m /tell</ambuscadev1vdclearminddoyouneeditbuy5mtell>
+                <ambuscadev1vddoyouneeditbuy>ambuscade v1vd do you need it? buy?</ambuscadev1vddoyouneeditbuy>
                 <ambuscadev1vdwindoyouneedit3mrun>ambuscade v.1 vd win do you need it? 3m/run</ambuscadev1vdwindoyouneedit3mrun>
                 <ambuscadevdclearmindbuy5m>ambuscade vd clear mind buy?5m</ambuscadevdclearmindbuy5m>
                 <ambuscadevdv1buy>ambuscade vd v1 buy?</ambuscadevdv1buy>
@@ -222,6 +234,8 @@
                 <odysseycfarmdoyouneeditbuy>odyssey c farm do you need it? buy?</odysseycfarmdoyouneeditbuy>
                 <odysseycfarmsortie30pointfarm>odyssey c farm sortie 30+ point farm</odysseycfarmsortie30pointfarm>
                 <odysseynmt1t2v25>odysseynm t1 t2/v25</odysseynmt1t2v25>
+                <odysseynmt1t2v25t3t4bumba>odysseynm:(t1t2 v25 t3 t4 bumba</odysseynmt1t2v25t3t4bumba>
+                <odysseynmt1t2v25t3t4bumbav20v25>odysseynm:(t1t2 v25 t3 t4 bumba v20/v25)///</odysseynmt1t2v25t3t4bumbav20v25>
                 <odysseynmt1t2v25t3t4v20>odyssey nm t1 t2 v25 t3 t4 v20</odysseynmt1t2v25t3t4v20>
                 <odysseynmt1t2v25t3v20>odyssey nm t1-t2/v25 t3/v20</odysseynmt1t2v25t3v20>
                 <odysseynmt1t2v25t3v20kalungav25>odysseynmt1 t2/v25 t3/v20 kalunga/v25</odysseynmt1t2v25t3v20kalungav25>
@@ -254,13 +268,17 @@
                 <onlyfollow>only follow</onlyfollow>
                 <onlyneedfollowokdoyouneeditbuy>only need follow ok do you need it? buy?</onlyneedfollowokdoyouneeditbuy>
                 <oqow>‚‹‚’‚”‚o-‚q‚o^‚w</oqow>
+                <oqowpoxqorowqoxrosowtoxpppoprojg>‚o¨‚q‚ow‚p‚ox‚q‚o¨‚r‚ow‚q‚ox‚r‚o¨‚s‚ow‚t‚ox‚p‚^‚ˆ,‚p‚p‚o`‚p‚r‚o‚j^‚g ‚‚‚•‚™</oqowpoxqorowqoxrosowtoxpppoprojg>
                 <oukyouginkinkeifu>ou kyou gin kin kei fu</oukyouginkinkeifu>
+                <payafterwin>pay after win</payafterwin>
+                <paymentafterwin>payment after win</paymentafterwin>
                 <pb>‚p‚b‚ˆ</pb>
                 <pbh>‚p‚b‚ˆ ‚–‚…‚’‚™ ‚†‚‚“‚” ‚‚‚•‚™h</pbh>
                 <qoro18>‚q‚o-‚r‚o^18</qoro18>
                 <qoropwrosost>‚q‚o-‚r‚o^‚p‚w@‚r‚o-‚s‚o^‚s‚t</qoropwrosost>
                 <reikiyotai>reiki yotai</reikiyotai>
                 <reisenjimaclearminddoyouneeditbuy>reisenjima clear mind do you need it? buy?</reisenjimaclearminddoyouneeditbuy>
+                <reisenjimaclearmindor7helmdoyouneeditbuy>reisenjima clear mind or 7 helm do you need it? buy?</reisenjimaclearmindor7helmdoyouneeditbuy>
                 <reisenjimaescharuaunequipabjfermionswordirradiancebladewanted145odysseyv020buy>reisenjimaescha - ru&apos;aunequipabjfermion swordirradiance bladewanted~145odysseyv0-20 buy?</reisenjimaescharuaunequipabjfermionswordirradiancebladewanted145odysseyv020buy>
                 <reisenjimaescharuaunequipabjwanted145odysseybossfermionswordirradiancebladebuy>reisenjimaescha - ru&apos;aunequipabjwanted~145odysseybossfermion swordirradiance blade buy?</reisenjimaescharuaunequipabjwanted145odysseybossfermionswordirradiancebladebuy>
                 <reisenjimaescharuaunequipabjwanted145odysseyv020fermionswordirradiancebladebuy>reisenjimaescha - ru&apos;aunequipabjwanted~145odysseyv0-20fermion swordirradiance bladebuy?</reisenjimaescharuaunequipabjwanted145odysseyv020fermionswordirradiancebladebuy>
@@ -341,6 +359,7 @@
                 <unm119145>unm 119~145</unm119145>
                 <unm145>unm~145</unm145>
                 <unm145lilith>unm~145 lilith</unm145lilith>
+                <v0>v0</v0>
                 <v015>v0-15</v015>
                 <v01520>v0-15-20</v01520>
                 <v020bumbav020>v0-20 bumba v0-20</v020bumbav020>
@@ -351,10 +370,12 @@
                 <v0v1bumbav0v1v15tvrlast>v0v1(bumba v0v1v15)tvrlast</v0v1bumbav0v1v15tvrlast>
                 <v0v1tvrlastboss>v0v1 tvr last boss</v0v1tvrlastboss>
                 <v0v25t3t4v0v20>v0~v25 t3-t4 v0~v20</v0v25t3t4v0v20>
+                <v1>v1</v1>
                 <v1v25t3v1v20t4v1v20>v1-v25 t3 v1-v20 t4 v1-v20</v1v25t3v1v20t4v1v20>
                 <v1vdclearmind5m>v1 vd clear mind 5m</v1vdclearmind5m>
                 <v1vddoyouneeditbuy5mr>v1vd do you need it? buy? 5m/r</v1vddoyouneeditbuy5mr>
                 <v1vdwindoyouneedit5m>v1 vd win do you need it? 5m</v1vdwindoyouneedit5m>
+                <v20v25clearmindv25supercharge>v20/v25)clear mind//v25super charge</v20v25clearmindv25supercharge>
                 <v25t4v20>v25 t4 v20</v25t4v20>
                 <w3boss>w3 boss</w3boss>
                 <wanted119135>wanted119-135</wanted119135>
