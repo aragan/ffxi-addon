@@ -46,7 +46,7 @@ defaults = {
     pos_x = 100,
     pos_y = 100,
 
-    size = 32,     -- pixel size
+    size = 16,     -- pixel size
     spacing_x = 5, -- spacing between icons in px
     spacing_y = 3,
 
