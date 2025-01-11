@@ -1,0 +1,22 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <command_before_warp />
+        <command_delay_on_arrival>5</command_delay_on_arrival>
+        <command_on_arrival />
+        <debug>false</debug>
+        <default_packet_wait_timeout>5</default_packet_wait_timeout>
+        <enable_fast_retry_on_interrupt>false</enable_fast_retry_on_interrupt>
+        <enable_locked_warps>true</enable_locked_warps>
+        <enable_same_zone_teleport>true</enable_same_zone_teleport>
+        <max_retries>6</max_retries>
+        <retry_delay>2</retry_delay>
+        <send_all_delay>0.4</send_all_delay>
+        <simulate_client_lock>false</simulate_client_lock>
+        <simulated_response_time>0</simulated_response_time>
+        <simulated_response_variation>0</simulated_response_variation>
+        <stop_autorun_before_warp>true</stop_autorun_before_warp>
+        <target_npc>true</target_npc>
+        <use_tabs_at_survival_guides>false</use_tabs_at_survival_guides>
+    </global>
+</settings>
