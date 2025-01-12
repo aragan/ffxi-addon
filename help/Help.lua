@@ -1,5 +1,5 @@
 _addon.name = 'help'
-_addon.author = 'Aragan@Asura'
+_addon.author = 'unknow , Aragan@Asura'
 _addon.version = '1.0.0.5'
 _addon.command = 'help'
 
