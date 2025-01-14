@@ -1,0 +1,17 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <callouts>
+            <abyssea>true</abyssea>
+            <ambuscade>true</ambuscade>
+            <charm>true</charm>
+            <dynamis>true</dynamis>
+            <odyssey>true</odyssey>
+            <omen>true</omen>
+            <ou>true</ou>
+            <sortie>true</sortie>
+            <vagary>true</vagary>
+        </callouts>
+        <chatmode>Echo</chatmode>
+    </global>
+</settings>
