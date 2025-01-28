@@ -232,4 +232,20 @@ return {
             ["ready_reaction"]="input /p Ensepulcher >>> PROC ICE <<< <call7>"
         }
     },
+    ["Cloud of Darkness"]={
+        ["Primordial Surge"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="turnaround"
+        },
+        ["Waning Vigor"]={
+            ["complete_reaction"]="facemob",
+            ["ready_reaction"]="input /p  absorption End <call21>"
+
+        },
+        ["Expunge"]={
+            ["complete_reaction"]="facemob",
+            ["ready_reaction"]="input /p  absorption End <call21>"
+
+        }
+    },
 }

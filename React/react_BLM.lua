@@ -245,5 +245,21 @@ return {
             ["complete_reaction"]="", 
             ["ready_reaction"]="gs equip sets.defense.MDT"
         }
-    }, 
+    },
+    ["Cloud of Darkness"]={
+        ["Primordial Surge"]={
+            ["complete_reaction"]="",
+            ["ready_reaction"]="turnaround"
+        },
+        ["Waning Vigor"]={
+            ["complete_reaction"]="facemob",
+            ["ready_reaction"]="input /p  absorption End <call21>"
+
+        },
+        ["Expunge"]={
+            ["complete_reaction"]="facemob",
+            ["ready_reaction"]="input /p  absorption End <call21>"
+
+        }
+    },
 }
