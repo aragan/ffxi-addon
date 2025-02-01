@@ -61,4 +61,6 @@ Both the full name and the abbrevited names are valid entries. Wildcards are all
 //get "HoPe toRQue" locker
 //get earth crystal 5
 //get *crystal
+//get storage slip* all
+//put storage slip* case all
 ```
