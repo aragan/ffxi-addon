@@ -1,7 +1,10 @@
 _addon.name = 'Itemizer'
-_addon.author = 'Aragan'
-_addon.version = '3.2.0.0'
+_addon.author = 'Ihina,(Aragan@Asura)'
+_addon.version = '3.1.0.0'
 _addon.command = 'itemizer'
+
+--//get storage slip* all
+--//put storage slip* case all
 
 require('luau')
 
@@ -100,6 +103,8 @@ windower.register_event("addon command", function(command, arg2, ...)
     //get <item> [bag] [count] -- //gets <item> [bag] - Retrieves the specified item from the specified bag
     //put <item> [bag] [count] -- //puts <item> [bag] - Places the specified item into the specified bag
     //stack -- Stacks all stackable items in all currently available bags
+    //get storage slip* all
+    //put storage slip* case all
         Command List:
   1. Delay <delay> - Sets the time delay.
   2. Autoninjatools - Toggles automatically getting ninja tools (Shortened ant)
@@ -232,29 +237,26 @@ end)
 ninjutsu = res.spells:type('Ninjutsu')
 patterns = L{'"(.+)"', '\'(.+)\'', '.- (.+) .-', '.- (.+)'}
 spec_tools = T{
-    Katon       = 5867,
-    Hyoton      = 5867,
-    Huton       = 5867,
-    Doton       = 5867,
-    Raiton      = 5867,
-    Suiton      = 5867,
+    Katon       = 1161,
+    Hyoton      = 1164,
+    Huton       = 1167,
+    Doton       = 1170,
+    Raiton      = 1173,
+    Suiton      = 1176,
     Utsusemi    = 1179,
-    Jubaku      = 5869,
-    Hojo        = 5869,
-    Kurayami    = 5869,
-    Dokumori    = 5869,
-    Tonko       = 5868,
-    Monomi      = 5868,
-    Aisha       = 5869,
-    Yurin       = 5869,
-    Myoshu      = 5868,
-    Migawari    = 5868,
-    Kakka       = 5868,
-    Gekka       = 5868,
-    Yain        = 5868,
-    Inoshishinofuda  = 5867,
-    Shikanofuda      = 5868,
-    Chonofuda     = 5869
+    Jubaku      = 1182,
+    Hojo        = 1185,
+    Kurayami    = 1188,
+    Dokumori    = 1191,
+    Tonko       = 1194,
+    Monomi      = 2553,
+    Aisha       = 2555,
+    Yurin       = 2643,
+    Myoshu      = 2642,
+    Migawari    = 2970,
+    Kakka       = 2644,
+    Gekka       = 8803,
+    Yain        = 8804
 }
 gen_tools = T{
     Katon       = 2971,
@@ -276,10 +278,7 @@ gen_tools = T{
     Migawari    = 2972,
     Kakka       = 2972,
     Gekka       = 2972,
-    Yain        = 2972,
-    Inoshishinofuda  = 2971,
-    Shikanofuda      = 2972,
-    Chonofuda        = 2973
+    Yain        = 2972
 }
 
 active = S{}
@@ -309,7 +308,7 @@ collect_item = function(id, items)
         -- Add currently processing ID to set of active IDs
         active:add(id)
     else
-        error('Item "%s" not found in any accessible bags':format(res.items[id].name))
+        --error('Item "%s" not found in any accessible bags':format(res.items[id].name))
     end
 
     return match ~= nil
@@ -398,8 +397,6 @@ end())
 
 --[[
 Copyright © 2013-2015, Ihina
-upgrade version from Author Aragan (asura) 2024
-add ninjutsu tool Chonofuda Inoshishinofuda Shikanofuda.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
