@@ -1,0 +1,909 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <facts>
+            <1>Approx. 190 CE - The Elvaan establish a settlement in the northern part of the Quon continent.</1>
+            <2>Approx. 200 CE - The Tarutaru come to Mindartia and settle on the plains of Sarutabaruta.</2>
+            <3>Approx. 200 CE - The Elvaan split into tribes: Galleon, Fauchevelle, Bulletoran, San d&apos;Oria, Coumlaud and Chatiffe.</3>
+            <4>217 CE - A village is built around some ancient ruins and named Windurst.</4>
+            <5>219 CE - A young Tarutaru female named Rimilala discovers magic and is made Windurst&apos;s first Star Sybil.</5>
+            <6>220 CE - Windurst&apos;s Star Sybil Rimilala calms the great beast and subdues it in the Full Moon Fountain.</6>
+            <7>Approx. 220 CE - Galka migrate to their new home, Gustaberg, after the Antica drive them out of their home island of Zepwell.</7>
+            <8>289 CE - Windurst&apos;s Star Sybil Tabiroro summons the various Tarutaru chieftains and teaches them the ways of Magic.</8>
+            <9>291 CE - The Quadav invade present day Derfland, capturing Pashhow Marshlands.</9>
+            <10>294 CE - The various Tarutaru tribes join to form The Federation of Windurst.</10>
+            <11>294 CE - The Parliament of Patriarchs establishes the Mumu as the Federation of Windurst&apos;s official currency.</11>
+            <12>301 CE - The Quadav begin construction of Beadeaux.</12>
+            <13>311 CE - The Patriarch Protectors are established.</13>
+            <14>328 CE - Construction of Heavens Tower is completed after 27 years.</14>
+            <15>332 CE - Soldiers from each Tarutaru clan are split off and reformed into the War Warlocks.</15>
+            <16>334 CE - Windurst&apos;s Star Sybil Shanriri determines that this is the year 334 on the Crystal Era calendar.</16>
+            <17>336 CE - Negotiations between Windurst and the Yagudo natives breakdown, and both factions become enemies.</17>
+            <18>337 CE - The War Warlocks invade the native Yagudo&apos;s city of Oztroja, forcing them to surrender.</18>
+            <19>342 CE - The War Warlocks cross the Strait of Jeuno to capture Norvallen.</19>
+            <20>343 CE - The Galleon tribe of Elvaan are powerless against the magic of Windurst and pledge allegiance to the Federation.</20>
+            <21>347 CE - Norvallen is declared part of the Federation of Windurst. Young Elvaan are employed as mercenaries.</21>
+            <22>355 CE - The Yagudo construct Castle Oztroja.</22>
+            <23>358 CE - The War Warlocks siege Castle Oztroja over two years, but the Yagudo manage to hold them back.</23>
+            <24>360 CE - A tree growing beside Heaven&apos;s Tower has a sudden growth spurt, bursting through parts of the tower.</24>
+            <25>361 CE - Windurst&apos;s Star Sybil Deboruru names the tree that grew into Heaven&apos;s Tower the Great Star Tree, and orders its protection.</25>
+            <26>368 CE - Master Caster Lungo-Nango is selected as chief of Windurst&apos;s Norvallen territory.</26>
+            <27>369 CE - Lungo-Nungo forms the first Elvaan Subjugation Force to control the Elvaan.</27>
+            <28>370 CE - Windurst, led by Lungo-Nango, invades Ronfaure and overthrows the San d&apos;Oria clan of Elvaan.</28>
+            <29>371 CE - Lungo-Nango invades Zulkheim, defeating the combined forces of the Fauchevelle, Bulletoran, and San d&apos;Orian tribes.</29>
+            <30>372 CE - Lungo-Nango is designated Warlock Warlord.</30>
+            <31>372 CE - Lungo-Nango invades Gustaberg. The mountain-dwelling Chatiffe tribe battle against them using guerilla tactics.</31>
+            <32>373 CE - The last fortification of the Elvaan Chatiffe tribe, Fort Morteuge, falls to Windurst.</32>
+            <33>374 CE - Ronfaure and Zulkheim become official territories of Windurst.</33>
+            <34>374 CE - Lanfeaur d&apos;Oraguille, a young San d&apos;Orian boy, learns the ways of the Dragoon.</34>
+            <35>375 CE - Lungo-Nango appears before the Parliament of Patriarchs and is removed from the position of Warlock Warlord.</35>
+            <36>375 CE - Parliament member Atogi-Nokutogi is selected to replace Lungo-Nango as Warlock Warlord.</36>
+            <37>375 CE - Wellpard, a young boy of the Elvaan Bulletoran tribe, invents saddles and reins to use chocobos as mounts.</37>
+            <38>376 CE - Lanfeaur is selected to be the head of the San d&apos;Oria tribe.</38>
+            <39>377 CE - Lanfeaur leads a unit of young men in an assault on Ronfaure, then held by Windurst, and occupies the territory.</39>
+            <40>378 CE - On the orders of Windurst, Galleon and Bulletoran Elvaan invade Ronfaure, but are pushed back by the San d&apos;Orians.</40>
+            <41>379 CE - The young Arefeauron Tavnazia, of the Bulletoran tribe, joins forces with d&apos;Oraguille.</41>
+            <42>380 CE - The San&apos;Orian Elvaan retake control of Zulkheim from the Bulletoran and Fauchevelle tribes, who are controlled by Windurst.</42>
+            <43>381 CE - Lanfeaur of the San d&apos;Orian tribe meets with the Quadav King and forms an alliance against Windurst.</43>
+            <44>382 CE - The San d&apos;Orian tribe and the Quadav ambush the Windurst army in Jugner Forest and Pashhow Marshlands, driving them back.</44>
+            <45>382 CE - The allied forces of Elvaan and Quadav defeat Warlock Warlord Atogi-Nokutogi and the second Elvaan Subjugation Force.</45>
+            <46>383 CE - Arefeauron of Tavnazia meets with the mountain-dwelling Chatiffe tribe, convincing them to ally with the San d&apos;Orian tribe.</46>
+            <47>385 CE - The Kingdom of San d&apos;Oria is founded.</47>
+            <48>385 CE - The retainer Arefeauron (founding Marquis of Tavnazia) is assigned to the Western peninsula of Quon.</48>
+            <49>387 CE - The Kingdom of San d&apos;Oria conforms all currency under the unit Noit.</49>
+            <50>376 CE - While under house arrest in Mhaura, Lungo-Nango dies suddenly of a fever, and is thought to be an assassination.</50>
+            <51>388 CE - The Marquis of Tavnazia, Arefeauron, dies.</51>
+            <52>390 CE - To facilitate the minting of currency, San d&apos;Oria establishes a Blacksmith&apos;s Guild.</52>
+            <53>391 CE - The Royal Knights are formed with Fainevlure Ordelle appointed as their first captain.</53>
+            <54>398 CE - Samariri, a TaruTaru peace officer, teaches the Elvaan the ways of Magic.</54>
+            <55>399 CE - The Elvaan invade Norvallen. Warlock Warlord Dakaru-Jinkaru and six units of War Warlocks are defeated at Fort Jabigogo.</55>
+            <56>401 CE - San d&apos;Orian King Lanfeaur&apos;s cousin, Phulmvonne Shahkam, receives jurisdiction over Norvallen.</56>
+            <57>403 CE - Construction of Castle D&apos;Oraguille is completed.</57>
+            <58>410 CE - The Kingdom of San d&apos;Oria officially recognizes the Goddess Altana.</58>
+            <59>413 CE - A non-aggression pact between San d&apos;Oria and Windurst is signed.</59>
+            <60>413 CE - The Marquisate of Tavnazia is founded as an independent state.</60>
+            <61>414 CE - As a result of cultural exchanges with Windurst, San d&apos;Oria adopts the use of the Crystal Era calendar.</61>
+            <62>418 CE - Gold is discovered in Gusgen Mines.</62>
+            <63>420 CE - San d&apos;Oria violates the non-aggression pact with Windurst, invading Mindartia and setting up a fort in Sauromugue.</63>
+            <64>420 CE - A gold rush erupts in the Gusgen Mountains, resulting in an influx of Hume settlers in the area.</64>
+            <65>421 CE - San d&apos;Oria&apos;s Ironblood King Lanfeaur passes away in camp.</65>
+            <66>421 CE - Lanfeaur&apos;s third son, Resviel, is crowned the &quot;King of Hope&quot;, as San d&apos;Oria&apos;s second ruler.</66>
+            <67>423 CE - The War Warlocks activate a plan to destroy San d&apos;Oria&apos;s capital, wreaking havok within the city.</67>
+            <68>424 CE - The Temple Knights are formed after the War Warlocks wreak havoc in the San d&apos;Orian capital.</68>
+            <69>441 CE - A Yagudo called Lehh Habro appears, claiming to be the manifestation of god, and quickly gains a devout following.</69>
+            <70>456 CE - A gold rush causes an influx of Hume miners in the Kingdom of San d&apos;Oria&apos;s capitol.</70>
+            <71>457 CE - Windurst forms a Leathercrafting Guild after a surge in Mithra hunters causes a surplus of animal pelts.</71>
+            <72>458 CE - The Temple Knights banish all Hume from the Kingdom of San d&apos;Oria.</72>
+            <73>460 CE - For their achievements in upholding public order, The Temple Knights are recognized as an official branch of the military.</73>
+            <74>463 CE - The Royal Knights attack a settlement of Hume and Galka miners.</74>
+            <75>466 CE - San d&apos;Oria&apos;s forces flee from a mere trio of Combat Casters, abandoning their last fort on Mindartia continent.</75>
+            <76>469 CE - To ensure the safety of miners, Ironman Mayer plans the construction of a fort in the valleys of Bastok.</76>
+            <77>474 CE - San d&apos;Oria forms a Woodworking guild to supply weapons for the army and support an unprecedented boom of development.</77>
+            <78>477 CE - Galkan blacksmiths develop the process of refining Mythril.</78>
+            <79>482 CE - Lehh Habro organizes the devout Yagudo into a theocracy.</79>
+            <80>485 CE - San d&apos;Oria holds a grand festival for its 100th anniversary.</80>
+            <81>487 CE - The Sand&apos;Orian army invades the valleys of Bastok and were soundly defeated.</81>
+            <82>487 CE - Ironman Mayer&apos;s reputation is boosted immensely with the Bastokan forces victory over the feared Royal Knights of San d&apos;Oria.</82>
+            <83>487 CE - Windurst&apos;s library is officially titled the Opistery. Parliament member Marokuku is inducted as the first director.</83>
+            <84>489 CE - Baron Gheorlmitt Phern plots with the Queen to overthrow the San d&apos;Orian royal family.</84>
+            <85>491 CE - Fort Bastok is completed.</85>
+            <86>491 CE - San d&apos;Oria holds a parade for the 100th anniversary of the formation of The Royal Knights.</86>
+            <87>493 CE - Lehh Habro establishes the Yagudo Theomilitary.</87>
+            <88>494 CE - The Republic of Bastok is formed with Ironman Mayer as it&apos;s first president.</88>
+            <89>494 CE - Bastok&apos;s Ministry of Domestic Affairs is established. The first Minister, Balz, is inaugurated.</89>
+            <90>494 CE - Bastok&apos;s Ministry of Foreign Affairs is established. The first Minister, President Mayer, is inaugurated.</90>
+            <91>495 CE - Bastok&apos;s Department of Defense is established with the Galka, Dalha, inducted as the first Commander.</91>
+            <92>496 CE - Bastok&apos;s Department of Mining is established with Falk inducted as the Head Foreman.</92>
+            <93>497 CE - The Republic of Bastok&apos;s constitution is created.</93>
+            <94>498 CE - Bastok&apos;s President Mayer dispatches a delegate to the Near East to establish diplomatic relations.</94>
+            <95>500 CE - An army of Yagudo, led by Lehh Habro, invades Sarutabaruta.</95>
+            <96>500 CE - Kontsu-Orontsu defeats Lehh Habro and the Yagudo army with Flare, a unique Black Magic spell of his own design.</96>
+            <97>502 CE - The Yagudo theocracy learns magic from their Tarutaru prisoners.</97>
+            <98>503 CE - President Mayer is assassinated by a Galkan youth. Vice President Elman is inaugurated as Bastok&apos;s second President.</98>
+            <99>508 CE - A Mythril seam is discovered in Gusgen Mines.</99>
+            <100>509 CE - Windurst&apos;s public magic training grounds are officially titled the Orastery. Kontsu-Orontsu is inducted as the first director.</100>
+            <101>526 CE - A Leathercrafting guild is established after leather becomes fashionable amongst the aristocracy and the royal family.</101>
+            <102>527 CE - Bastok&apos;s Department of Commerce is established, with Darell inducted as head.</102>
+            <103>527 CE - Bastok&apos;s Department of Commerce developed the Byne, a unit of currency to be used among the Hume and Galka.</103>
+            <104>528 CE - A Mint is made under the direction of Bastok&apos;s Department of Commerce.</104>
+            <105>529 CE - To facilitate the minting of coins and export of gemstones, Bastok orders the creation of a Goldsmithing guild.</105>
+            <106>534 CE - The Yagudo Theomilitary invade Windurst but are driven off by Gurebu-Ogurebu and his sister, the Silent Mage Medada.</106>
+            <107>536 CE - Windurst&apos;s College of Magic is officially titled the Aurastery. Gurebu-Orgurebu is inducted as the first director.</107>
+            <108>538 CE - San d&apos;Oria&apos;s King Charambille passes away.</108>
+            <109>538 CE - Construction of the Phanauet Channel is completed after 35 years.</109>
+            <110>542 CE - Construction of the San d&apos;Orian Cathedral is completed after 120 years.</110>
+            <111>548 CE - Windurst&apos;s pharmaceutical research facility is officially titled the Rhinostery. Its first director is the White Mage Guribubu.</111>
+            <112>549 CE - Bastok orders the creation of a Blacksmithing guild to teach Galka and Hume metallurgists secret metal-crafting techniques.</112>
+            <113>558 CE - The Warking Acheufagais ascends to the throne.</113>
+            <114>559 CE - The Orcish Imperial Army lands on the northern shores of Quon.</114>
+            <115>561 CE - San d&apos;Oria&apos;s King Acheufagais defeats 1,000 Orcs with brutal force.</115>
+            <116>563 CE - The Warking Acheufagais and his party attack and are repelled from the Konschtat Highlands.</116>
+            <117>563 CE - Medada invents the Linkshell (though not as powerful as today&apos;s models).</117>
+            <118>564 CE - Victory Arch is completed in honor of King Acheufagais.</118>
+            <119>565 CE - Bastok&apos;s Republican Legion adds a second faction.</119>
+            <120>567 CE - San d&apos;Oria&apos;s King Acheufagais dies due to complications from wounds suffered in battle.</120>
+            <121>568 CE - King Acheufagais&apos;s cousin, Marelinne, is made Queen of San d&apos;Oria after his death.</121>
+            <122>572 CE - Knights from San d&apos;Oria cross the Strait of Jeuno and attack a Federation fort but are repelled by the War Warlocks.</122>
+            <123>574 CE - Windurst&apos;s magical weapons plant is officially titled the Manustery. Medada is inducted as the first director.</123>
+            <124>577 CE - Bastok&apos;s chapel is built.</124>
+            <125>580 CE - Queen Marelinne marries Count Phildenan of Tavnazia.</125>
+            <126>586 CE - Queen Marelinne&apos;s troupe shipwrecks against the Ashak Mountains. The search is called off after 2 years.</126>
+            <127>588 CE - Hunterking Dormillique ascends to San d&apos;Oria&apos;s throne.</127>
+            <128>588 CE - A party of envoys from the East visit Windurst. They are denied an audience with the Star Sybil for being heretics.</128>
+            <129>589 CE - A party of envoys from the East establishes diplomatic relations with the Yagudo Theocracy.</129>
+            <130>589 CE - The Yagudo begin regularly receiving weaponryand instruction in the Eastern arts, such as Ninjutsu, from the East.</130>
+            <131>594 CE - Bastok holds a grand festival for its 100th anniversary.</131>
+            <132>594 CE - The place where Ironman Mayer first broke ground with his pickaxe in Bastok is christened &quot;Firewater Circle.&quot;</132>
+            <133>595 CE - Bastok&apos;s Department of Industry is established, with Lilienthal as its head.</133>
+            <134>599 CE - Windurst&apos;s Star Sybil Seboriri is dispatched to the South as an representative of Windurst.</134>
+            <135>604 CE - San d&apos;Oria&apos;s King Dormillique restricts hunting in the woods of East Ronfaure to the royal family.</135>
+            <136>606 CE - The Bonecrafting Guild is established in Windurst as a result of learning new crafting techniques from the South.</136>
+            <137>607 CE - Sheep are brought over from islands in the West and begin grazing in Zulkheim.</137>
+            <138>611 CE - Gunpowder is invented in Bastok by Conrad, an alchemist.</138>
+            <139>625 CE - The Parliament of Patriarchs creates the official flag of the Federation of Windurst.</139>
+            <140>626 CE - San d&apos;Oria holds an international swordsman tournament. The winner is Grand Knight Silvelliffe.</140>
+            <141>627 CE - A Galka metallurgist in Bastok develops the &quot;cannon,&quot; through study of a shipwreck in the Near East.</141>
+            <142>630 CE - Ballista is developed in the woods of Ronfaure.</142>
+            <143>641 CE - San d&apos;Oria&apos;s King Dormillique passes away.</143>
+            <144>642 CE - Using secret Eastern techniques, a Yagudo suicide squad invades the Parliament&apos;s conference hall and destroy it.</144>
+            <145>644 CE - Bastok&apos;s Gunpowder Room is created, with Degsha inducted as the lead researcher.</145>
+            <146>650 CE - Bastok&apos;s Iron Musketeers are established under the Department of Industry, with Schultz inducted as its first commander.</146>
+            <147>658 CE - Bastok&apos;s Ministry of Domestic Affairs invites Sechil-Puchil, a famous astronomer from Windurst.</147>
+            <148>658 CE - Bastok&apos;s President Arens adopts Windurst&apos;s Crystal Era calendar, phasing out the old, Altepa-based calendar.</148>
+            <149>659 CE - Bastok&apos;s President Arens renounces his position and proposes the idea of a national election, which is accepted by the people.</149>
+            <150>659 CE - Mhaura becomes an officially governed territory of Windurst.</150>
+            <151>663 CE - The Orcish Imperial Army tunnels through the northern mountains and attacks Norvallen.</151>
+            <152>664 CE - The supply of Mythril in Gusgen Mines is exhausted.</152>
+            <153>665 CE - Lord Falledemion is recognized as a great hero, and his image is carved into Victory Arch.</153>
+            <154>676 CE - The Black Mage Toraimarai investigates the large canals sealed underneath the capital.</154>
+            <155>679 CE - Construction begins on the windmills of Konschtat Highlands.</155>
+            <156>681 CE - Bastok&apos;s Gold Musketeers are created under the Department of Mining, with Friese inducted as their first commander.</156>
+            <157>682 CE - Bastok&apos;s Republican Legion adds a naval faction.</157>
+            <158>682 CE - Cultivation of Uragnites begins in Bibiki Bay.</158>
+            <159>684 CE - The Gold Musketeers discover a Mythril seam around a Quadav settlement in the Palborough Mountains.</159>
+            <160>685 CE - Bastok&apos;s Republican Legion swiftly strikes against the Quadav, wiping them out.</160>
+            <161>686 CE - Wolfking Raigegue ascends to San d&apos;Oria&apos;s throne.</161>
+            <162>687 CE - Bastok&apos;s Mythril Musketeers, an elite unit under the direct control of the President, is formed.</162>
+            <163>690 CE - San d&apos;Oria&apos;s King Raigegue leads The Royal Knights on an invasion of Gustaberg.</163>
+            <164>691 CE - Bastok&apos;s Republican Legion clashes with San d&apos;Orian forces in Konschtat Highlands. Bastok attains a decisive victory.</164>
+            <165>692 CE - Bastok&apos;s Republican Legion expands into another faction and establishes of the Four Republican Legions.</165>
+            <166>693 CE - San d&apos;Oria&apos;s Prince Ferrenan takes advantage of King Raigegue&apos;s absence and attempts to gain control over the capitol.</166>
+            <167>697 CE - A large scale war breaks out against beastmen in the Southern lands.</167>
+            <168>697 CE - The Parliament of Patriarchs dispatches two units of War Warlocks to help in the battles in the Southern lands.</168>
+            <169>697 CE - Missionaries from the East teach the friars of Bastok various aspects of their arts and culture.</169>
+            <170>701 CE - Construction of the Bostaunieux Oubliette is completed after 7 years.</170>
+            <171>702 CE - San d&apos;Oria&apos;s Prince Ferrenan proclaims himself King. The Era of Two Kings Begins.</171>
+            <172>703 CE - Morhen Lighthouse is constructed.</172>
+            <173>704 CE - A party of envoys from the East meet with Windurst&apos;s Star Sybil Rakapopo and diplomatic relations are established.</173>
+            <174>711 CE - Blotches begin to appear all over the bodies of Humes, signaling the beginning of a deadly plague, The Bastokan Blight.</174>
+            <175>716 CE - A cure for the plague, The Bastokan Blight, is developed.</175>
+            <176>717 CE - The Clothcrafting guild is formed in Windurst to prepare for the coming Great Festival of Magic and control costs.</176>
+            <177>719 CE - The Great Festival of Magic in Windurst celebrates the 500th anniversary of the discovery of magic.</177>
+            <178>720 CE - The plague, the Bastokan Blight, is almost completely wiped out.</178>
+            <179>720 CE - The cultivation of Rolanberries becomes very popular around the outskirts of Jeuno.</179>
+            <180>727 CE - A new type of gunpowder, &quot;Dancing Flames,&quot; is utilized in the excavation of Palborough Mountain.</180>
+            <181>730 CE - Fort Bastok is converted into the Metalworks.</181>
+            <182>748 CE - The adventurer Gwynham Ironheart sets off on his journey to map the world.</182>
+            <183>755 CE - The Fishing guild is established in Windurst to settle disputes and help improve the lives of all fishermen.</183>
+            <184>761 CE - The Orcish Empire of Quon sends an advance party to invade Ronfaure.</184>
+            <185>762 CE - The adventurer Gwynham Ironheart discovers an inlet in Valkurm Dunes, and names it Selbina.</185>
+            <186>768 CE - Baron Torresapet Ordelle is sent to inspect limestone caverns in La Theine Plateau, known today as Ordelle&apos;s Caves.</186>
+            <187>769 CE - Construction begins on the port town, Selbina.</187>
+            <188>769 CE - The Mithra Marines are formed as a countermeasure to the meddlesome Mithra pirates.</188>
+            <189>772 CE - Bastok President Ritter is inaugurated, and the current Republic Flag is created.</189>
+            <190>778 CE - Enid, a traveler from San d&apos;Oria, receives an audience with Windurst&apos;s Star Sybil Kofufu.</190>
+            <191>782 CE - Dragonking Ranperre is crowned San d&apos;Oria&apos;s King.</191>
+            <192>783 CE - San d&apos;Oria&apos;s King Ranperre is bestowed with a holy sword from the North.</192>
+            <193>786 CE - Bastok and Tavnazia&apos;s combined naval forces battle against the Windurst navy near Elshimo Island.</193>
+            <194>795 CE - The War Warlocks increase their size from 9 factions to 12.</194>
+            <195>796 CE - The Quadav select Za&apos;Dha as Adamantking.</195>
+            <196>800 CE - Bastok&apos;s Department of Commerce introduces paper money.</196>
+            <197>811 CE - Bastok&apos;s Ministry of Domestic Affairs is merged into the Department of Industry.</197>
+            <198>811 CE - Bastok&apos;s Ministry of Foreign Affairs is merged into the Department of Commerce.</198>
+            <199>812 CE - The Yagudo army invades West Sarutabaruta, taking out the War Warlocks and Mithra Marines.</199>
+            <200>815 CE - King Ranperre gains victory over King Gjohnberre, once again uniting San d&apos;Oria under a single monarchy.</200>
+            <201>815 CE - Extensions are built on to the Metalworks in Bastok, and the chapel is dismantled and relocated.</201>
+            <202>816 CE - The school of Dragoons cease to exist.</202>
+            <203>816 CE - The Yagudo Theocracy names their captured Sarutabaruta territory Giddeus and members begin to immigrate.</203>
+            <204>817 CE - Volledyne is made Count and assigned to Jugner Forest.</204>
+            <205>817 CE - King Ranperre creates the official San d&apos;Orian flag.</205>
+            <206>824 CE - Mithra visiting Windurst from the South teach the ways of the Beastmaster.</206>
+            <207>824 CE - The current king of San d&apos;Oria, King Destin, is born.</207>
+            <208>828 CE - The Bastokan President&apos;s office is moved to the top of the Metalworks.</208>
+            <209>830 CE - San d&apos;Oria&apos;s King Ranperre exterminates the black dragon, Vrtra. He is awarded the title of &quot;Dragonking&quot; for his victory.</209>
+            <210>831 CE - Construction of San d&apos;Oria&apos;s King Ranperres Tomb is completed. The black dragon Vrtra is sealed within.</210>
+            <211>832 CE - San d&apos;Oria&apos;s King Ranperre passes away.</211>
+            <212>832 CE - San d&apos;Oria&apos;s King Grantieul ascends to the throne.</212>
+            <213>833 CE - Cid is born</213>
+            <214>835 CE - The Summoner Karaha-Baruha is born.</214>
+            <215>835 CE - A project to employ Bastok&apos;s out-of-work masons and secure land trade routes starts in Jeuno, then just a small fishing village.</215>
+            <216>836 CE - Due to an accidental explosion, the Alchemy guild in Bastok is transferred to Ore Street.</216>
+            <217>839 CE - The Beastmaster Tah Palancha domesticates Dhalmels.</217>
+            <218>843 CE - Baron Periduke is inaugurated as Prime Minister of San d&apos;Oria.</218>
+            <219>845 CE - In order to repair the royal family&apos;s financial state, Prime Minister Periduke outlines a plan for economic reform.</219>
+            <220>849 CE - The Gusgen Mines experience a massive cave-in and is engulfed in flames.</220>
+            <221>850 CE - Marquis Rochefogne of Tavnazia is born.</221>
+            <222>851 CE - San d&apos;Oria&apos;s King Grantieul is ambushed and killed by Orcs. The Crown Prince Destin barely escapes with his life.</222>
+            <223>851 CE - Destin ascends to the San d&apos;Orian throne, considered a temporary placeholder due to the previous King&apos;s sudden demise.</223>
+            <224>851 CE - The Gusgen Mines are closed.</224>
+            <225>853 CE - San d&apos;Oria&apos;s King Destin marries Countess Leaute of Tavnazia.</225>
+            <226>854 CE - A Multinational Expedition team explores the Northlands, with Mythril Musketeer Raogrimm as their leader.</226>
+            <227>855 CE - Reports from the Multinational Expedition cease as rumors of a &quot;Shadow Lord&quot; begin to circulate.</227>
+            <228>855 CE - Crystal synthesis is introduced by Kam&apos;lanaut when he comes to Jeuno.</228>
+            <229>856 CE - Karuha-Baruha begins his research on Summoning Magic.</229>
+            <230>856 CE - Cid launches new technologically advanced ships of his own design.</230>
+            <231>856 CE - Cid is made lead engineer of the Metalworks.</231>
+            <232>857 CE - Ferry service between Selbina and Mhaura is established.</232>
+            <233>858 CE - The Shadow Lord&apos;s Army clashes with the Orcish Empire in the Northlands.</233>
+            <234>858 CE - San d&apos;Oria&apos;s Temple Knights and Prime Minister Periduke uncover a plot to assassinate King Destin.</234>
+            <235>858 CE - A grand coronation ceremony is held for San d&apos;Oria&apos;s King Destin. The Papsque bestows Destin with the Crown of the Gryphon.</235>
+            <236>859 CE - The Grand Duchy of Jeuno is officially recognized as an independent nation.</236>
+            <237>859 CE - Kam&apos;lanaut, a representative of Jeuno, is awarded the title of Archduke by the three nations.</237>
+            <238>859 CE - The Yagudo Theocracy submit to the Shadow Lord and are brought under his control.</238>
+            <239>860 CE - Prince Trion is born.</239>
+            <240>860 CE - Construction of Castle Zvahl is complete.</240>
+            <241>861 CE - Cardians are invented.</241>
+            <242>861 CE - The Shadow Lord gathers the Beastmen leaders at Castle Zvahl and proclaims the destruction of the human nations.</242>
+            <243>862 CE - Prince Pieuje is born.</243>
+            <244>862 CE - The Orcish Army storms San d&apos;Oria&apos;s capital. After a fierce battle, The Royal Knights manage to repel them.</244>
+            <245>862 CE - Muchanne, leader of The Temple Knights, is assassinated (prevailing theory is by a Tonberry).</245>
+            <246>4/862 CE - The Crystal War begins when a mixed army of Beastmen invade Norvallen.</246>
+            <247>5/862 CE - The Mithra Navy urgently recruits new soldiers and reforms as the Mithra Mercenaries.</247>
+            <248>6/682 CE - The Sahagin construct a blockade in Port Bastok.</248>
+            <249>7/862 CE - The Yagudo army invades Windurst&apos;s capital. They barely manage to repel the attack, and suffer massive damage in the process.</249>
+            <250>8/862 CE - Windurst&apos;s Parliament of Patriarchs dispatch an envoy to the Southern lands, who send a large number of reinforcements.</250>
+            <251>8/862 CE - Responding to Eald&apos;narche&apos;s summons, President Prien, King Destin, and the Star Sybil travel to Jeuno to meet.</251>
+            <252>9/862 CE - The Allied Forces of Altana is formed between the 4 nations to counter the Shadow Lord&apos;s army.</252>
+            <253>10/862 CE - Fort Karugo-Narugo is suddenly besieged by a Beastman anti-magic unit.</253>
+            <254>10/862 CE - The Beastmen army invades the capital of Windurst.</254>
+            <255>10/862 CE - The Head of Bastok&apos;s Military Affairs, Berner, is killed by a Tonberry assassin.</255>
+            <256>10/862 CE - Cid is given a secondary position as lead researcher of Bastok&apos;s Gunpowder Room.</256>
+            <257>11/862 CE - Karaha-Baruha releases the avatar Fenrir and obliterates the Beastmen army from the capital.</257>
+            <258>11/862 CE - A unit of Royal Knights arrive at Fort Karugo-Narugo and help Windurst to repel the Beastmen forces.</258>
+            <259>11/862 CE - The Hydra Corps is formed.</259>
+            <260>12/862 CE - The Beastmen army&apos;s main forces amass around Jeuno.</260>
+            <261>1/863 CE - Garlaige Citadel is destroyed.</261>
+            <262>1/863 CE - The Beastmen launch an offensive from the outskirts of Jeuno.</262>
+            <263>2/863 CE - Due to a lack of soldiers, Cardians are added to the ranks of the War Warlocks.</263>
+            <264>4/863 CE - The main units of the Allied Forces of Altana gather in Xarcabard, engaging the Beastmen.</264>
+            <265>7/863 CE - Castle Zvahl is surrounded by the Allied Forces of Altana.</265>
+            <266>8/863 CE - The Hydra Corps disappear without a trace.</266>
+            <267>9/863 CE - The Shadow Lord is sealed.</267>
+            <268>11/863 CE - Castle Oztroja crumbles under an attack from the Mithra Mercenaries.</268>
+            <269>863 CE - Tavnazia falls to the Shadow Lord&apos;s Beastmen Army.</269>
+            <270>3/864 CE - Representatives of the four nations gather in Jeuno, and the Crystal War is officially proclaimed to be over.</270>
+            <271>11/864 CE - Windurst Woods is set aside as an autonomous section of Windurst for Mithra to inhabit.</271>
+            <272>864 CE - Shamonde is inaugurated as Papsque of the San d&apos;Orian cathedral.</272>
+            <273>864 CE - The Orcish Empire begins withdrawing from the continent of Quon.</273>
+            <274>865 CE - Jeuno holds a post-war conference. Continuing positive relations between the four nations is unanimously accepted.</274>
+            <275>865 CE - Obsolete Cardians plan an insurrection.</275>
+            <276>866 CE - Windurst takes notice of the Yagudo&apos;s state of distress and approves a policy of reconciliation.</276>
+            <277>867 CE - Windurst signs a peace treaty with the Yagudo Theocracy.</277>
+            <278>867 CE - The Palborough Mines experience a cave-in.</278>
+            <279>867 CE - Cid resigns as head researcher of Bastok&apos;s Gunpowder Room.</279>
+            <280>868 CE - The Republic of Bastok&apos;s monetary unit, the Byne, is abandoned in favor of Jeuno&apos;s currency, Gil.</280>
+            <281>868 CE - The Kingdom of San d&apos;Oria&apos;s monetary unit, the Noit, is abandoned in favor of Jeuno&apos;s currency, Gil.</281>
+            <282>868 CE - The Federation of Windurst&apos;s monetary unit, the Mumu, is abandoned in favor of Jeuno&apos;s currency, Gil.</282>
+            <283>869 CE - Queen Leaute passes away.</283>
+            <284>869 CE - The Quadav build a canal off of their sanctuary into Palborough Mines, assaulting and capturing it.</284>
+            <285>870 CE - To facilitate the work of the various chefs gathering from around the globe, a Cooking guild is established.</285>
+            <286>871 CE - Tzee Xicu the Manifest is resurrected. The Yagudo Theomilitary begins to mobilize once more.</286>
+            <287>872 CE - Development begins on Zeruhn Mines.</287>
+            <288>873 CE - Reports from Cardian scouts indicate the reconstruction of Castle Oztroja.</288>
+            <289>873 CE - A drawbridge is built over Dalha River.</289>
+            <290>875 CE - The first Bastok to Jeuno airship flight is launched.</290>
+            <291>875 CE - The archeologist, Bertolino, discovers the remains of an ancient society in Dangruf Wadi.</291>
+            <292>875 CE - The Orcs capture La Vaule and rename it Davoi.</292>
+            <293>876 CE - An observatory is established on top of the Opistery.</293>
+            <294>877 CE - The first Windurst to Jeuno airship flight is launched.</294>
+            <295>877 CE - Beastmen activity begins to intensify in several regions. whispers start about the possible return of the Shadow Lord.</295>
+            <296>878 CE - Improvements to Port San d&apos;Oria begin for the accommodation of airships.</296>
+            <297>879 CE - Reports of Fort Ghelsba, an Orcish outpost, are confirmed.</297>
+            <298>881 CE - Airship travel between San d&apos;Oria and Jeuno is established</298>
+            <299>882 CE - Richter Karst is elected President of Bastok.</299>
+            <300>882 CE - Edwards, a Hume alchemist, develops Cermet.</300>
+            <301>883 CE - Kam&apos;lanaut proposes Conquest as a means to ascertain political boundaries.</301>
+            <302>883 CE - The Orcish Army once again invades Ronfaure, but are repelled by The Royal Knights.</302>
+            <303>884 CE - Ordinary people called &quot;Adventurers&quot; begin appearing in every region, responding to any crisis.</303>
+            <304>884 CE - The underground Moblin city, Movalpolis, is discovered in Gustaberg.</304>
+            <305>884 CE - Bastok&apos;s Department of Mining approves the reopening of Korroloka Tunnel for adventurers.</305>
+            <306>The oldest known evidence of a Hume village was found in Dangruf Wadi from 3000 years ago.</306>
+            <307>The star Gordeus in the Alexander constellation going supernova marks the beginning of the Crystal Era.</307>
+            <308>In terms of storyline, &quot;the present&quot; is considered the year 884 CE, while the start of Rhapsodies of Vana&apos;diel is 898 CE.</308>
+            <309>The Grandy Duchy of Jeuno is governed by Archduke Kam&apos;lanaut. Due to his busy schedule, however, he is often away from Jeuno.</309>
+            <310>The Grandy Duchy of Jeuno is suspended on a bridge the connects the Quon and Mindartia continents.</310>
+            <311>Built on bridges that connect three peninsulas and two continents, it is said that &quot;all things find their way to Jeuno&quot;.</311>
+            <312>Selbina was once a prosperous town and a strategic port for the navy of Mindartia and a waypoint for travelers.</312>
+            <313>Mhaura is carved into the cliffs facing the Strait of Pamtam and is part of the Federation of Windurst.</313>
+            <314>Moat Carp are a freshwater fish found in lakes and marshes all over Vana&apos;diel.</314>
+            <315>Fluoro-flora are used in Windurst as street lamps. Originally from Elshimo Island, the Rhinostery enhanced them to shine more intensely.</315>
+            <316>Humes have the widest spread population as well as the widest variety of names, but do not follow any special rules for their naming.</316>
+            <317>Elvaan males tend to have elaborate names appropriate for heroes in an epic tale.</317>
+            <318>Elvaan females typically have shorter names that are easy to pronounce.</318>
+            <319>Elvaan often just use a first name, but can use a middle initial and last name.</319>
+            <320>Elvaan middle initials relate to their rank in either the nobility or the clergy.</320>
+            <321>The Elvaan middle initial &apos;R&apos;, the Nobility rank Royaulais, is for a king or member of the royal family.</321>
+            <322>The Elvaan middle initial &apos;I&apos;, the Nobility rank Imperiais, is for the founder of a vassal state or descendant from the royal family.</322>
+            <323>The Elvaan middle initial &apos;M&apos;, the Nobility rank Monarlais, is for the lord of a county.</323>
+            <324>The Elvaan middle initial &apos;S&apos;, the Nobility rank Souvelais, is for a deputy count.</324>
+            <325>The Elvaan middle initial &apos;B&apos;, the Nobility rank Barolais, is for a lower-ranked lord.</325>
+            <326>The Elvaan middle initial &apos;N&apos;, the Nobility rank Noblais, is for an elite fighter worthy of an honorary title.</326>
+            <327>The Elvaan middle initial &apos;P&apos;, the Clergy rank Papsque, is for a leader of the San d&apos;Orian Cathedral.</327>
+            <328>The Elvaan middle initial &apos;C&apos;, the Clergy rank Cardisque, is for a chief official of the Cathedral.</328>
+            <329>The Elvaan middle initial &apos;E&apos;, the Clergy rank Evesque, is for a teaching Leader of the Cathedral.</329>
+            <330>The Elvaan middle initial &apos;V&apos;, the Clergy rank Vicasque, is for a deputy Bishop.</330>
+            <331>The Elvaan middle initial &apos;X&apos;, the Clergy rank Croisque, is for an elite Monk deployed by the Cathedral.</331>
+            <332>Mithra use a first name and family name. First names are short, just one or two syllables.</332>
+            <333>Galkan names have rough-sounding syllables, often using hard consonants.</333>
+            <334>Humes find Galkan names hard to remember or pronounce, and usually give them another name.</334>
+            <335>Male Tarutaru have names where the first and second part rhyme. This is thought to be similar to incantations of ancient spells.</335>
+            <336>Female Tarutaru have names where the last mora is repeated.</336>
+            <337>The last part of female Tarutaru names are based on the orientation of the child in relation to the Star Tree at the time of birth.</337>
+            <338>Male Goblin names end in -ix.</338>
+            <339>Female Goblin names end in -ox.</339>
+            <340>An Onze is the equivalent of an Ounce.</340>
+            <341>A Ponze is the equivalent of a Pound.</341>
+            <342>An Ilm is the equivalent of an Inch.</342>
+            <343>A Fulm is the equivalent of a Foot.</343>
+            <344>A Yalm is the equivalent of a Yard.</344>
+            <345>A Malm is the equivalent of a Mile.</345>
+            <346>One Vana&apos;diel minute is 2.4 Earth seconds.</346>
+            <347>One Vana&apos;diel hour is 2 minutes, 24 seconds Earth time.</347>
+            <348>One Vana&apos;diel day is 57 minutes, 36 seconds Earth time (1/25 of one Earth day).</348>
+            <349>One Vana&apos;diel week is 7 hours, 40 minutes, 48 seconds Earth time.</349>
+            <350>Hitting an upright-walking Gnole with a Silver Arrow or Bullet will revert them back to walking on all fours.</350>
+            <351>Gnoles walk upright in the daytime during Waxing Gibbous, Full Moon, and Waning Gibbous moon phases.</351>
+            <352>Ro&apos;Maeve&apos;s Qu&apos;Hau Spring and moongates will be activated during a Full Moon between 18:00 and 6:00.</352>
+            <353>The moon doesn&apos;t seem to have been given a name on either Vana&apos;diel or Abyssea.</353>
+            <354>The moon&apos;s color varies based on the current day of the Vana&apos;diel week.</354>
+            <355>In Abyssea, the moon seen in the night sky appears significantly larger.</355>
+            <356>Abyssea is an alternate dimension that exists parallel to Vana&apos;diel.</356>
+            <357>One lunar cycle lasts for 84 in-game days, which is 3 days, 8 hours, 38 minutes, and 24 seconds in Earth time.</357>
+            <358>The Horutoto Ruins in Sarutabaruta draw on the energies of the moon.</358>
+            <359>Elemental Ores are obtainable in Chocobo Digging during the Waxing Crescent moon phase.</359>
+            <360>Magic accuracy is affected by the day of the week.</360>
+            <361>Daytime runs from 6:00 to 18:00.</361>
+            <362>Nighttime runs from 18:00 to 6:00.</362>
+            <363>Dusk runs from 17:00 to 18:00.</363>
+            <364>Dawn runs from 6:00 to 7:00.</364>
+            <365>Outside of dungeons, Undead can spawn between 20:00 and 4:00.</365>
+            <366>Certain Eruca and Karakul sleep for most of the night and are not aggressive during that time.</366>
+            <367>Ladybugs are only aggressive during the daytime.</367>
+            <368>Single Fire weather is called Hot Spells.</368>
+            <369>Double Fire weather is called Heat Waves.</369>
+            <370>Single Earth weather is called Dust Storms.</370>
+            <371>Double Earth weather is called Sandstorms.</371>
+            <372>Single Water weather is called Rain.</372>
+            <373>Double Water weather is called Squalls.</373>
+            <374>Single Wind weather is called Winds.</374>
+            <375>Double Wind weather is called Gales.</375>
+            <376>Single Ice weather is called Snow.</376>
+            <377>Double Ice weather is called Blizzards.</377>
+            <378>Single Thunder weather is called Thunder.</378>
+            <379>Double Thunder weather is called Thunderstorms.</379>
+            <380>Single Light weather is called Auroras.</380>
+            <381>Double Light weather is called Stellar Glare.</381>
+            <382>Single Dark weather is called Gloom.</382>
+            <383>Double Dark weather is called Darkness.</383>
+            <384>Don&apos;t forget your family, your friends, your school, or your work.</384>
+            <385>It all began with a stone, or so the legend says.</385>
+            <386>You can store the various Seals and Crests with either Shami or Shemo in Port Jeuno.</386>
+            <387>You can store the various Rem&apos;s Tales with Monisette in Port Jeuno.</387>
+            <388>Porter Moogles found in various towns will store many different items on Storage Slips for you.</388>
+            <389>Trade an item by itself to a Porter Moogle to check if it can be stored on a Storage Slip.</389>
+            <390>Sparks NPCs will also store your Copper Vouchers for use with them later.</390>
+            <391>Divainy-Gamainy at the Inventors&apos; Coalition will store various augmentation stones such as Wailing or Duskdim Stones.</391>
+            <392>Trade a used Mars or Venus Orb back to Greyson in Lower Jeuno for a chance at receiving a brand new one.</392>
+            <393>Vana&apos;diel is a name that means &quot;mother earth&quot;.</393>
+            <394>Fauregandi means &quot;frozen earth&quot; in Old Elvaan.</394>
+            <395>Sarutabaruta means &quot;Land of Prophecy&quot; in the Tarutaru tongue.</395>
+            <396>Kolshushu means &quot;Land of Decision&quot; in the Tarutaru tongue.</396>
+            <397>Beaucedine Glacier is a harsh land with constant blizzards.</397>
+            <398>Jugner Forest is a dense woodland often shrouded in darkness--even during the day.</398>
+            <399>Attohwa means &quot;arid&apos; in ancient Mithran, and is the name given to the chasm that traverses the eastern part of Aragoneu.</399>
+            <400>Little rain falls in Attohwa Chasm, resulting in a parched, broken land where poisonous gases erupt from cracks in the earth.</400>
+            <401>Until discovery of an underground route, several forbidding cliffs had to be scaled in order to reach Attohwa Chasm.</401>
+            <402>High atop the mountains of the Aragoneu region, Boneyard Gully is at the peak of Attohwa Chasm.</402>
+            <403>Boneyard Gully is shielded by a strange dark miasma which seemingly prevents all entry.</403>
+            <404>The Yagudo spent decades carving Castle Oztroja out of the mountains in the Meriphataud Range.</404>
+            <405>The interior of the Castle Oztroja is extremely complex and littered with traps and curses.</405>
+            <406>Located deep within Castle Oztroja, the Altar Room is believed to house the sacred altar of the Yagudo Theocracy.</406>
+            <407>There are three &quot;Banishing Gates&quot; in Garlaige Citadel which must be opened to access certain areas of the zone.</407>
+            <408>The Meriphataud Mountains of Mindartia is an area of dry and harsh conditions and brutal dust storms.</408>
+            <409>The gigantic and symbolic Drogaroga&apos;s Spine stretches across the Meriphataud Mountains hanging high above the hills.</409>
+            <410>In the southeast of the Meriphataud Mountains is a large and mysterious crater.</410>
+            <411>The southern portion of Meriphataud Mountains consists of a low-lying area with untraversable caverns known as Galesmouth.</411>
+            <412>The single most conspicuous feature in Meriphataud Mountains, Drogaroga&apos;s Spine spans most of the area in the air.</412>
+            <413>The Sauromugue Champaign is on a peninsula that bugles out into the Bastore Sea and the Strait of Jeuno.</413>
+            <414>Located in the center of Sauromugue Champaign, the Gausebit Mountains jut over the plain.</414>
+            <415>The Great Jeuno Bridge connects the Quon and Mindartia continents.</415>
+            <416>Port Jeuno was built upon the Harbor Bridge.</416>
+            <417>Oggodett, Antonian, and Maqu Molpih will sell items from Aragoneu when their country is in control of the region.</417>
+            <418>The Arrapago Reef is a highly treacherous area legendary for stranding many a ship.</418>
+            <419>The Arrapago Reef became the final bastion for a kingdom that was destroyed by an attack from Aht Urhgan.</419>
+            <420>The Lamiae are currently using the Arrapago Reef as their stronghold, guarded by the sleepless undead.</420>
+            <421>Caedarva Mire is a vast stretch of swampland covering Azouph Isle, covered in dense fog nearly all year round.</421>
+            <422>Caedarva means &quot;illusion&quot; in the language of Ephramad.</422>
+            <423>Caedarva Mire is the ancient site of a great battle between the Empire of Aht Urhgan and the Kingdom of Ephramad.</423>
+            <424>Derfland is a massive peninsula, located on the eastern side of the Quon continent and jetting out into the Bastore Sea.</424>
+            <425>Beadeaux is located deep within the Pashhow Marshlands, far from the reach of Bastokan and San d&apos;Orian forces.</425>
+            <426>To construct Beadeaux, the Quadav have stolen large quantities of the mythril from Bastok.</426>
+            <427>The web-filled Crawlers&apos; Nest is home to the crawlers that plague the Rolanberry Fields.</427>
+            <428>In direct contrast to the highlands that surround it, the Pashhow Marshlands are a wet, swampy landscape.</428>
+            <429>The countless bogs and floating islands of vegetation make the Pashhow Marshlands extremely difficult to traverse.</429>
+            <430>For centuries, Rolanberry Fields has been used to cultivate fields of the sweet fruit known as the rolanberry.</430>
+            <431>Rolanberries are considered a delicacy by Humes and the Elvaan.</431>
+            <432>Farmers in Rolanberry Fields have perfected their methods of agriculture, now able to harvest the sweet berries year round.</432>
+            <433>Three great bridges at the Rolanberry Fields&apos; northeastern tip connect the region with its neighboring areas.</433>
+            <434>The Lord Bolicevre Bridge connects the Rolanberry Fields to the Batallia Downs.</434>
+            <435>The Market Bridge connects the Rolanberry Fields to the Grand Duchy of Jeuno.</435>
+            <436>The Great Jeuno Bridge connects the Rolanberry Fields to the Sauromugue Champaign.</436>
+            <437>Qulun Dome is a dark chamber beneath the Beastmen stronghold of Beadeaux and is the domain of the Quadav leader Za&apos;Dha Adamantking.</437>
+            <438>Belka, Pourette, and Taraihi-Perunhi will sell items from Derfland when their country is in control of the region.</438>
+            <439>With the exception of the volcanoes in the north, Elshimo Island is characterized by its wide expanses of thick jungle.</439>
+            <440>Elshimo Island is an island to the southeast of Mindartia, with labyrinthine jungles and caves.</440>
+            <441>Kazham is a fishing village founded some four hundred years ago on the northern tip of Elshimo Island.</441>
+            <442>Mithra form nearly half of Kazham&apos;s population and support the village by hunting and fishing.</442>
+            <443>Kazham is self-governed, and all matters are judged by councils headed by Chieftainness Jakoh Wahcondalo.</443>
+            <444>Flame Spouts in Ifrit&apos;s Cauldron require either waiting 3 Vana&apos;diel hours or an Ice Cluster to pass.</444>
+            <445>The tropical Yhoator Jungle covers most of the Elshimo Uplands and is teeming with the ruthless Tonberries.</445>
+            <446>The Ranguemont Pass has long been considered the only road through the &quot;Northern Wall.&quot;</446>
+            <447>Rodellieux, Vichuel, and Sheia Pohrichamaha will sell items from Fauregandi when their country is in control of the region.</447>
+            <448>The Dangruf Wadi is a small gorge located near Mount Dangruf, an active volcano.</448>
+            <449>The Korroloka Tunnel is located deep beneath the sea floor and was used by the Galka to flee to the Quon Continent.</449>
+            <450>The interior of the Korroloka Tunnel is quite beautiful and is formed from a terrestrial coral.</450>
+            <451>The Korroloka Tunnel is known as a place of tragedy and death to Galka, where the coral thrived on the blood of fallen comrades.</451>
+            <452>Situated to the north of Bastok, North Gustaberg is a valley surrounded by steep mountains.</452>
+            <453>North Gustaberg is separated into east and west areas by towering cliffs.</453>
+            <454>The Gustaberg area remains desolate due to various mineral run-offs which contaminate the river water.</454>
+            <455>The spectacular Drachenfall, located in North Gustaberg, is considered to be one of the wonders of Vana&apos;diel.</455>
+            <456>A tributary of the Dalha River, Obere Creek is located in North Gustaberg.</456>
+            <457>The Palborough Mines were once a Quadav settlement until mythril, a rare ore, was discovered in its walls.</457>
+            <458>Spreading out to the south of Bastok is the rocky terrain of South Gustaberg.</458>
+            <459>Plentiful with ore, hundreds of tunnels and mine shafts have been dug beneath South Gustaberg by Humes and Quadav alike.</459>
+            <460>The Morhen Lighthouse can be found on the cliffs lining the Bastore Sea, guiding the way for the ferries and airships.</460>
+            <461>The Waughroon Shrine is sacred to the Quadav, located within their ancestral homelands that have become the Palborough Mines.</461>
+            <462>The Zeruhn Mines were dug out of the Mines District of Bastok when a vein of Darksteel Ore was discovered within.</462>
+            <463>Because of its location within the walls of Bastok, Zeruhn Mines is safer for miners than the nearby Palborough Mines.</463>
+            <464>Evelyn, Apairemant, and Nya Labiccio will sell items from Gustaberg when their country is in control of the region.</464>
+            <465>Bibiki Bay in the southeast of Mindartia looks out on the Gugru Blue.</465>
+            <466>Bibiki Bay is sheltered by a multitude of tiny islands.</466>
+            <467>The tranquil waters of Bibiki Bay were once used by Tarutaru fisherfolk to farm vast quantities of shellfish and seaweed.</467>
+            <468>After the Crystal War, the cultivation of Bibiki Bay was abandoned as the Mithra brought their expertise in fishing to the mainland.</468>
+            <469>The Fishermen&apos;s Guild, seeing Bibiki Bay&apos;s potential, recently paid for the right to begin fishing in the area.</469>
+            <470>The Fishermen&apos;s guild has made its small fishing vessels in Bibiki Bay known as Manaclippers available for use by adventurers.</470>
+            <471>The Buburimu Peninsula is located on the east side of the Pamtam Straits.</471>
+            <472>On the eastern tip of Buburimu Peninsula, a strangely shaped rock formation can be found called the Kibubu Lighthouse.</472>
+            <473>The dark, maze-like Labyrinth of Onzozo is littered with the bones of both fallen adventurers and prey alike.</473>
+            <474>The Manaclipper is large fishing barge that takes a variety of routes through Bikibi Bay.</474>
+            <475>The Maze of Shakhrami was formed long ago, when water from the rivers above seeped through and ate away at the rocks below.</475>
+            <476>The twisting canyons of Tahrongi were carved thousands of years ago when powerful rivers ran through the region.</476>
+            <477>Yafafa, Fiva, and Ahyeekih will sell items from Kolshushu when their country is in control of the region.</477>
+            <478>Located just off the southwest coast of the continent of Quon, the Kuzotz region is made up of a number of tiny islands.</478>
+            <479>The Eastern Altepa Desert, an arid desert wasteland, makes up the eastern half of Zepwell Island.</479>
+            <480>Remnants of the ancient Galkan civilization that once thrived dot the Eastern Altepa Desert landscape.</480>
+            <481>In the southwest corner of the Eastern Altepa Desert, the Oasis of Gatidav is a popular spot among fishers and adventures alike.</481>
+            <482>Once a thriving metropolis for the proud Galka, the Quicksand Caves still house numerous monolithic pillars and statues.</482>
+            <483>Rabao, supported by the Rabao Spring, lies towards the north end of Zepwell Island and is surrounded by the vast Altepa Desert.</483>
+            <484>Enterprising merchants have erected tent-shops in Rabao in an effort to capitalize on stranded adventurers in need of aid.</484>
+            <485>The Western Altepa Desert, an enormous expanse of desert, covers the entire western half of Zepwell Island.</485>
+            <486>In the center of the Western Altepa Desert rises Revelation Rock, once used by the Galka as a location for spiritual training.</486>
+            <487>The Oasis of Hubol is one of the few hospitable locations in Western Altepa Desert.</487>
+            <488>Before Zepwell Island was overrun by Antica, Galka would climb to the top of Revelation Rock to await their Journey of Rebirth.</488>
+            <489>Vattian, Patolle, and Nhobi Zalkia will sell items from Kuzotz when their country is in control of the region.</489>
+            <490>The &quot;Boyahda Tree&quot;, the largest tree of Zi&apos;Tah, is said to have lasted tens of thousands of years.</490>
+            <491>The Dragon&apos;s Aery, or nest, while home to some more common animals, is often guarded by one of two powerful Wyrms.</491>
+            <492>The Hall of the Gods is the final safe resting place before entering the vast etheral expanses of Tu&apos;Lia.</492>
+            <493>The Hall of the Gods contains a grand statue of the Dawn Goddess Altana, as well as a large statue of Promathia.</493>
+            <494>The amphitheater-like Ro&apos;Maeve is comprised of a series of levels leading up to the top, where one can enter the Hall of the Gods.</494>
+            <495>The moongates in Ro&apos;Maeve open on full moon nights between 18:00-6:00. They can also be opened with a Moongate Pass.</495>
+            <496>The Sanctuary of Zi&apos;Tah is the coniferous forest that lies at the entrance to the Li&apos;Telor region.</496>
+            <497>Very little light reaches the forest floor of the Sanctuary of Zi&apos;Tah, blocked by trees that are thousands of years old.</497>
+            <498>Throughout the Sanctuary of Zi&apos;Tah are illuminated crystals that shine eerily even during the day.</498>
+            <499>The Sanctuary of Zi&apos;Tah was believed to be the region of gods, and was rare for people to visit unless on pilgrimage to Ro&apos;Maeve.</499>
+            <500>Galdeo, Attarena, and Otete will sell items from Li&apos;Telor when their country is in control of the region.</500>
+            <501>The Aydeewa Subterrane, covered in subterranean plants, is an extensive network of tunnels lying beneath the Wajaom Woodlands.</501>
+            <502>The Aydeewa Subterrane was once a site of the ancient Olduum civilization until sinking almost completely into the ocean.</502>
+            <503>Traces of the Olduum civilization&apos;s past can still be seen in the stone pillars and altars scattered about the Aydeewa Subterrane.</503>
+            <504>The Empire of Aht Urhgan maintained the Aydeewa Subterrane until recently, when increasing beastman threats forced them to withdraw.</504>
+            <505>The Aydeewa Subterrane is plagued with Qiqirn and Mamool Ja thieves looking for treasure among the ruins.</505>
+            <506>The capital of the Mamool Ja, Mamook was built deep in a forest on a peninsula west of the Aht Urhgan Empire.</506>
+            <507>To control parasite infestations, the wooden structures that cover Mamook are burned down and rebuilt every few years.</507>
+            <508>Like their equipment, the few intricate decorative metals in Mammok were created by prisoners taken by Mamool Ja.</508>
+            <509>Sacred stones in each area of Mamook are believed to harbor the spirits of fallen Mamool Ja heroes and protect from evil.</509>
+            <510>The Wajaom woodlands cover a vast stretch of land to the west of the Aht Urhgan capital.</510>
+            <511>Wajaom means &quot;abundance&quot; in the language of Aht Urhgan.</511>
+            <512>The Wajaom woodlands are home to a rich variety of fauna, from birds that hover in the air to bees that build enormous hives.</512>
+            <513>Situated deep within Movalpolos, Mine Shaft #2716 is the deepest shaft dug by the moblins and appears to go on forever.</513>
+            <514>The blue and red gates in Newton Movalpolos can be moved by trading a jar of Firesand to the nearby Furnace Hatch.</514>
+            <515>As the Moblins drill through Vana&apos;diel&apos;s crust, they are constantly moving their homes, water tanks, and scaffolding.</515>
+            <516>The continuous advancement of Movalpolos makes it difficult to locate the city at any one time.</516>
+            <517>While there are some Moblins who emerge to sell ores, most of the tribe&apos;s members have cut themselves off from the outside world.</517>
+            <518>The subterranean city of Movalpolos was dug and built by a tribe of Goblins referred to as the Moblins.</518>
+            <519>The Moblins are known for their exceptional smithing and alchemy skills.</519>
+            <520>Moblin achievements include complex drilling apparatuses, floodlights, and several advancements in exotic fields such as bionics.</520>
+            <521>Bagnobrok, Vendavoq, and Prestapiq will sell items from Movalpolos when their country is in control of the region.</521>
+            <522>During the Crystal War, the Batallia Downs was the location of the infamous Battle of Jeuno.</522>
+            <523>The scars left from the infamous Battle of Jeuno still litter the Batallia Downs.</523>
+            <524>The Achaque Mountains in the north of the Batallia Downs prevent possible intruders while hampering the travel of adventurers.</524>
+            <525>The Artisan Bridge on the Batallia Downs&apos; far eastern shore connects the Norvallen Region and the Grand Duchy of Jeuno.</525>
+            <526>Carpenters&apos; Landing is comprised of unconnected docks providing access to the barge that travels down the Phanauet Channel.</526>
+            <527>While Carpenters&apos; Landing is small in area, getting around on the barge is best left for those who prefer a scenic route.</527>
+            <528>During the Crystal War, the Eldieme Necropolis was the site of fierce battles whose spirits still roam the tombs below.</528>
+            <529>Deep within the recesses of the Orcish stronghold of Davoi is the Monastic Cavern, home to the leaders of the Orcs.</529>
+            <530>Once a welcoming, peaceful Elvaan monastery, the Monastic Cavern is now dangerous for any to step foot in.</530>
+            <531>Mille, Machielle, and Posso Ruhbini will sell items from Norvallen when their country is in control of the region.</531>
+            <532>Behemoth&apos;s Dominion is a cavernous subterranean dwelling buried deep inside Qufim Island.</532>
+            <533>In addition to the Behemoths, scores of undead also roam Behemoth&apos;s Dominion seeking to surprise unsuspecting adventurers.</533>
+            <534>Delkfutt&apos;s Tower in the North of Qufim Island is overrun by Gigas who were trapped there at the end of the Crystal War.</534>
+            <535>Isolated in the gloomy Delkfutt&apos;s Tower, the Gigas are constantly searching for a way to get back to their homeland.</535>
+            <536>Towering over the surroundings in the center of Qufim Island is an enormous spirelike structure: Delkfutt&apos;s Tower.</536>
+            <537>An island to the north of Jeuno, Qufim Island is home to Gigas unable to survive the depths of Delkfutt&apos;s Tower.</537>
+            <538>A long tunnel under the Sea of Shu&apos;Meyo connects Port Jeuno to Qufim Island&apos;s rocky cliffs.</538>
+            <539>Takiyah, Eugballion, and Millerovieunet will sell items from Qufim when their country is in control of the region.</539>
+            <540>The Bostaunieux Oubliette prison is not currently in use by the Kingdom of San d&apos;Oria.</540>
+            <541>The deeper recesses of the Bostaunieux Oubliette are accessible only through a guarded trap door.</541>
+            <542>Blessed by the abundant waters of the Cheval River, the wildlife in East Ronfaure has flourished for centuries.</542>
+            <543>The massive Fort Ghelsba, reinforced with towering logs, is home to the frontline troops of the Orcish Empire.</543>
+            <544>The Orcs prepare for battle with San d&apos;Oria by constructing various siege weapons inside Fort Ghelsba.</544>
+            <545>Ghelsba Outpost is home to the Vilebloods, who are led by the merciless Warchief Vatgit.</545>
+            <546>Only the most fearless, vicious, bloodthirsty Orcs are selected to be a part of Orc Warchief Vatgit&apos;s ranks.</546>
+            <547>Horlais Peak is the highest mountaintop above Fort Ghelsba, containing the famous Horlais hot springs.</547>
+            <548>The Orcs used Elvaan slaves to dig the Yughott Grotto, intended to lead under the walls of the San d&apos;Orian citadel.</548>
+            <549>Faustin, Corua, and Jourille will sell items from Ronfaure when their country is in control of the region.</549>
+            <550>East Sarutabaruta is known for its two rivers the Zanbibi River and the Nompipi River.</550>
+            <551>Lake Tepokalipuka and several Horutoto Ruins are famous sights located in the tropical East Sarutabaruta.</551>
+            <552>To the south of East Sarutabaruta lies the coast of the Pamtam Straits.</552>
+            <553>The Pamtam Straits is the body of water between the Mindartia Continent and Elshimo Island.</553>
+            <554>Full Moon Fountain is an ancient fountain discovered by the first Star Sibyl.</554>
+            <555>Legend has it, the Full Moon Fountain is where the first Star Sibyl was bestowed the gift of magic.</555>
+            <556>Full Moon Fountain is said to contain the vast power of the stars and moon and is home to the legendary guardian beast Fenrir.</556>
+            <557>A peace treaty between the Yagudo and Windurst prevents the incursion of Federation forces into their stolen territory, Giddeus.</557>
+            <558>Using their claws and sharp beaks, the Yagudo carved caves out of the surrounding cliffs to serve as their homes inside Giddeus.</558>
+            <559>On a daily basis, the Yagudo of Giddeus perform short pilgrimages around the area, stopping at each of the numerous altars.</559>
+            <560>The Horutoto Ruins are ancient towers spread across the plains of Sarutabaruta.</560>
+            <561>No one is certain why the massive structures known as the Horutoto Ruins were built.</561>
+            <562>The powerful magical energy emanating from the Horutoto Ruins has been the center of Tarutaru scientific investigation for decades.</562>
+            <563>The Toraimarai Canal was named after the famed explorer and mage Torai-Marai.</563>
+            <564>The Toraimarai Canal underneath Windurst provides water to the Great Star Tree and is home to a wide variety of creatures.</564>
+            <565>With multiple levels and a number of dead-ends, venturing into the Toraimarai Canal often leads to certain death.</565>
+            <566>Ruins of an ancient civilization dot the Sarutabaruta area around Windurst.</566>
+            <567>In the mystical place known as Starfall Hillock in West Sarutabaruta, stars are said to fall from the heavens on cold nights.</567>
+            <568>Somn-Paemn, Milva, and Baehu-Faehu will sell items from Sarutabaruta when their country is in control of the region.</568>
+            <569>The Tavnazian Archipelago is a tiny island off the west coast of Quon which was once home to the proud nation of Tavnazia.</569>
+            <570>Before a devastating explosion during the Crystal War, the Tavnazian Archipelago was a peninsula connected with the mainland.</570>
+            <571>A small dragon can occasionally be seen swooping down and skimming across the Leremieu Lagoon in Lufaise Meadows.</571>
+            <572>Emaliveulaux, Deguerendars, and Alizabe will sell items from the Tavnazian Archipelago when their country is in control of the region.</572>
+            <573>Western Adoulin is the hub for adventurers who were afforded safe passage to assist in the city&apos;s long-term settlement project.</573>
+            <574>Western Adoulin serves as the home base for the Sacred City of Adoulin&apos;s pioneering plans and is the entranceway to the city.</574>
+            <575>Eastern Adoulin fans out from Castle Adoulin, as both the administrative center of the city and a residential haven for the nobility.</575>
+            <576>Spacious manses line the streets of Eastern Adoulin, and the aristocrats of Adoulin can be seen taking in the sights and sounds.</576>
+            <577>The Rala Waterways have various Sluice Gates that are accessible or locked depending upon the day and time.</577>
+            <578>The Rala Waterways are a gigantic expanse of interconnected underground straits spanning from east to west by means of the Big Bridge.</578>
+            <579>The two hundred year old Rala Waterways are a source of water for Adoulin, and home to all manner of unfriendly creatures.</579>
+            <580>Tibelda, Palguevion, and Alizabe will sell items from Valdeaunia when their country is in control of the region.</580>
+            <581>A boulder blocks occasionally passage inside Kuftal Tunnel, but opens at specific times based on moon phase.</581>
+            <582>Aulavia, Millechuca, and Lebondur will sell items from Vollbow when their country is in control of the region.</582>
+            <583>Aht Urhgan Whitegate features two ports, one facing the inland sea to the north and another facing the open sea to the south.</583>
+            <584>The Imperial Ward lies behind a colossal white wall that separates the district from Aht Urhgan Whitegate.</584>
+            <585>Records tell of six unfortunate fellows dying under very suspious circumstances in the Gusgen Mines.</585>
+            <586>Complete with a railway system for mine carts, the Gusgen Mines were heavily mined for many years but now remain abandoned.</586>
+            <587>The vast grasslands of Konschtat Highlands are situated just north of the Republic of Bastok.</587>
+            <588>In contrast to the surrounding Bastok Mountains, the Konschtat Highlands are abundant with an array of alpine wildlife.</588>
+            <589>Bastok constructed numerous windmills throughout the Konschtat Highlands to harness the powerful winds called &quot;Odin&apos;s Wrath&quot;.</589>
+            <590>According to a treaty, San d&apos;Oria provides a portion of their grain crops in exchange for the use of Bastok&apos;s windmills.</590>
+            <591>The grasslands that make up the La Theine Plateau are located high above the surrounding areas.</591>
+            <592>The La Theine Plateau was once known for the flocks of wild chocobos that dotted the meadows.</592>
+            <593>The La Theine Plateau is now overrun with giant sheep that are herded by the local Elvaan.</593>
+            <594>The La Theine Plateau is characterized by deep crevices that seem to tear apart the land; torrential rainfall is also common.</594>
+            <595>As a result of the heavy precipitation, rainbows can frequently be spotted while traveling through the La Theine Plateau.</595>
+            <596>The enormous expanse of the Valkurm Dunes can be found along the Bhefhel Gulf.</596>
+            <597>Rosswald, Phamelise, and Bin Stejihna will sell items from Zulkheim when their country is in control of the region.</597>
+            <598>Reisenjima is a remote and sacred island. It is the land of the gods in the Far East.</598>
+            <599>The Pioneers&apos; Coalition is led by maester Lhe Lhangavo of the Order of Kareiyh.</599>
+            <600>The Pioneers&apos; Coalition is tasked with cultivating the local territories of Ulbuka and gathering local resources.</600>
+            <601>The Pioneers&apos; Coalition offers items that help Pioneers gather through harvesting, excavation, logging, and mining.</601>
+            <602>The Peacekeepers&apos; Coalition is led by maester Gratzigg of the Order of Vocane.</602>
+            <603>The Peacekeepers&apos; Coalition is tasked with the security and defense of the city of Adoulin.</603>
+            <604>The Peacekeepers&apos; Coalition offers unique provisions, armor, and weapons that adventurers can purchase with Bayld.</604>
+            <605>The Couriers&apos; Coalition is led by maester Reginald of the Order of Shneddick.</605>
+            <606>The Couriers&apos; Coalition transports supplies to the front lines of the Ulbukan colonization effort.</606>
+            <607>The Scouts&apos; Coalition is led by maester Margret of the Order of Haverton.</607>
+            <608>The Scouts&apos; Coalitions&apos; primary task is gathering intelligence about the local terrain of Ulbuka.</608>
+            <609>The Scouts&apos; Coalitions&apos; secondary task is analyzing unknown materials to assist the colonization movement.</609>
+            <610>The Scouts&apos; Coalition offers area maps and various information that will assist pioneers in exploring the continent.</610>
+            <611>The Mummers&apos; Coalition is led by maester Flaviria of the Order of Thurandaut.</611>
+            <612>The Mummers&apos; Coalitions&apos; primary task is keeping spirits up through fun and entertainment.</612>
+            <613>The Mummers&apos; Coalition ensures adventurers&apos; morale remains high as they brave the harsh wilderness of Ulbuka.</613>
+            <614>The Mummers&apos; Coalition offers carnival-style games which allow players to accumulate Mummers&apos; Medals.</614>
+            <615>The Inventors&apos; Coalition is led by maester Amchuchu of the Order of Orvail.</615>
+            <616>The Inventors&apos; Coalition develops new tools and equipment to support pioneers and Ulbukan colonization.</616>
+            <617>The Inventors&apos; Coalition offers equipment and weapon augmentation, as well as tinctures to provide temporary bonuses.</617>
+            <618>Balasiel, in Southern San d&apos;Oria, will start the quest &quot;A Knight&apos;s Test&quot;, allowing you to become a Paladin.</618>
+            <619>Gumbah, in Bastok Mines, will start the quest &quot;Blade of Darkness&quot;, allowing you to become a Dark Knight.</619>
+            <620>Brutus, in Upper Jeuno, will start the quest &quot;Path of the Beastmaster&quot;, allowing you to become a Beastmaster.</620>
+            <621>Bki Tbujhja, in Lower Jeuno, will start the quest &quot;Path of the Bard&quot;, allowing you to become a Bard.</621>
+            <622>Perih Vashai, in Windurst Woods, will start the quest &quot;The Fanged One&quot;, allowing you to become a Ranger.</622>
+            <623>Jaucribaix, in Norg, will start the quest &quot;Forge Your Destiny&quot;, allowing you to become a Samurai.</623>
+            <624>Kaede, in Port Bastok, will start the quest &quot;Ayame and Kaede&quot;, allowing you to become a Ninja.</624>
+            <625>Ceraulian, in Port San d&apos;Oria, will start the quest &quot;The Holy Crest&quot;, allowing you to become a Dragoon.</625>
+            <626>The House of the Hero, in Windurst Walls, will start the quest &quot;I Can Hear a Rainbow&quot;, allowing you to become a Summoner.</626>
+            <627>Waoud, in Aht Urhgan Whitegate, will start the quest &quot;An Empty Vessel&quot;, allowing you to become a Blue Mage.</627>
+            <628>Ratihb, in Aht Urhgan Whitegate, will start the quest &quot;Luck of the Draw&quot;, allowing you to become a Corsair.</628>
+            <629>Shamarhaan, in Bastok Markets, will start the quest &quot;No Strings Attached&quot;, allowing you to become a Puppetmaster.</629>
+            <630>Laila, in Upper Jeuno, will start the quest &quot;Lakeside Minuet&quot;, allowing you to become a Dancer.</630>
+            <631>Erlene, in The Eldieme Necropolis [S], will start the quest &quot;A Little Knowledge&quot;, allowing you to become a Scholar.</631>
+            <632>Sylvie, in Western Adoulin, will start the quest &quot;Dances with Luopans&quot;, allowing you to become a Geomancer.</632>
+            <633>Octavien, in Eastern Adoulin, will start the quest &quot;Children of the Rune&quot;, allowing you to become a Rune Fencer.</633>
+            <634>The website bg-wiki.com is a Final Fantasy resource created and maintained by the player community.</634>
+            <635>The website ffxiah.com allows players to view in-game auction house information for all worlds.</635>
+            <636>The website ffxiclopedia.com is a wiki dedicated to collecting all information related to the game.</636>
+            <637>The tranquil waters of Purgonorgo Isle were once used by Tarutaru fisherfolk to farm vast quantities of shellfish and seaweed.</637>
+            <638>With the exception of Sarutabaruta in the south, the continent of Mindartia is mainly comprised of dry, rocky badlands.</638>
+            <639>Corn and popotoes are the staple food source of Windurst, with Dhalmel and Rarab kept as livestock.</639>
+            <640>The Federation of Windurst is the homeland of the Tarutaru, with the magical city of Windurst as its center of civilization.</640>
+            <641>The Windurstian government consists of a Parliament of Patriarchs, high-ranking members of the magic ministries, and the Star Sybil.</641>
+            <642>Windurst&apos;s Star Sybil performs &quot;Moon Readings&quot; annually in the Full Moon Fountain to predict the course of the next year.</642>
+            <643>Aubades are songs that enhance Sleep Resistance.</643>
+            <644>Ballads are songs that restore MP.</644>
+            <645>Carols are songs that increase Magic Evasion against specific elements.</645>
+            <646>Capriccios are songs that enhance Petrification Resistance.</646>
+            <647>Dirges are songs that give a flat reduction in Enmity.</647>
+            <648>Elegies are songs that reduce an enemies Attack Speed.</648>
+            <649>Etudes are songs that enhance base Stats.</649>
+            <650>Fantasias are songs that enhance Blind Resistance.</650>
+            <651>Finales are songs that remove beneficial buff effects from enemies, similar to Dispel.</651>
+            <652>Gavottes are songs that enhance Bind Resistance.</652>
+            <653>Hymnuses are songs that grant a Reraise effect.</653>
+            <654>Lullabies are songs that are a form of light-based sleep.</654>
+            <655>Madrigals are songs that enhance melee Accuracy.</655>
+            <656>Mambos are songs that enhance Evasion.</656>
+            <657>Marches are songs that increase melee Attack Speed and decrease Spell Recast Time.</657>
+            <658>Mazurkas are songs that enhance Movement Speed.</658>
+            <659>Minnes are songs that enhance Defense.</659>
+            <660>Minuets are songs that enhance Attack and Ranged Attack.</660>
+            <661>Nocturnes are songs that decrease an enemy&apos;s magic accuracy and increases its spellcasting time, similar to Addle.</661>
+            <662>Operettas are songs that enhance Silence Resistance.</662>
+            <663>Paeons are songs that restore HP, similar to Regen spells.</663>
+            <664>Pastorals are songs that enhance Poison Resistance.</664>
+            <665>Preludes are songs that enhance Ranged Accuracy.</665>
+            <666>Requiems are songs that bestow a light-based Damage Over Time effect upon an enemy.</666>
+            <667>Rounds are songs that enhance Curse Resistance.</667>
+            <668>Scherzos are songs that give a specific type of damage reduction.</668>
+            <669>Sirventes are songs which reduce Cumulative Enmity lost over time.</669>
+            <670>Threnodies are songs that reduce the resistance of enemies to particular elements.</670>
+            <671>Virelais are songs that Charm an enemy.</671>
+            <672>Divine Magic focuses on damaging and debilitating enemies with light elemental white magic spells.</672>
+            <673>Enfeebling Magic applies negative status effects to one or more enemy targets.</673>
+            <674>Enhancing Magic includes spells that enhance various attributes of the target.</674>
+            <675>Healing Magic includes restorative spells to heal and remove negative status effects from allies.</675>
+            <676>Dark Magic focuses on damaging or absorbing from an enemy to enhance the caster.</676>
+            <677>Elemental Magic focuses on causing magical damage to enemies.</677>
+            <678>Specializing in the arts of battle, Warriors can equip almost all of the types of weapons.</678>
+            <679>With bodies that double as deadly weapons, Monks attack enemies with explosive punches and kicks.</679>
+            <680>By using recovery spells and healing magic, White Mages ensure a party&apos;s survival.</680>
+            <681>Through devastating magic spells, Black Mages bring tremendous firepower to the battlefield.</681>
+            <682>As fighter-mages, Red Mages can can utilize both black and white magic, as well as the arts of the sword.</682>
+            <683>Specializing in covert actions, Thieves are masters in the art of controlling the flow of battle.</683>
+            <684>Through long hours of spiritual training, Paladins use white magic spells to protect their allies.</684>
+            <685>To strengthen themselves in battle, Dark Knights use black magic spells that torment their enemies.</685>
+            <686>Experts in monster research, Beastmasters are able to communicate with and control the animals of Vana&apos;diel.</686>
+            <687>With music as their weapons, Bards use songs to boost their allies and weaken their enemies.</687>
+            <688>Skilled with the bow and arrow, Rangers are experts in the field of hunting and tracking.</688>
+            <689>Through the study of Far Eastern martial arts techniques, Samurais have devoted their lives to the great katana.</689>
+            <690>Training in the forbidden arts of the Far East, Ninjas deal large amounts of damage with shurikens and spells.</690>
+            <691>With faithful wyverns by their sides, Dragoons surprise their enemies with their extraordinary jumping abilities.</691>
+            <692>By making pacts with the legendary Avatars, Summoners unleash devastating forbidden magic.</692>
+            <693>Using fell magic mastered from their opponents, Blue Mages decimate their enemies with elegantly curved blades.</693>
+            <694>Descendants of dauntless pirates, Corsairs rely on luck and a Hexagun to alter the stakes of battle.</694>
+            <695>Utilizing a customizable puppet &quot;automaton&quot;, Puppetmasters entertain crowds and confound their enemies.</695>
+            <696>With their aggressive steps, Dancers weave forbidden magic upon themselves and their enemies.</696>
+            <697>With extensive knowledge of ancient martial theory, Scholars wield dual schools of magic.</697>
+            <698>Harnessing the elemental powers of nature, Geomancers strengthen their allies and enervate their enemies.</698>
+            <699>Quick with a blade as well as an incantation, Rune Fencers employ arcane runes to sway the tide of battle.</699>
+            <700>Communication is good for doing events smoothly.</700>
+            <701>The Hall of the Gods houses one of the few monuments to the Twilight God Promathia that still stands today.</701>
+            <702>Valaineral R Davilles, the Grassblade Noble, is the first cousin to the current San d&apos;Orian king, Destin R D&apos;Oraguille.</702>
+            <703>Elivira Gogol, the Divine Markswoman, is an accomplished tactician and captain of the Gold Musketeers.</703>
+            <704>Haja Zhwan, the Roving Wildsword, is a descendant of the legendary High Matriarch Vhizeyah from Mithran folklore.</704>
+            <705>The Empire of Aht Urhgan officially adopted a neutral stance towards the Crystal War.</705>
+            <706>Azima, the Alchemical Arcanist, is the Bastokan area&apos;s most accomplished and dangerous bounty hunter.</706>
+            <707>Dalzakk, the Affable Wayfarer, is one of Bastok&apos;s greatest martial artists.</707>
+            <708>Choh Moui, the Venomous Verminess, is the inventor of multifarious foods designed to coax optimal performance out of pets.</708>
+            <709>The Three-dawn Scourge was a lethal sickness causing chain-link bruises and high-pitched fever in the victim.</709>
+            <710>In Rise of the Zilart, stop the Zilart from opening the Gate of the Gods, a portal that could destroy Vana&apos;diel.</710>
+            <711>In Chains of Promathia, confront &quot;The Emptiness&quot; and a prophecy tied to the god Promathia and a mysterious pale child.</711>
+            <712>In Treasures of Aht Urhgan, investigate the Empire&apos;s secrets, including the Astral Candescence and the Dark Rider.</712>
+            <713>In Wings of the Goddess, time-travel to the Crystal War and help ease suffering while others seek to alter history.</713>
+            <714>In Seekers of Adoulin, join the colonization of Ulbuka, facing fierce Naakuals and discovering the land&apos;s dark mysteries.</714>
+            <715>In A Crystalline Prophecy, a giant crystal appears, prompting a quest to uncover its secrets and a boy resembling Aldo.</715>
+            <716>In A Moogle Kupo d&apos;Etat, a rundown Mog House sparks a bizarre, nightmarish chain of events across mooglekind.</716>
+            <717>In A Shantotto Ascension, Shantotto&apos;s strange behavior and claim to rule prompt a quest to uncover the cause.</717>
+            <718>In Vision of Abyssea, new maws lead to Abyssea, a crumbling world with blood-red skies, hope, and looming destruction.</718>
+            <719>In Scars of Abyssea, adventurers explore deeper, finding riches and survivors defending Pulse Martellos from fell hordes.</719>
+            <720>In Heroes of Abyssea, adventurers join the Resistance, face savage hordes, and uncover Abyssea&apos;s darkest secrets.</720>
+            <721>In Rhapsodies of Vana&apos;diel, a vision of darkness and a mysterious &quot;student&quot; lead to a quest to prevent an impending apocalypse.</721>
+            <722>In The Voracious Resurgence, robed figures and legendary eggs reveal a dark conspiracy that threatens Vana&apos;diel&apos;s fabric.</722>
+            <723>FFXI has the series&apos; largest soundtrack, with nearly 200 tracks and over 11 hours of music across album releases.</723>
+            <724>FFXI was announced at the Japanese Square Millennium Event in 2000, along with the announcement for Final Fantasy X.</724>
+            <725>The idea for an MMO Final Fantasy came to Hironobu Sakaguchi after being impressed by the western MMORPG EverQuest.</725>
+            <726>FFXI initially released in Japan on May 16th, 2002 for the PS2.</726>
+            <727>FFXI released for PC in Japan on November 7th, 2002.</727>
+            <728>FFXI released for PC in the US and Canada on October 28th, 2003, and included Rise of the Zilart.</728>
+            <729>FFXI released for PS2 in the US and Canada on March 23rd, 2004, and included Rise of the Zilart.</729>
+            <730>FFXI released for PC in Europe and Australia on September 17th, 2004, and included Rise of the Zilart.</730>
+            <731>FFXI released for Xbox 360 in the US and Canada on April 18th, 2006, and included RotZ, CoP, and ToAU.</731>
+            <732>FFXI released for Xbox 360 in Japan on April 20th, 2006, and included RotZ, CoP, and ToAU.</732>
+            <733>FFXI released for Xbox 360 in Europe and Australia on April 21st, 2006, and included RotZ, CoP, and ToAU.</733>
+            <734>Rise of the Zilart release in Japan for PC and PS2 on April 17th, 2003.</734>
+            <735>Chains of Promathia released for PC and PS2 in Japan on September 16th, 2004.</735>
+            <736>Chains of Promathia released for PS2 in the US and Canada on September 21st, 2004.</736>
+            <737>Chains of Promathia released for PC in the US, Canada, Europe, and Australia on September 21st, 2004.</737>
+            <738>Treasure of Aht Urhgan released for PS2 and PC in the US and Canada on April 18th, 2006.</738>
+            <739>Treasure of Aht Urhgan released for PS2 and Xbox 360 in Japan on April 20th, 2006.</739>
+            <740>Wings of the Goddess released for PS2 and Xbox 360 in the US and Canada on November 20th, 2007.</740>
+            <741>Wings of the Goddess released for PC in the US and Canada on November 21st, 2007.</741>
+            <742>Wings of the Goddess released for PS2 and Xbox 360 in Japan on November 22nd, 2007.</742>
+            <743>Wings of the Goddess released for PC in Japan and Europe on November 22nd, 2007.</743>
+            <744>Wings of the Goddess released for PC and Xbox 360 in Australia on December 6th, 2007.</744>
+            <745>A Crystaline Prophecy released for PS2, PC, and Xbox 360 in the US and Canada on March 22nd, 2009.</745>
+            <746>A Crystaline Prophecy released for PS2 in Japan on March 23rd, 2009.</746>
+            <747>A Crystaline Prophecy released for PC and Xbox 360 in Japan, Europe, and Australia on March 23rd, 2009.</747>
+            <748>A Moogle Kupo d&apos;Etat released for PS2, PC, and Xb360 in the US and Canada on July 5th, 2009.</748>
+            <749>A Moogle Kupo d&apos;Etat released for PS2 in Japan on July 6th, 2009.</749>
+            <750>A Moogle Kupo d&apos;Etat released for PC and Xbox 360 in Japan, Europe, and Australia on July 6th, 2009.</750>
+            <751>A Shantotto Ascension released for PC and Xbox 360 in Europe and Australia on October 25th, 2009.</751>
+            <752>A Shantotto Ascension released for PS2, PC, and Xbox 360 in Japan, the US, and Canada on October 26th, 2009.</752>
+            <753>Vision of Abyssea released for PS2, PC, and Xbox 360 in Japan on June 6th, 2010.</753>
+            <754>Vision of Abyssea released for PS2, PC, and Xbox 360 in the US and Canada on June 7th, 2010.</754>
+            <755>Vision of Abyssea released for PC and Xbox 360 in Europe and Australia on June 8th, 2010.</755>
+            <756>Scars of Abyssea released for PS2 in the US and Canada on August 23rd, 2010.</756>
+            <757>Scars of Abyssea released for PC and Xbox 360 in the US, Canada, Europe, and Australia on August 23rd, 2010.</757>
+            <758>Scars of Abyssea released for PS2, PC, and Xbox 360 in Japan on August 24th, 2010.</758>
+            <759>Heroes of Abyssea released for PS2 in the US and Canada on November 23rd, 2010.</759>
+            <760>Heroes of Abyssea released for PC and Xbox 360 in the US, Canada, Europe, and Australia on November 23rd, 2010.</760>
+            <761>Heroes of Abyssea released for PS2, PC, and Xbox 360 in Japan on November 24th, 2010.</761>
+            <762>Seekers of Adoulin released for PC and Xbox 360 in the US and Canada on March 26th, 2013.</762>
+            <763>Seekers of Adoulin released for PS2 in Japan on March 27th, 2013.</763>
+            <764>Seekers of Adoulin released for PC and Xbox 360 in Japan, Europe, and Australia on March 27th, 2013.</764>
+            <765>FFXI released for Steam in the Europe, the US, Canada, and Japan on April 19th, 2013.</765>
+            <766>Rhapsodies of Vana&apos;diel was released in 3 parts, starting on May 14th, 2015, and finishing on November 10th, 2015.</766>
+            <767>Support for the PS2 and Xbox 360 version of FFXI ended on March 31st, 2016.</767>
+            <768>The Voracious Resurgence was released in 11 parts, starting on August 6th, 2020, and finishing on March 10th, 2023.</768>
+            <769>Rhapsodies of Vana&apos;diel was initially announced as the final main scenario, until The Voracious Resurgence in 2020.</769>
+            <770>Rhapsodies of Vana&apos;diel was the last content released prior the end of service for Xbox 360 and PS2 versions in March 2016.</770>
+            <771>The PS2 version of FFXI wasn&apos;t released in Europe, as the console&apos;s hard drive wasn&apos;t available in the region.</771>
+            <772>Chains of Promathia is the only expansion with no new jobs accompanying it&apos;s release.</772>
+            <773>Japan was the only region that received the Seekers of Adoulin expansion on PS2.</773>
+            <774>Avatars are the powerful beings and lesser deities in Vana&apos;diel, and can be encountered as both allies and enemies.</774>
+            <775>Avatars are heavily involved in shaping Vana&apos;diel, and often play an important role in the storylines of FFXI.</775>
+            <776>Celestial Avatars were once mortal creatures whose great acts of virtue moved Altana, elevating them to becoming an Avatar.</776>
+            <777>The Sleeping Gods, aka Celestial Avatars, reside within protocrystals hidden inside Elemental Cloisters across the world.</777>
+            <778>The Terrestrial Avatars are mighty beasts tasked with protecting the Mothercrystals.</778>
+            <779>The Sleeping God Ifrit is known as &quot;Avatar of Fire&quot;.</779>
+            <780>Ifrit was a fearsome general named Frit, who selflessly prayed to Altana for those he cared about.</780>
+            <781>The Sleeping God Shiva is known as &quot;Avatar of Ice&quot;.</781>
+            <782>Shiva was a young, wise, and competent ruler of a small kingdom situated in the south of Vana&apos;diel, loved by her people.</782>
+            <783>The Sleeping God Garuda is known as &quot;Avatar of Wind&quot;.</783>
+            <784>Garuda was a small bird raised by a young prince who sought out the aid of the King of Birds.</784>
+            <785>The Sleeping God Titan is known as &quot;Avatar of Earth&quot;.</785>
+            <786>Titan was a wrongly condemned member of a tribe of giants (the Titans) in conflict with a neighboring city.</786>
+            <787>The Sleeping God Ramuh is known as &quot;Avatar of Lightning&quot;.</787>
+            <788>Ramuh was a sage from a nation on the Buburimu Peninsula who helped his country to prosper and develop advanced technology.</788>
+            <789>The Sleeping God Leviathan is known as &quot;Avatar of Water&quot;.</789>
+            <790>Leviathan was a great sea serpent who used to terrorize the Gugru Sea in protest of the development of sea commerce.</790>
+            <791>The Sleeping God Alexander is known as &quot;The Colossus&quot;.</791>
+            <792>Alexander was defeated 900 years ago in Ragnarok, a battle between him and Odin.</792>
+            <793>The Sleeping God Odin is known as &quot;The Harbinger&quot;.</793>
+            <794>Odin was once a Sleeping God, but now roams free across Vana&apos;diel after the beastmen&apos;s attempts to harness his power.</794>
+            <795>The Terrestrial Avatar Bahamu is known as &quot;Conqueror of the Skies&quot;.</795>
+            <796>Bahamut made an ancient pact to protect the Mothercrystals and defeat the Keeper of the Apocalypse when the time came.</796>
+            <797>Bahamut is also known as the &quot;Wyrm King&quot; due to his control of the wyrms of Vana&apos;diel.</797>
+            <798>The Terrestrial Avatar Carbuncle is known as &quot;Bringer of Rainbows&quot;.</798>
+            <799>Carbuncle is the first Avatar that summoners form a pact with.</799>
+            <800>Carbuncle guides summoners through their mastery of summoning magic.</800>
+            <801>The Terrestrial Avatar Chaos is known as &quot;The Voracious Beast&quot;.</801>
+            <802>Rather than being associated with a standard constellation, Chaos has a hidden constellation of black stars.</802>
+            <803>The Terrestrial Avatar Diabolos is known as &quot;Ruler of Dreams&quot;.</803>
+            <804>Diabolos created the world of Dreamworld Dynamis to protect the enlightened races in the event of the apocalypse.</804>
+            <805>The Terrestrial Avatar Fenrir is known as &quot;Guardian of the Moon&quot;.</805>
+            <806>Fenrir brought growth and flourishing to the continent of Mindartia and the Federation of Windurst until the Crystal War.</806>
+            <807>The Terrestrial Avatar Phoenix is known as &quot;Fiery Bird of Resurrection&quot;.</807>
+            <808>While the body of Phoenix was destroyed many years ago, her flame burns strong in the Far East.</808>
+            <809>The remnants of the Phoenix&apos;s power were forged into a blade that guides the warriors of the Far East.</809>
+            <810>Phoenix can be resurrected once more should Altana ever demand contributions of the energies of all the other Avatars.</810>
+            <811>Atomos is the devourer of time and serves to indiscriminately return dispensable time to the void.</811>
+            <812>Altana created many Cait Siths to negate the timeline where the enlightened races are extinct after losing the Crystal War.</812>
+            <813>There were initially ten black Cait Siths and ten white Cait Siths.</813>
+            <814>The black Cait Siths eventually merge into a single entity, which is the one players can summon.</814>
+            <815>Siren is a mysterious Avatar with a strong connection to the Lifestream of Vana&apos;diel and the World Trees that mediate it.</815>
+            <816>Many eons ago, five Terrestrial Avatars fought an evil presence that attempted to envelop and suffocate our world.</816>
+            <817>At the dawn of time, the great crystal created two Supreme Beings: Promathia, god of darkness, and Altana, goddess of light.</817>
+            <818>Altana, the Dawn Goddess and creator of Vana&apos;diel, wept five tears down on the world and created of the five races.</818>
+            <819>Promathia, the Twilight God and Altana&apos;s dark counterpart, is faceless and bound by chains he reportedly forged himself.</819>
+            <820>Atomos consumes realities deemed unfit, depositing them in the &quot;Walk of Echoes.&quot;</820>
+            <821>Atomos holds characteristics similar to the Supreme Beings, Altana and Promathia.</821>
+            <822>Final Fantasy XI features music scored by Nobuo Uematsu, Kumi Tanioka, and Naoshi Mizuta.</822>
+            <823>The Star Onions have released two albums of arranged Final Fantasy XI tracks.</823>
+            <824>FFXI was almost titled simply &quot;Final Fantasy Online&quot; before being deemed worthy of being a numbered entry in the main series.</824>
+            <825>A closed FFXI beta test took place in Japan in August of 2001, with a public version following in December.</825>
+            <826>FFXI holds the most extensive soundtrack out of the series, with nearly 200 tracks totaling over 11 hours in listening time.</826>
+            <827>Defeating Pixies will slowly cause them to not help you at all, and eventually become aggressive.</827>
+            <828>The Humes built their city, the Republic of Bastok, in the wastes of Gustaberg.</828>
+            <829>Humes possess near-equal abilities in all fields, and are physically-basic compared to other races.</829>
+            <830>It is the Humes&apos; adaptability that has spread them throughout the lands, making them the most numerous of the five races.</830>
+            <831>Humes are said to suffer from the sin of Apathy.</831>
+            <832>The most imposing of all the races, the Galka possess towering, bulky physiques.</832>
+            <833>The Galkas&apos; home city was destroyed hundreds of years ago by the Anticans, making the Galkan people refugees.</833>
+            <834>Many Galka have settled in Bastok with the Humes; however, they are regarded as an underclass.</834>
+            <835>Galkas are unique from other races in that they are all male and reproduce through reincarnation.</835>
+            <836>Galka possess high Vitality and HP, but have the lowest MP of the five races.</836>
+            <837>Galka are said to suffer from the sin of Rage.</837>
+            <838>Native to the Kingdom of San d&apos;Oria, the Elvaan are characterized by their tall, slender figures and large, pointed ears.</838>
+            <839>Many Elvaan are deeply religious, possessing an unbreakable faith that is reflected in their everyday life.</839>
+            <840>Elvaan are blessed with high Strength and Mind; however, also possessing low Intelligence.</840>
+            <841>Elvaan are said to suffer from the sin of Arrogance.</841>
+            <842>The cat-like race of Mithras possess a gender imbalance, with a high ratio of females to males.</842>
+            <843>Only female Mithra are allowed away from the safety of their homeland to adventure around Vana&apos;diel.</843>
+            <844>Mithra possess excellent Agility and Dexterity, but lack Vitality and Charisma.</844>
+            <845>Mithras are said to suffer from the sin of Envy.</845>
+            <846>Residing in the Federation of Windurst, Tarutaru are famed for their discovery and development of magic.</846>
+            <847>Tarutaru excel at magic, thanks to their high Intelligence; however, they have the lowest Strength with their small physique.</847>
+            <848>Tarutaru are said to suffer from the sin of Cowardice.</848>
+            <849>FFXI takes place in the world of Vana&apos;diel, a diverse planet with regions ranging from blinding-hot deserts to ice-cold glaciers.</849>
+            <850>Ancient lore states that Vana&apos;diel was created as a playground for the Gods, who were spawned from an enormous, sentient Crystal.</850>
+            <851>Chemist, Necromancer, Songstress/Super Idol, and Hell Magician are jobs that exist in FFXI but are unavailable to the player.</851>
+            <852>Monberaux and Oshasha are the only klnown NPCs who are Chemists.</852>
+            <853>Ancolain, Fardimant, and Louartain are the only known NPCs who are Necromancers.</853>
+            <854>Mumor is the only known NPC who is a Songstress (aka Super Idol).</854>
+            <855>Gariri, Kayeel-Payeel, and Lutete are the only known NPCs who are Hell Magicians.</855>
+            <856>The name &apos;Schultz&quot; may refer to Gunther Schultz or Gunther Schultz II, both were famous tacticians.</856>
+            <857>Gunther Schultz was a military strategist who led Bastok to victory and co-authored the original school of martial theory.</857>
+            <858>Gunther Schultz II converted his father&apos;s work into a magical tome upon which the Scholar job is founded.</858>
+            <859>Humanoid Killer is a term for a Killer Effect that intimidates only Player Characters.</859>
+            <860>Killer Effects are a range of statuses, Job Traits, and circle abilities which convey an edge while fighting a specific Ecosystem.</860>
+            <861>Beasts prey on Lizards.</861>
+            <862>Lizards prey on Vermin.</862>
+            <863>Vermin prey on Plantoids.</863>
+            <864>Plantoids prey on Beasts.</864>
+            <865>Aquans prey on Amorphs.</865>
+            <866>Amorphs prey on Birds.</866>
+            <867>Birds prey on Aquans.</867>
+            <868>The Amorph Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Amorphs.</868>
+            <869>The Aquan Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Aquans.</869>
+            <870>The Arcana Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Arcana.</870>
+            <871>The Beast Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Beasts.</871>
+            <872>The Bird Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Birds.</872>
+            <873>The Demon Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Demons.</873>
+            <874>The Dragon Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Dragons.</874>
+            <875>The Lizard Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Lizards.</875>
+            <876>The Plantoid Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Plantoids.</876>
+            <877>The Undead Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Undead.</877>
+            <878>The Vermin Killer Job Trait will gain you a small amount of intimidation, damage taken and damage dealt bonus against Vermin.</878>
+            <879>The Beastmen Killer Job Trait is only available to a single NPC, Rongelouts N Distaud.</879>
+            <880>Similar Job Traits gained from both Main and Sub Job will not stack with eachother, only the higher tier will take effect.</880>
+            <881>Don&apos;t forget to spend your Sparks and Accolades before the Conquest reset on Sunday!</881>
+            <882>Save all your macros and settings on the Character Select screen to save yourself the headache of having to rewrite them later.</882>
+            <883>Did you remember to get your Moglophone, Mystical Canteen, or Ra&apos;Kaznar Plate today?</883>
+            <884>The `/blockaid on` command prevents players from outside of your alliance from acting upon you.</884>
+        </facts>
+        <flags>
+            <bold>false</bold>
+            <draggable>true</draggable>
+        </flags>
+        <options>
+            <after_zone_fade_delay>4</after_zone_fade_delay>
+            <fade_multiplier>2</fade_multiplier>
+            <random_number_buffer>50</random_number_buffer>
+        </options>
+        <pos>
+            <x>640</x>
+            <y>480</y>
+        </pos>
+        <text>
+            <alpha>255</alpha>
+            <font>Arial</font>
+            <size>12</size>
+        </text>
+    </global>
+</settings>
