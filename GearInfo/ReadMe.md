@@ -1,5 +1,5 @@
-# ** I am no longer supporting this addon **
-
+fix new animator error
+Aragan@Asura modifcation
 
 
 ![Gi logo](https://i.imgur.com/g0iJMJk.jpg# )
