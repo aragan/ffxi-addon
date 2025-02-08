@@ -1,0 +1,19 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <active>false</active>
+        <cast_type>spell</cast_type>
+        <debug>false</debug>
+        <delay>5</delay>
+        <frequency>30</frequency>
+        <max_dist>20</max_dist>
+        <max_hpp>98</max_hpp>
+        <min_dist>0.1</min_dist>
+        <min_hpp>5</min_hpp>
+        <mp>200</mp>
+        <single_spell>true</single_spell>
+        <spell>Stone</spell>
+        <tier>1</tier>
+        <verbose>false</verbose>
+    </global>
+</settings>
