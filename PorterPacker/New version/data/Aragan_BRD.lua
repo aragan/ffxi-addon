@@ -1,0 +1,15 @@
+return {
+    "Fili Calot +2",
+    "Inyanga Tiara +2",
+    "Fili Rhingrave +2",
+    "Xoanon",
+    "Aya. Cosciales +2",
+    "Bihu Cannions +3",
+    "Mummu Wrists +2",
+    "Hattori Kyahan +2",
+    "Hattori Tekko +2",
+    "Qutrub Knife",
+    "Bihu Slippers +3",
+    "Aya. Gambieras +2",
+    "Bihu Jstcorps. +3",
+}
