@@ -1,6 +1,6 @@
 _addon.name = 'help'
 _addon.author = 'unknow , Aragan@Asura'
-_addon.version = '1.0.0.5'
+_addon.version = '1.0.0.6'
 _addon.command = 'help'
 
 windower.register_event('incoming text',function(org)     
@@ -12,13 +12,13 @@ windower.register_event('incoming text',function(org)
 	
 	--Yegasumi
 	if string.find(org, "Yaegasumi") then
-		windower.send_command('input /p Yega! > Disengage! <call14>!')
+		--windower.send_command('input /p Yega! > Disengage! <call14>!')
 	end
 	
 	indexstart, indexend = string.find(org:lower(),"impish")
 	if indexstart then
        -- windower.send_command('input /p '..string.sub(org,1,indexstart)..' wore off! <call15>')
-	   windower.send_command('input /p '..string.sub(org,1,7)..' Got BOX!!!! <call15>')
+	   --windower.send_command('input /p '..string.sub(org,1,7)..' Got BOX!!!! <call15>')
     end
 	
 	--Bozetto Retributionist Ambu (horse + Dulahan)
@@ -36,11 +36,15 @@ windower.register_event('incoming text',function(org)
 	--if string.find(org, "begins charging up") then
 	--	windower.send_command('input /p Charging! > Keep Going! <call14>!')
 	--end
+	--[[if string.find(org, "Noahionto") then
+	    windower.send_command('input /p Noahionto Charging! > > Disengage! <call14>!')
+	end]]
 	
-	
+	--[[ 
 	if string.find(org, "Flaming Kick") or string.find(org, "Demonfire") then
 		windower.send_command('input /p NUKE! > Water Water Water! <call14>!')
 	end
+
 	if string.find(org, "Flashflood") or string.find(org, "Torrential Pain") then
 		windower.send_command('input /p NUKE! > Thunder Thunder Thunder! <call14>!')
 	end
@@ -56,7 +60,7 @@ windower.register_event('incoming text',function(org)
 	if string.find(org, "Blast of Reticence") then
 		windower.send_command('input /p NUKE! > Ice Ice Ice! <call14>!')
 	end
-	
+	]]
 	
 	--Sortie
 	indexstart, indexend = string.find(org,"treasure coffer status report")
