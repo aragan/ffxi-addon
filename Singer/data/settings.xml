@@ -73,4 +73,12 @@
         <timers>true</timers>
         <troubadour>true</troubadour>
     </global>
+    <aragan>
+        <box>
+            <pos>
+                <x>996</x>
+                <y>330</y>
+            </pos>
+        </box>
+    </aragan>
 </settings>

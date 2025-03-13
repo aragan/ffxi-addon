@@ -84,6 +84,14 @@
         <word_sets>
             <default>Albumen,Zerde</default>
         </word_sets>
-        <words>t3,Erinys,Ngai,Ongo,Xevioso,Mboze,Arebati,Kalunga,v15,v20,v25,Nyzul Isle,Teles,Albumen,Regal Belt,Vinipata,Volte Gloves,Crepuscular Cloak,Zerde,ýâý,Schah,Volte Tights,Nyzul</words>
+        <words>v15,Teles,Erinys,Volte Tights,Nyzul Isle,Regal Belt,Vinipata,Schah,Volte Jupon,Zerde,ýâý,Crepuscular Cloak,Nyzul,Albumen</words>
     </global>
+    <aragan>
+        <text>
+            <pos>
+                <x>1326</x>
+                <y>311</y>
+            </pos>
+        </text>
+    </aragan>
 </settings>

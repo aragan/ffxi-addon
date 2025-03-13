@@ -1,0 +1,14 @@
+Extract this folder to you Addons folder in Windower. When in game type //lua l Trove-HUD
+After loading this addon, a random chest is chosen
+
+After opening, use the command:
+//trove next
+to choose your next chest.
+
+then use:
+//trove reset
+to start over again
+
+I recommend these macros:
+/con trove reset
+/con trove next
