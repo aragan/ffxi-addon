@@ -1,7 +1,6 @@
 -- Author: Aragan (Asura) 
 
-support Donate
-https://www.paypal.com/donate/?business=8RV3QKCFU3PNQ&no_recurring=0&currency_code=USD
+
 
 Addon need it all time: dparty-partybuffs-DistancePlus-distance-Debuffed-GearSwap-enemybar2-GearInfo-equipviewer-itemizer-partyhints-rolltracker-Silence-Skillchains-TParty-organizer-instaLS-Furrow-AutoUNM-AutoRA-AutoWS-autoSC-autoMB-chatfilter-autoAssist-AuctionHelper-attack-ROLLER or AutoCOR-checkparam-finalAlert-Omen-parse-Quetz-React-Repeater-SellNPC-Sparks-Synergy-temps-TradeNPC-TreasurePool-Treasury-Voidwatch-SirPopaLot-TARGETBAR-whereisdi-ZenimonSnap-VoidWalker-Voidwatch-trust-thtracker-QuestLog-PorterPacker-Pouches-NyzulHelper-NyzulBuddy-maga-Leave-latentchecker-itemizer-instaLS-Gaze_check-findAll-fisher-FastCS-escutcheons-Eneresist-EmpyPopTracker-ATA=callouts-cancel-autoNukes-AutoItem-anchor-shortcuts             
 
@@ -34,3 +33,6 @@ pup need addon autocontrol  -- auto Maneuver
 
 NOTE: keyboard buttons bind use
 //listbinds    .. to show command keys
+
+support Donate
+https://www.paypal.com/donate/?business=8RV3QKCFU3PNQ&no_recurring=0&currency_code=USD
