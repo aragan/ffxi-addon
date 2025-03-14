@@ -11,7 +11,7 @@
                 <red>0</red>
             </bg>
             <pos>
-                <x>700</x>
+                <x>900</x>
                 <y>0</y>
             </pos>
             <text>
@@ -35,7 +35,7 @@
                 <visible>true</visible>
             </bg>
             <pos>
-                <x>250</x>
+                <x>450</x>
                 <y>0</y>
             </pos>
             <text>
