@@ -15,21 +15,21 @@
         </bag_priority>
         <default_file>default.lua</default_file>
         <dump_bags>
-            <Sack>5</Sack>
-            <Case>6</Case>
-            <Satchel>4</Satchel>
-            <Locker>3</Locker>
-            <Safe>1</Safe>
-            <Safe2>2</Safe2>
+            <Sack>2</Sack>
+            <Case>3</Case>
+            <Satchel>1</Satchel>
+            <Locker>6</Locker>
+            <Safe>4</Safe>
+            <Safe2>5</Safe2>
         </dump_bags>
         <ignore>
         </ignore>
-        <item_delay>0</item_delay>
+        <item_delay>0.8</item_delay>
         <retain>
-            <items>false</items>
-            <moogle_slip_gear>true</moogle_slip_gear>
+            <items>true</items>
+            <moogle_slip_gear>false</moogle_slip_gear>
             <seals>false</seals>
-            <slips>true</slips>
+            <slips>false</slips>
         </retain>
         <verbose>true</verbose>
     </global>

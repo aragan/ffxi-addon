@@ -77,7 +77,7 @@ _valid_pull = {}
 _valid_dump = {}
 
 default_settings = {
-    dump_bags = {['Safe']=1,['Safe2']=2,['Locker']=3,['Storage']=4},
+    dump_bags = {['Safe']=1,['Safe2']=2,['Locker']=3,['Satchel']=5,['Sack']=6,['Case']=7},
     bag_priority = {['Safe']=1,['Safe2']=2,['Locker']=3,['Storage']=4,['Satchel']=5,['Sack']=6,['Case']=7,['Inventory']=8,['Wardrobe']=9,['Wardrobe2']=10,['Wardrobe3']=11,['Wardrobe4']=12,['Wardrobe5']=13,['Wardrobe6']=14,['Wardrobe7']=15,['Wardrobe8']=16},
     item_delay = 0,
     ignore = {},

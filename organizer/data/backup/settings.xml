@@ -1,0 +1,66 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <auto_heal>false</auto_heal>
+        <bag_priority>
+            <Case>7</Case>
+            <Inventory>8</Inventory>
+            <Locker>3</Locker>
+            <Sack>6</Sack>
+            <Safe>1</Safe>
+            <Safe2>2</Safe2>
+            <Satchel>5</Satchel>
+            <Storage>4</Storage>
+            <Wardrobe>9</Wardrobe>
+        </bag_priority>
+        <default_file>default.lua</default_file>
+        <dump_bags>
+            <Locker>3</Locker>
+            <Safe>1</Safe>
+            <Safe2>2</Safe2>
+            <Storage>4</Storage>
+        </dump_bags>
+        <ignore>
+        </ignore>
+        <item_delay>0</item_delay>
+        <retain>
+            <items>true</items>
+"Gyudon",
+item="Reraiser",
+item="Hi-Reraiser",
+item="Vile Elixir",
+item="Vile Elixir +1",
+item="Miso Ramen",
+item="Carbonara",
+item="Silent Oil",
+item="Salt Ramen",
+item="Panacea",
+item="Toolbag (Shika)",
+item="Sublime Sushi",
+item="Sublime Sushi 1+",
+item="Prism Powder",
+item="Antacid",
+item="Icarus Wing",
+sub="Warp Cudgel",
+item="Holy Water",
+item="Sanjaku-Tenugui",
+item="Shinobi-Tabi",
+item="Shihei",
+item="Remedy",
+head="Wh. Rarab Cap +1",
+ring="Emporox's Ring",
+item="Abdhaljs Seal",
+item="Red Curry Bun",
+item="Instant Reraise",
+item="Black Curry Bun",
+item="Rolan. Daifuku",
+sub="Qutrub Knife",
+sub="Wind Knife +1",
+ear="Reraise Earring",
+            <moogle_slip_gear>false</moogle_slip_gear>
+            <seals>false</seals>
+            <slips>false</slips>
+        </retain>
+        <verbose>true</verbose>
+    </global>
+</settings>

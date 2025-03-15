@@ -1,14 +1,558 @@
-Organizer loaded at Sun Jan 22 01:45:53 2023
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding inventory to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding satchel to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding sack to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding safe to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding wardrobe to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding storage to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding locker to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding safe2 to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding case to the pull list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding storage to the push list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding locker to the push list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding safe to the push list
-2023-01-22 01:45:53| Organizer [VERBOSE] Adding safe2 to the push list
+Organizer loaded at Sat Mar 15 18:30:47 2025
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding inventory to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding satchel to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding sack to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding safe to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding wardrobe to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding storage to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding locker to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding safe2 to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding case to the pull list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding satchel to the push list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding safe2 to the push list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding safe to the push list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding locker to the push list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding sack to the push list
+2025-03-15 18:30:47| Organizer [VERBOSE] Adding case to the push list
+2025-03-15 18:30:47| Organizer [VERBOSE] Moogle slip gear set to retain
+2025-03-15 18:30:48| Organizer [VERBOSE] Slips set to retain
+2025-03-15 18:30:56| Organizer [MSG] Starting...
+2025-03-15 18:30:56| Organizer [VERBOSE] Getting!
+2025-03-15 18:30:56| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 18:30:56| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 18:30:56| Organizer [WARN] Cannot move the item (Merlinic Shalwar). It has already been moved.
+2025-03-15 18:30:56| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 18:30:56| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 18:30:56| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 18:30:56| Organizer [WARN] Cannot move the item (Merlinic Shalwar). It has already been moved.
+2025-03-15 18:30:56| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 18:30:56| Organizer [MSG] Done! - 60 items matched and 0 items missing!
+2025-03-15 18:31:27| Organizer [MSG] Starting...
+2025-03-15 18:31:27| Organizer [VERBOSE] Getting!
+2025-03-15 18:31:27| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [WARN] Cannot move the item (Merlinic Shalwar). It has already been moved.
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 18:31:27| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [WARN] Cannot move the item (Merlinic Shalwar). It has already been moved.
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 18:31:27| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 18:31:27| Organizer [MSG] Done! - 60 items matched and 0 items missing!
+2025-03-15 18:57:33| Organizer [MSG] Starting...
+2025-03-15 18:57:33| Organizer [VERBOSE] Getting!
+2025-03-15 18:57:33| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 18:58:06| Organizer [MSG] Starting...
+2025-03-15 18:58:06| Organizer [VERBOSE] Getting!
+2025-03-15 18:58:06| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 19:56:20| Organizer [MSG] Starting...
+2025-03-15 19:56:20| Organizer [VERBOSE] Getting!
+2025-03-15 19:56:20| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 20:14:06| Organizer [MSG] Starting...
+2025-03-15 20:14:06| Organizer [VERBOSE] Getting!
+2025-03-15 20:14:06| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 20:28:20| Organizer [MSG] Starting...
+2025-03-15 20:28:20| Organizer [VERBOSE] Getting!
+2025-03-15 20:28:20| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 20:57:52| Organizer [MSG] Starting...
+2025-03-15 20:57:52| Organizer [VERBOSE] Getting!
+2025-03-15 20:57:52| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 21:05:33| Organizer [MSG] Starting...
+2025-03-15 21:05:33| Organizer [VERBOSE] Getting!
+2025-03-15 21:05:33| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2025-03-15 22:14:02| Organizer [MSG] Starting...
+2025-03-15 22:14:02| Organizer [VERBOSE] Getting!
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Hirudinea Earring) from Inventory 37 to Locker 40)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Sanctity Necklace) from Inventory 36 to Locker 41)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Rumination Sash) from Inventory 35 to Locker 42)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Merlinic Shalwar) from Inventory 34 to Locker 43)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Src. Stole +2) from Inventory 33 to Locker 44)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Barkaro. Earring) from Inventory 32 to Locker 45)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Forbidden Key) from Inventory 31 to Locker 46)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Mephitas's Ring) from Inventory 30 to Locker 47)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Inspirited Boots) from Inventory 29 to Locker 48)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Merlinic Dastanas) from Inventory 28 to Locker 49)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Gazu Bracelets +1) from Inventory 27 to Locker 50)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Befouled Crown) from Inventory 26 to Locker 51)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Merlinic Hood) from Inventory 25 to Locker 52)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Grape Daifuku) from Inventory 24 to Locker 53)
+2025-03-15 22:14:02| Organizer [VERBOSE] Moving item! (Moogle Amp.) from Inventory 23 to Locker 54)
+2025-03-15 22:14:02| Organizer [VERBOSE] Remainder: 5 Current: 22
+2025-03-15 22:14:02| Organizer [VERBOSE] Getting!
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:14:02| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:14:02| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:02| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 22:14:02| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:14:02| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 22:14:02| Organizer [MSG] Done! - 41 items matched and 5 items missing!
+2025-03-15 22:14:02| Organizer [VERBOSE] Item Missing: skulk. earring +1 
+2025-03-15 22:14:02| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:14:02| Organizer [VERBOSE] Item Missing: lustr. subligar +1 {"Accuracy+20", "DEX+8", "Crit. hit rate+3%"}
+2025-03-15 22:14:02| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:14:02| Organizer [VERBOSE] Item Missing: c. palug stone 
+2025-03-15 22:14:04| Organizer [MSG] Starting...
+2025-03-15 22:14:04| Organizer [VERBOSE] Getting!
+2025-03-15 22:14:04| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:04| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:14:04| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:04| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:04| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:14:04| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:04| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:04| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:14:04| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:04| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:14:04| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:14:04| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:14:05| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:14:05| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:05| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 22:14:05| Organizer [VERBOSE] Remainder: 5 Current: 22
+2025-03-15 22:14:05| Organizer [VERBOSE] Getting!
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:05| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:14:05| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:05| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:14:05| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:14:05| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:14:05| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:14:05| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:14:05| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:14:05| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:14:05| Organizer [WARN] Unable to move item.
+2025-03-15 22:14:05| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 22:14:05| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Acad. Gown +1) because it is set to be retained (moogle slip)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:14:05| Organizer [VERBOSE] Skipping item: (Acad. Mortar. +2) because it is set to be retained (moogle slip)
+2025-03-15 22:14:05| Organizer [MSG] Done! - 41 items matched and 5 items missing!
+2025-03-15 22:14:05| Organizer [VERBOSE] Item Missing: skulk. earring +1 
+2025-03-15 22:14:05| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:14:05| Organizer [VERBOSE] Item Missing: lustr. subligar +1 {"Accuracy+20", "DEX+8", "Crit. hit rate+3%"}
+2025-03-15 22:14:05| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:14:05| Organizer [VERBOSE] Item Missing: c. palug stone 
+2025-03-15 22:19:00| Organizer [MSG] Starting...
+2025-03-15 22:19:00| Organizer [VERBOSE] Getting!
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Remainder: 5 Current: 20
+2025-03-15 22:19:00| Organizer [VERBOSE] Getting!
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:19:00| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:19:00| Organizer [WARN] Unable to move item.
+2025-03-15 22:19:00| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:19:00| Organizer [MSG] Done! - 41 items matched and 5 items missing!
+2025-03-15 22:19:00| Organizer [VERBOSE] Item Missing: skulk. earring +1 
+2025-03-15 22:19:00| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:19:00| Organizer [VERBOSE] Item Missing: lustr. subligar +1 {"Accuracy+20", "DEX+8", "Crit. hit rate+3%"}
+2025-03-15 22:19:00| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:19:00| Organizer [VERBOSE] Item Missing: c. palug stone 
+2025-03-15 22:22:41| Organizer [MSG] Starting...
+2025-03-15 22:22:41| Organizer [VERBOSE] Getting!
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Remainder: 5 Current: 20
+2025-03-15 22:22:41| Organizer [VERBOSE] Getting!
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:22:41| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:22:41| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:41| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:22:41| Organizer [MSG] Done! - 41 items matched and 5 items missing!
+2025-03-15 22:22:41| Organizer [VERBOSE] Item Missing: skulk. earring +1 
+2025-03-15 22:22:41| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:22:41| Organizer [VERBOSE] Item Missing: lustr. subligar +1 {"Accuracy+20", "DEX+8", "Crit. hit rate+3%"}
+2025-03-15 22:22:41| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:22:41| Organizer [VERBOSE] Item Missing: c. palug stone 
+2025-03-15 22:22:55| Organizer [MSG] Starting...
+2025-03-15 22:22:55| Organizer [VERBOSE] Getting!
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Remainder: 5 Current: 20
+2025-03-15 22:22:55| Organizer [VERBOSE] Getting!
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:22:55| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:22:55| Organizer [WARN] Unable to move item.
+2025-03-15 22:22:55| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:22:55| Organizer [MSG] Done! - 41 items matched and 5 items missing!
+2025-03-15 22:22:55| Organizer [VERBOSE] Item Missing: skulk. earring +1 
+2025-03-15 22:22:55| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:22:55| Organizer [VERBOSE] Item Missing: lustr. subligar +1 {"Accuracy+20", "DEX+8", "Crit. hit rate+3%"}
+2025-03-15 22:22:55| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:22:55| Organizer [VERBOSE] Item Missing: c. palug stone 
+2025-03-15 22:26:20| Organizer [MSG] Starting...
+2025-03-15 22:26:20| Organizer [VERBOSE] Getting!
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Remainder: 5 Current: 20
+2025-03-15 22:26:20| Organizer [VERBOSE] Getting!
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:26:20| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:26:20| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:20| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:26:20| Organizer [MSG] Done! - 41 items matched and 5 items missing!
+2025-03-15 22:26:20| Organizer [VERBOSE] Item Missing: skulk. earring +1 
+2025-03-15 22:26:20| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:26:20| Organizer [VERBOSE] Item Missing: lustr. subligar +1 {"Accuracy+20", "DEX+8", "Crit. hit rate+3%"}
+2025-03-15 22:26:20| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:26:20| Organizer [VERBOSE] Item Missing: c. palug stone 
+2025-03-15 22:26:57| Organizer [MSG] Starting...
+2025-03-15 22:26:57| Organizer [VERBOSE] Getting!
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Remainder: 5 Current: 20
+2025-03-15 22:26:57| Organizer [VERBOSE] Getting!
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Skulk. Earring +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:26:57| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:26:57| Organizer [WARN] Unable to move item.
+2025-03-15 22:26:57| Organizer [VERBOSE] Got 0 item(s), and failed getting 5 item(s)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:26:57| Organizer [MSG] Done! - 41 items matched and 5 items missing!
+2025-03-15 22:26:57| Organizer [VERBOSE] Item Missing: skulk. earring +1 
+2025-03-15 22:26:57| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:26:57| Organizer [VERBOSE] Item Missing: lustr. subligar +1 
+2025-03-15 22:26:57| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:26:57| Organizer [VERBOSE] Item Missing: c. palug stone 
+2025-03-15 22:28:26| Organizer [MSG] Starting...
+2025-03-15 22:28:26| Organizer [VERBOSE] Getting!
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Got 0 item(s), and failed getting 4 item(s)
+2025-03-15 22:28:26| Organizer [WARN] Cannot move the item (Skulk. Earring +1). It has already been moved.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Remainder: 4 Current: 21
+2025-03-15 22:28:26| Organizer [VERBOSE] Getting!
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Turms Mittens +1) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 8 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Lustr. Subligar +1) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 16 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Beryllium Arrow) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 28 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (C. Palug Stone) - can not be pushed to Inventory) 
+2025-03-15 22:28:26| Organizer [WARN] Initial movement of the route failed. (1 32 false 0)
+2025-03-15 22:28:26| Organizer [WARN] Unable to move item.
+2025-03-15 22:28:26| Organizer [VERBOSE] Got 0 item(s), and failed getting 4 item(s)
+2025-03-15 22:28:26| Organizer [WARN] Cannot move the item (Skulk. Earring +1). It has already been moved.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-15 22:28:26| Organizer [WARN] Cannot move the item (Skulk. Earring +1). It has already been moved.
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-15 22:28:26| Organizer [MSG] Done! - 42 items matched and 4 items missing!
+2025-03-15 22:28:26| Organizer [VERBOSE] Item Missing: turms mittens +1 
+2025-03-15 22:28:26| Organizer [VERBOSE] Item Missing: lustr. subligar +1 
+2025-03-15 22:28:26| Organizer [VERBOSE] Item Missing: beryllium arrow 
+2025-03-15 22:28:26| Organizer [VERBOSE] Item Missing: c. palug stone 
