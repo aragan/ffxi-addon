@@ -72,7 +72,7 @@ local auto_translate_param = {
 windower.register_event('load', function()
     defaults = {
         wait = {
-            ['immanence_wait'] = 2,
+            ['immanence_wait'] = 1.5,
             ['skillchain_wait'] = 4,
             ['skillchain_wait_helix'] = 5,
             ['mb_wait'] = 4,
@@ -125,7 +125,11 @@ function parse_param(cmd)
         elseif sc == 'dark' or sc == 'd' then
             param.sc = 'dark'
         elseif sc == 'fire2' or sc == 'f2' then
-            param.sc = 'fire2'
+            param.sc = 'fire2'        
+        elseif sc == 'fire3' or sc == 'f3' then
+            param.sc = 'fire3'       
+        elseif sc == '6step' or sc == '6s' then
+            param.sc = '6step'
         elseif sc == 'blizzard2' or sc == 'b2' then
             param.sc = 'blizzard2'
             param.sc_wait = settings.wait.skillchain_wait_helix
@@ -223,13 +227,13 @@ function set_magic_tier(spell, magic_tier)
     if magic_tier == '1' then
         spell = spell
     elseif magic_tier == '2' then 
-        spell = spell..'II'
-    elseif magic_tier == '3' then 
-        spell = spell..'III'
+        spell = spell..' II'
+    elseif magic_tier == ' 3' then 
+        spell = spell..' III'
     elseif magic_tier == '4' then 
-        spell = spell..'IV'
+        spell = spell..' IV'
     elseif magic_tier == '5' then 
-        spell = spell..'V'
+        spell = spell..' V'
     end
 
     return spell
@@ -313,7 +317,7 @@ function get_auto_translate_char_squence(lang, phrase)
         at_lang = 0x02
     end
 
-    local phrase_id = res.auto_translates:with().id
+    local phrase_id = res.auto_translates:with(lang, phrase).id
 
     if phrase_id then
         local phrase_id_upper = bit.band(bit.rshift(phrase_id, 8), 0xFF)
@@ -327,20 +331,20 @@ function open_skillchain_message(sc, target)
     local sc_msg = get_auto_translate_char_squence(at_param.lang, skillchain[sc]['at']['sc_name'])
     local start_msg = get_auto_translate_char_squence('ja', '連携準備オッケー！')
 
-    return ''
+    return 'input /party Opening:'.. sc_msg..start_msg..'-> <'..target..'> <call20>;'
 end
 
 function close_skillchain_message(sc, target)
     local sc_msg = get_auto_translate_char_squence(at_param.lang, skillchain[sc]['at']['sc_name'])
     local end_msg = get_auto_translate_char_squence('ja', '全力で攻撃だ！')
 
-    local msg = ''
+    local msg = 'input /party Closing:'..sc_msg..'MB:'
 
     for i, v in ipairs(skillchain[sc]['at']['sc_ele']) do
-        msg = msg
+        msg = msg..get_auto_translate_char_squence(at_param.lang, v)
     end
 
-    msg = ''
+    msg = msg..end_msg..'-> <'..target..'>;'
 
     return msg
 end
