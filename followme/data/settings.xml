@@ -1,0 +1,19 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <actions>true</actions>
+        <assist>
+            <attack>false</attack>
+            <distance>0,2</distance>
+            <enabled>false</enabled>
+            <name />
+            <pursue>true</pursue>
+        </assist>
+        <follow>
+            <distance>3,5</distance>
+            <enabled>true</enabled>
+            <name />
+        </follow>
+        <nolockon>true</nolockon>
+    </global>
+</settings>
