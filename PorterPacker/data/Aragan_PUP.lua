@@ -1,5 +1,7 @@
 return {
-    "Karagoz Scarpe +2",
+    "Kara. Cappello +2",
+    "Kara. Farsetto +2",
+    "Kara. Pantaloni +2",
     "Caduceus",
     "Puppetry Taj","Puppetry Taj +1","Puppetry Taj +2","Foire Taj","Foire Taj +1","Foire Taj +2","Foire Taj +3",
 "Puppetry Tobe","Puppetry Tobe +1","Puppetry Tobe +2","Foire Tobe","Foire Tobe +1","Foire Tobe +2","Foire Tobe +3",

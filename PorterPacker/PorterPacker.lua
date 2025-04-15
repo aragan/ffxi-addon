@@ -99,7 +99,7 @@ local function put_away_items(items, bags)
 				end
 			end
 		end
-	if moving then coroutine.sleep(1)end
+	if moving then coroutine.sleep(0)end
 	t1 = t1 + 1 
 	end
 	return count
@@ -396,7 +396,7 @@ local function continuous_porter()
 					-- move items to bag
 					if space_available(0) ~= 0 then
 						retrieve_items(items, equippable_bags)
-						coroutine.sleep(2)
+						coroutine.sleep(0)
 					end
 					for slip_id2, items2 in pairs(find_porter_items({0})) do
 						if #items2 > 1 and items2[1].id == slip_id2 then
@@ -419,19 +419,19 @@ local function continuous_porter()
 					for slip_id2, items2 in pairs(Satchel_Slip_table) do
 						if items2[1].id == slip_id then
 							put_away_items({[slip_id]=true}, {5})
-							coroutine.sleep(1)
+							coroutine.sleep(0)
 						end
 					end
 					for slip_id2, items2 in pairs(Sack_Slip_table) do
 						if items2[1].id == slip_id then
 							put_away_items({[slip_id]=true}, {6})
-							coroutine.sleep(1)
+							coroutine.sleep(0)
 						end
 					end
 					for slip_id2, items2 in pairs(Case_Slip_table) do
 						if items2[1].id == slip_id then
 							put_away_items({[slip_id]=true}, {7})
-							coroutine.sleep(1)
+							coroutine.sleep(0)
 						end
 					end
 				elseif #items > 2 and i == 1 then
@@ -465,7 +465,7 @@ local function continuous_porter()
 							
 							local slip_item = find_item(slips.default_storages, slip_id, 1)
 							retrieve_items({[1]=slip_item}, equippable_bags)
-							coroutine.sleep(1)
+							coroutine.sleep(0)
 							slip_item = find_item({slips.default_storages[1]}, slip_id, 1)
 							
 							if slip_item then
@@ -488,19 +488,19 @@ local function continuous_porter()
 				for slip_id2, items2 in pairs(Satchel_Slip_table) do
 					if items2[1].id == slip_id then
 						put_away_items({[slip_id]=true}, {5})
-						coroutine.sleep(1)
+						coroutine.sleep(0)
 					end
 				end
 				for slip_id2, items2 in pairs(Sack_Slip_table) do
 					if items2[1].id == slip_id then
 						put_away_items({[slip_id]=true}, {6})
-						coroutine.sleep(1)
+						coroutine.sleep(0)
 					end
 				end
 				for slip_id2, items2 in pairs(Case_Slip_table) do
 					if items2[1].id == slip_id and find_item({slips.default_storages[1]}, slip_id, 1) then
 						put_away_items({[slip_id]=true}, {7})
-						coroutine.sleep(1)
+						coroutine.sleep(0)
 					end
 				end
 			end
@@ -516,16 +516,16 @@ local function continuous_porter()
 				end
 			end
 			if space_available(0) <3 then
-				coroutine.sleep(1)
+				coroutine.sleep(0)
 				put_away_items(original_retrive, bag_priority)
-				coroutine.sleep(1)
+				coroutine.sleep(0)
 			end
 			i = i +1
 		end
 	end
-	coroutine.sleep(1)
+	coroutine.sleep(0)
 	put_away_items(original_retrive, bag_priority)
-	coroutine.sleep(1)
+	coroutine.sleep(0)
 	retrieve = {}
 end
 

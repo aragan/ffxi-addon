@@ -27,7 +27,7 @@ return {
 "Unkai Domaru","Unkai Domaru +1","Unkai Domaru +2","Kasuga Domaru","Kasuga Domaru +1","Kasuga Domaru +2","Kasuga Domaru +3",
 "Unkai Kote","Unkai Kote +1","Unkai Kote +2","Kasuga Kote","Kasuga Kote +1","Kasuga Kote +2","Kasuga Kote +3",
 "Unkai Haidate","Unkai Haidate +1","Unkai Haidate +2","Kasuga Haidate","Kasuga Haidate +1","Kasuga Haidate +2","Kasuga Haidate +3",
-"Unkai Sune-Ate","Unkai Sune-Ate +1","Unkai Sune-Ate +2","Kasuga Sune-Ate","Kasuga Sune-Ate +1","Kasuga Sune-Ate +2","Kasuga Sune-Ate +3",
+"Unkai Sune-Ate","Unkai Sune-Ate +1","Unkai Sune-Ate +2","Kasuga Sune-Ate","Kasuga Sune-Ate +1","Kasuga Sune-Ate +2","Kasuga Sune-Ate +3","Kas. Sune-Ate +3",
 "Flamma Zucchetto","Flamma Zucchetto +1","Flamma Zucchetto +2",
 "Flamma Korazin","Flamma Korazin +1","Flamma Korazin +2",
 "Flamma Manopolas","Flamma Manopolas +1","Flamma Manopolas +2",

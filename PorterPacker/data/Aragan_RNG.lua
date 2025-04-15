@@ -19,7 +19,7 @@ return {
 "Meghanada Cuirie","Meghanada Cuirie +1","Meghanada Cuirie +2",
 "Meghanada Gloves","Meghanada Gloves +1","Meghanada Gloves +2",
 "Meghanada Chausses","Meghanada Chausses +1","Meghanada Chausses +2",
-"Meghanada Jambeaux","Meghanada Jambeaux +1","Meghanada Jambeaux +2",
+"Meghanada Jambeaux","Meghanada Jambeaux +1","Meghanada Jambeaux +2","Meg. Jambeaux +2",
 "Meghanada Ring",
 "Mummu Bonnet","Mummu Bonnet +1","Mummu Bonnet +2",
 "Mummu Jacket","Mummu Jacket +1","Mummu Jacket +2",

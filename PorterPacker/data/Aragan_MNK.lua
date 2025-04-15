@@ -1,4 +1,5 @@
 return {
+    "Profane Staff",
     "Sha Wujing's La. +1",
     "Caduceus",
     "Xoanon",

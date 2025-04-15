@@ -1,6 +1,5 @@
 return {
-    "Caduceus",
-    "Geomancy Pants +2",
+    "Caduceus","Geo. Tunic +3","Geo. Mitaines +3","Geo. Sandals +3",
     "Geomancy Galero","Geomancy Galero +1","Geomancy Galero +2","Geomancy Galero +3",
 "Geomancy Tunic","Geomancy Tunic +1","Geomancy Tunic +2","Geomancy Tunic +3",
 "Geomancy Mitaines","Geomancy Mitaines +1","Geomancy Mitaines +2","Geomancy Mitaines +3",

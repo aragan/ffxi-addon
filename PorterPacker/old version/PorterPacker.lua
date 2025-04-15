@@ -9,8 +9,10 @@ require('logger')
 bit = require('bit')
 slips = require('slips')
 res = require('resources')
-
-local equippable_bags = {[0]='Inventory',[8]='Wardrobe',[10]='Wardrobe2',[11]='Wardrobe3',[12]='Wardrobe4'}
+--modified by (Aragan@Asura) add all bags
+local equippable_bags = {[0]='Inventory',[8]='Wardrobe',[10]='Wardrobe2',[11]='Wardrobe3',[12]='Wardrobe4',
+[5]='satchel',[6]='sack',[7]='case',[13]='Wardrobe5',[14]='Wardrobe6',[15]='Wardrobe7',[16]='Wardrobe8',
+}
 local storing_items = false
 local retrieve = {}
 local store = {}

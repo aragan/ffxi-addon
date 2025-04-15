@@ -1,11 +1,8 @@
 return {
-    "Agoge Calligae +3",
-    "Agoge Lorica +3",
     "Caduceus",
     "Sha Wujing's La. +1",
-    "Agoge Mufflers +3",
-    "Agoge Cuisses +3",
     "Qutrub Knife",
+    "Profane Staff",
     "Fighter's Mask","Fighter's Mask +1","Fighter's Mask +2","Pummeler's Mask","Pummeler's Mask +1","Pummeler's Mask +2","Pummeler's Mask +3",
 "Fighter's Lorica","Fighter's Lorica +1","Fighter's Lorica +2","Pummeler's Lorica","Pummeler's Lorica +1","Pummeler's Lorica +2","Pummeler's Lorica +3",
 "Fighter's Mufflers","Fighter's Mufflers +1","Fighter's Mufflers +2","Pumm. Mufflers","Pumm. Mufflers +1","Pumm. Mufflers +2","Pumm. Mufflers +3",
