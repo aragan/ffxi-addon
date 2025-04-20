@@ -1,4 +1,8 @@
-return {"Rep. Plat. Medal",
+return {
+    "Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
+    "Rep. Plat. Medal",
 "Oshasha's Treatise",
     "Caduceus",
     "Plun. Armlets +3",

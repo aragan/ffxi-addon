@@ -1,4 +1,6 @@
-return {
+return {"Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
 "Sibyl Scarf",
 "Plat. Mog. Belt",
 "Rep. Plat. Medal",

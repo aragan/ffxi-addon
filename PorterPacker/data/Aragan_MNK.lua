@@ -1,4 +1,9 @@
-return { "Zanmato +1",
+return { 
+
+"Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
+"Zanmato +1",
 "Sibyl Scarf",
 "Plat. Mog. Belt",
 "Rep. Plat. Medal",

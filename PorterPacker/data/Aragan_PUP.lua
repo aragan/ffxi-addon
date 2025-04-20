@@ -1,4 +1,6 @@
-return {
+return {"Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
     "Per. Lucky Egg",
     "Kara. Cappello +2",
     "Kara. Farsetto +2",

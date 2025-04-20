@@ -1,4 +1,6 @@
-return {    
+return {    "Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
     "Twilight Cloak",
     "Twilight Cape",
     "Per. Lucky Egg",

@@ -1,4 +1,8 @@
-return {  "Zanmato +1",
+return {  
+    "Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
+    "Zanmato +1",
 "Per. Lucky Egg",
     "Caduceus",
     "Sha Wujing's La. +1",

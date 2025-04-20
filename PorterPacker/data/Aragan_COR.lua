@@ -1,4 +1,8 @@
-return {"Per. Lucky Egg",
+return {
+"Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
+"Per. Lucky Egg",
 "Chass. Tricorne +2",
 "Caduceus",
 "Corsair's Tricorne","Corsair's Tricorne +1","Corsair's Tricorne +2","Laksamana's Hat","Laksamana's Hat +1","Laksamana's Hat +2","Laksamana's Hat +3",

@@ -1,4 +1,8 @@
-return {"Twilight Cloak",
+return {
+"Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",    
+"Twilight Cloak",
 "Naji's Loop",
 "Per. Lucky Egg",
     "Caduceus",

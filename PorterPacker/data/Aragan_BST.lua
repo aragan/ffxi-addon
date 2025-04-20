@@ -1,5 +1,7 @@
 return {
-    
+    "Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
     "Rep. Plat. Medal",
     "Per. Lucky Egg",
     "Nukumi Manoplas +2",

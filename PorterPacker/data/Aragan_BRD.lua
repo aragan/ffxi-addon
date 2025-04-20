@@ -1,4 +1,8 @@
-return {"Rep. Plat. Medal",
+return {
+    "Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
+    "Rep. Plat. Medal",
 "Per. Lucky Egg",
     "Xoanon",
     "Aya. Cosciales +2",

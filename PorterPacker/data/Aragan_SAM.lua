@@ -1,5 +1,8 @@
-return {"Per. Lucky Egg",
-
+return {
+    "Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
+    "Per. Lucky Egg",
     "Kasuga Kabuto +2",
     "Kas. Sune-Ate +3",
     "Kasuga Domaru +2",

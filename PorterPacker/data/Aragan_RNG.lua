@@ -1,4 +1,8 @@
-return {"Per. Lucky Egg",
+return {
+"Goldsm. Torque",
+"Goldsmith's Ring",
+"Goldsmith's Smock",
+"Per. Lucky Egg",
 "Rep. Plat. Medal",
 "Caduceus",
 "Hunter's Beret","Hunter's Beret +1","Hunter's Beret +2","Orion Beret","Orion Beret +1","Orion Beret +2","Orion Beret +3",
