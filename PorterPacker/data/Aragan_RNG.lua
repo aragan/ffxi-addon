@@ -1,6 +1,7 @@
-return {
-    "Caduceus",
-    "Hunter's Beret","Hunter's Beret +1","Hunter's Beret +2","Orion Beret","Orion Beret +1","Orion Beret +2","Orion Beret +3",
+return {"Per. Lucky Egg",
+"Rep. Plat. Medal",
+"Caduceus",
+"Hunter's Beret","Hunter's Beret +1","Hunter's Beret +2","Orion Beret","Orion Beret +1","Orion Beret +2","Orion Beret +3",
 "Hunter's Jerkin","Hunter's Jerkin +1","Hunter's Jerkin +2","Orion Jerkin","Orion Jerkin +1","Orion Jerkin +2","Orion Jerkin +3",
 "Hunter's Bracers","Hunter's Bracers +1","Hunter's Bracers +2","Orion Bracers","Orion Bracers +1","Orion Bracers +2","Orion Bracers +3",
 "Hunter's Braccae","Hunter's Braccae +1","Hunter's Braccae +2","Orion Braccae","Orion Braccae +1","Orion Braccae +2","Orion Braccae +3",

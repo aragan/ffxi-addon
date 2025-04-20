@@ -1,4 +1,9 @@
-return {
+return {"Sibyl Scarf",
+"Plat. Mog. Belt",
+"Rep. Plat. Medal",
+"Naji's Loop",
+"Per. Lucky Egg",
+    "Twilight Cloak",
     "Cornelia's Belt",
     "Caduceus",
     "Xoanon",

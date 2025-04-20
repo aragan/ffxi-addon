@@ -1,4 +1,5 @@
-return {
+return {"Rep. Plat. Medal",
+"Oshasha's Treatise",
     "Caduceus",
     "Plun. Armlets +3",
     "Skulker's Bonnet +2",

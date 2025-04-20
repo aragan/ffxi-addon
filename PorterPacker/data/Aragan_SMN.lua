@@ -1,4 +1,6 @@
-return {
+return {"Twilight Cloak",
+"Naji's Loop",
+"Per. Lucky Egg",
     "Caduceus",
     "Evoker's Horn","Evoker's Horn +1","Evoker's Horn +2","Convoker's Horn","Convoker's Horn +1","Convoker's Horn +2","Convoker's Horn +3",
 "Evoker's Doublet","Evoker's Doublet +1","Evoker's Doublet +2","Convoker's Doublet","Convoker's Doublet +1","Convoker's Doublet +2","Convoker's Doublet +3","Con. Doublet +3",

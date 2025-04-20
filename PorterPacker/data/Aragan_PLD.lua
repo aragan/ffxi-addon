@@ -1,4 +1,8 @@
 return {
+    "Rep. Plat. Medal",
+    "Oshasha's Treatise",
+    "Naji's Loop",
+    "Per. Lucky Egg",
     "Caduceus",
     "Enif Cosciales",
     "Gallant Coronet","Gallant Coronet +1","Gallant Coronet +2","Reverence Coronet","Reverence Coronet +1","Reverence Coronet +2","Reverence Coronet +3",

@@ -1,4 +1,9 @@
 return {
+"Sibyl Scarf",
+"Plat. Mog. Belt",
+"Rep. Plat. Medal",
+"Per. Lucky Egg",
+"Oshasha's Treatise",
     "Caduceus",
     "Assim. Shalwar +3",
     "Assim. Jubbah +3",

@@ -1,5 +1,5 @@
 return {
-
+"Per. Lucky Egg",
     "Caduceus",
     "Rune. Trousers +3",
     "Regis",

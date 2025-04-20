@@ -1,5 +1,9 @@
 return {
-    "Arch. Coat",
+    "Twilight Cloak",
+    "Twilight Cape",
+    "Oshasha's Treatise",
+    "Naji's Loop",
+    "Per. Lucky Egg",
     "Caduceus",
     "Wicce Gloves +2",
     "Cornelia's Belt",

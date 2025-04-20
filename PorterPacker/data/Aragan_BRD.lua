@@ -1,4 +1,5 @@
-return {
+return {"Rep. Plat. Medal",
+"Per. Lucky Egg",
     "Xoanon",
     "Aya. Cosciales +2",
     "Bihu Cannions +3",

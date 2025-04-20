@@ -1,6 +1,12 @@
-return {
-    "Caduceus","Geo. Tunic +3","Geo. Mitaines +3","Geo. Sandals +3",
-    "Geomancy Galero","Geomancy Galero +1","Geomancy Galero +2","Geomancy Galero +3",
+return {    
+"Twilight Cloak",
+"Twilight Cape",
+"Oshasha's Treatise",
+"Rep. Plat. Medal",
+"Naji's Loop",
+"Per. Lucky Egg",
+"Caduceus","Geo. Tunic +3","Geo. Mitaines +3","Geo. Sandals +3",
+"Geomancy Galero","Geomancy Galero +1","Geomancy Galero +2","Geomancy Galero +3",
 "Geomancy Tunic","Geomancy Tunic +1","Geomancy Tunic +2","Geomancy Tunic +3",
 "Geomancy Mitaines","Geomancy Mitaines +1","Geomancy Mitaines +2","Geomancy Mitaines +3",
 "Geomancy Pants","Geomancy Pants +1","Geomancy Pants +2","Geomancy Pants +3",

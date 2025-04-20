@@ -1,4 +1,9 @@
 return {
+    "Twilight Cloak",
+    "Twilight Cape",
+    "Oshasha's Treatise",
+    "Naji's Loop",
+    "Per. Lucky Egg",
     "Theo. Duckbills +3",
     "Inyanga Tiara +2",
     "Caduceus",

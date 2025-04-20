@@ -1,7 +1,9 @@
-return {
-
-    "Heath. Burgeon. +2",
-    "Chaos Burgeonet","Chaos Burgeonet +1","Chaos Burgeonet +2","Ignominy Burgeonet","Ignominy Burgeonet +1","Ignominy Burgeonet +2","Ignominy Burgeonet +3",
+return {    
+"Twilight Cloak",
+"Rep. Plat. Medal",
+"Per. Lucky Egg",
+"Heath. Burgeon. +2",
+"Chaos Burgeonet","Chaos Burgeonet +1","Chaos Burgeonet +2","Ignominy Burgeonet","Ignominy Burgeonet +1","Ignominy Burgeonet +2","Ignominy Burgeonet +3",
 "Chaos Cuirass","Chaos Cuirass +1","Chaos Cuirass +2","Ignominy Cuirass","Ignominy Cuirass +1","Ignominy Cuirass +2","Ignominy Cuirass +3",
 "Chaos Gauntlets","Chaos Gauntlets +1","Chaos Gauntlets +2","Ignominy Gauntlets","Ignominy Gauntlets +1","Ignominy Gauntlets +2","Ignominy Gauntlets +3",
 "Chaos Flanchard","Chaos Flanchard +1","Chaos Flanchard +2","Ignominy Flanchard","Ignominy Flanchard +1","Ignominy Flanchard +2","Ignominy Flanchard +3",

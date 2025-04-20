@@ -1,4 +1,7 @@
-return {
+return {    
+    "Twilight Cloak",
+    "Twilight Cape",
+    "Per. Lucky Egg",
     "Leth. Chappel +2",
     "Leth. Ganth. +2",
     "Caduceus",

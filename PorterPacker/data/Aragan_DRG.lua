@@ -1,4 +1,5 @@
-return {
+return {    
+    "Per. Lucky Egg",
     "Caduceus",
     "Pelt. Plackart +3",
     "Pel. Vambraces +2",

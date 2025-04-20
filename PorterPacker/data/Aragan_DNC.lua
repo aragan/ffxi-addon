@@ -1,4 +1,8 @@
 return {
+    "Sibyl Scarf",
+"Plat. Mog. Belt",
+"Rep. Plat. Medal",
+"Per. Lucky Egg",
     "Horos Toe Shoes +3",
     "Caduceus",
     "Macu. Toe Sh. +2",

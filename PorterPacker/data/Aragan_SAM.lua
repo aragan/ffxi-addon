@@ -1,4 +1,5 @@
-return {
+return {"Per. Lucky Egg",
+
     "Kasuga Kabuto +2",
     "Kas. Sune-Ate +3",
     "Kasuga Domaru +2",

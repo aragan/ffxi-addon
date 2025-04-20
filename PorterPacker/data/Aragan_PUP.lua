@@ -1,4 +1,5 @@
 return {
+    "Per. Lucky Egg",
     "Kara. Cappello +2",
     "Kara. Farsetto +2",
     "Kara. Pantaloni +2",

@@ -1,4 +1,4 @@
-return {
+return {"Per. Lucky Egg",
 "Chass. Tricorne +2",
 "Caduceus",
 "Corsair's Tricorne","Corsair's Tricorne +1","Corsair's Tricorne +2","Laksamana's Hat","Laksamana's Hat +1","Laksamana's Hat +2","Laksamana's Hat +3",
@@ -21,7 +21,7 @@ return {
 "Meghanada Cuirie","Meghanada Cuirie +1","Meg. Cuirie +2",
 "Meghanada Gloves","Meghanada Gloves +1","Meg. Gloves +2",
 "Meghanada Chausses","Meghanada Chausses +1","Meg. Chausses +2",
-"Meghanada Jambeaux","Meghanada Jambeaux +1","Meg. Jambeaux +2","Meg. Jambeaux +2",
+"Meghanada Jambeaux","Meghanada Jambeaux +1","Meghanada Jambeaux +2","Meg. Jambeaux +2","Meg. Jambeaux +2",
 "Meghanada Ring",
 "Mummu Bonnet","Mummu Bonnet +1","Mummu Bonnet +2",
 "Mummu Jacket","Mummu Jacket +1","Mummu Jacket +2",

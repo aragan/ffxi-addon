@@ -1,4 +1,5 @@
-return {
+return {  "Zanmato +1",
+"Per. Lucky Egg",
     "Caduceus",
     "Sha Wujing's La. +1",
     "Qutrub Knife",

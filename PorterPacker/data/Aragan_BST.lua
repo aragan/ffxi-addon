@@ -1,4 +1,7 @@
 return {
+    
+    "Rep. Plat. Medal",
+    "Per. Lucky Egg",
     "Nukumi Manoplas +2",
     "Caduceus",
     "Tot. Jackcoat +3",
