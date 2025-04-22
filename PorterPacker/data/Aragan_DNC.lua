@@ -1,6 +1,7 @@
 return {"Goldsm. Torque",
 "Goldsmith's Ring",
-"Goldsmith's Smock",
+"Goldsmith's Smock","Shaded Specs.",    
+
     "Sibyl Scarf",
 "Plat. Mog. Belt",
 "Rep. Plat. Medal",

@@ -1,4 +1,5 @@
-return {  "Goldsm. Torque",
+return {  "Goldsm. Torque","Shaded Specs.",    
+
 "Goldsmith's Ring",
 "Goldsmith's Smock",  
     "Per. Lucky Egg",

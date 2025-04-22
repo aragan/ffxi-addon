@@ -1,9 +1,11 @@
-return {
+return {"Shaded Specs.",    
     "Goldsm. Torque",
 "Goldsmith's Ring",
 "Goldsmith's Smock",
     "Rep. Plat. Medal",
 "Oshasha's Treatise",
+"Sibyl Scarf",
+"Plat. Mog. Belt",
     "Caduceus",
     "Plun. Armlets +3",
     "Skulker's Bonnet +2",
