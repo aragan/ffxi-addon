@@ -5,6 +5,7 @@ bff_sets = {};
 -- DEFINE YOUR SETS HERE, SECOND SONG GETS MARCATO (SO WE DONT OVWRITE IT WITH PIANISSIMO)
 -- EVERY SET NAME MUST BE LOWERCASE
 bff_sets.haste = {'Valor Minuet IV', 'Honor March', 'Blade Madrigal', 'Valor Minuet V',  "Victory March"}
+bff_sets.haste4 = {'Valor Minuet IV', 'Honor March', 'Valor Minuet V',  "Victory March"}
 bff_sets.aria = {'Valor Minuet IV', 'Honor March',  "Aria of Passion", 'Valor Minuet V', 'Blade Madrigal'}
 bff_sets.sherzo = {'Valor Minuet IV', 'Honor March', "Sentinel's Scherzo", 'Valor Minuet V', 'Blade Madrigal'}
 bff_sets.haste2acc = {'Valor Minuet IV', 'Honor March', 'Blade Madrigal', 'Valor Minuet V', "Sword Madrigal"}
@@ -20,11 +21,15 @@ bff_sets.sortie4 = {'Blade Madrigal', 'Honor March', "Valor Minuet IV", "Valor M
 bff_sets.ody = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
 bff_sets.ody4 = {'Blade Madrigal', 'Honor March', "Valor Minuet IV", "Valor Minuet V"}
 bff_sets.ambuscade = {'Blade Madrigal', 'Honor March', 'Valor Minuet III', "Valor Minuet IV", "Valor Minuet V"}
-bff_sets.ambuscade4 = {'Blade Madrigal', 'Honor March',  "Valor Minuet IV", "Valor Minuet V"}
+bff_sets.ambuscade4 = {'Blade Madrigal', 'Honor March',  "Victory March", "Valor Minuet V"}
+bff_sets.shinryu = {'Blade Madrigal', 'Honor March',  'Valor Minuet V', 'Dark Carol', 'Herculean Etude'}
+bff_sets.shinryu4 = {'Blade Madrigal', 'Honor March',  'Valor Minuet V', 'Dark Carol'}
 
 bff_sets.ph = {"Adventurer's Dirge","Warding Round","Puppet's Operetta","Goddess's Hymnus","Shining Fantasia"}
 --Odyssey V25 ADD BY Author: Aragan (Asura)
-bff_sets.mboze = {'Valor Minuet III', 'Honor March', 'Blade Madrigal', 'Valor Minuet IV', 'Valor Minuet V'}
+bff_sets.mboze2 = {'Sentinel\'s Scherzo', 'Honor March', 'Blade Madrigal', 'Valor Minuet IV', 'Valor Minuet V'}
+bff_sets.mboze = {'Sentinel\'s Scherzo', 'Honor March', 'Earth Carol II', 'Valor Minuet IV', 'Valor Minuet V'}
+
 --[[MBOZE PLAN BRD: SV Honor March, Minuet x4. HM/Minnes/Ballads for PLD and WHM. 
 WHM will not be taking much damage at all here, 
 but it was easier for us to apply the Ballads to both PLD and WHM at the same time. Savage Blade. ]]
@@ -63,8 +68,8 @@ bff_pianissimo_sets.refresh = {"Mage's Ballad III"}
 
 --PLACEHOLDER FOR BUFFING
 
-bff_ph_song = {}
-bff_ph_songs = {}
+bff_ph_song = {"Army's Paeon","Shining Fantasia","Herb Pastoral"}
+bff_ph_songs = {"Army's Paeon","Shining Fantasia","Herb Pastoral"}
 bff_ph_cc_song = "" --Clarion Call song
 
 -- END OF CUSTOM STUFF

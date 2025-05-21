@@ -9,22 +9,12 @@
 
                {{{{{{{secret addon AutoBuffBard}}}}}}}}}
 
-			   
-	---------------------------------------                        ---------------------------------------  
-	--        A T T E N T I O N          --                        --      P L E A S E     R E A D      --
-	---------------------------------------                        ---------------------------------------  
-
 Listen carefully, it is unnatural, it is supernatural, it is advanced and superior to everyone, 
 and they are primitive without it, it has been hidden for a period of time, it is difficult to reach it, 
 it is smooth like water, it is solid like a mountain, it is light like the wind, it is burning like fire.. 
 it was made for a long period of time, it came out of the power of darkness, only the light.. 
 u cannot be defeated, and it is in your hands, the power is with you.
 
-
-	---------------------------------------                        ---------------------------------------  
-	--        A T T E N T I O N          --                        --      P L E A S E     R E A D      --
-	---------------------------------------                        ---------------------------------------  
-	
                {{{{{{{secret addon AutoBuffBard}}}}}}}}} 
 
 NOTE: only this addon can save songs name.
@@ -64,7 +54,7 @@ local original_logic = false
 local abf_pianissimo_players = {}
 
 local slow_recast = "5";
-local nitro_reacst = "4";
+local nitro_reacst = "5";
 
 require 'abb_sets'
 
@@ -168,7 +158,7 @@ function do_buff(cmd, nonitro)
 		local ph_songs = bff_ph_songs
 		local ph_songs_todo = true
 		for _,entry in pairs(bff_sets[cmd]) do
-			if int == 2 and windower.ffxi.get_ability_recasts()[48]== 0 then
+			if int == 1 and windower.ffxi.get_ability_recasts()[48]== 0 then
 				buffstring = buffstring..'input /ja "Marcato" <me>;wait 1;'
 			end
 
@@ -178,8 +168,8 @@ function do_buff(cmd, nonitro)
 						buffstring = buffstring..'input /ma "'..ph_song..'" <me>;wait 5;'
 					end
 					if (hasbuff(499) or abf_fake_cc) then
-						buffstring = 'input /ja "clarion call" <me>;wait 1; input /ja "Soul Voice" <me>;wait 1;'..buffstring		
-		
+						buffstring = 'input /ja "clarion call" <me>;wait 1; input /ja "Soul Voice" <me>;wait 1;'..buffstring
+								
 					end
 					ph_songs_todo = false
 				end

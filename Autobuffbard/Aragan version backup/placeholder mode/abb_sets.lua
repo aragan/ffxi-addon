@@ -64,7 +64,7 @@ bff_pianissimo_sets.refresh = {"Mage's Ballad III"}
 --PLACEHOLDER FOR BUFFING
 
 bff_ph_song = {"Army's Paeon","Shining Fantasia"}
-bff_ph_songs = {}
+bff_ph_songs = {"Army's Paeon","Shining Fantasia"}
 bff_ph_cc_song = "" --Clarion Call song
 
 -- END OF CUSTOM STUFF
